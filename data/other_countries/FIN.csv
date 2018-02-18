@@ -1,0 +1,1194 @@
+Country,League,Season,Date,Time,Home,Away,HG,AG,Res,PH,PD,PA,MaxH,MaxD,MaxA,AvgH,AvgD,AvgA
+Finland,Veikkausliiga,2012,15/04/12,16:30,HJK,Mariehamn,3,1,H,1.4,4.79,9.77,1.4,4.79,10,1.35,4.47,8.46
+Finland,Veikkausliiga,2012,15/04/12,16:30,Honka,VPS,1,1,D,1.76,3.67,5.42,1.9,3.67,5.42,1.8,3.38,4.4
+Finland,Veikkausliiga,2012,15/04/12,16:30,KuPS,JJK Jyvaskyla,2,2,D,2.35,3.53,3.12,2.5,3.53,3.17,2.35,3.26,2.87
+Finland,Veikkausliiga,2012,15/04/12,16:30,Lahti,Haka,1,0,H,2.41,3.21,3.37,2.5,3.3,3.37,2.37,3.16,2.92
+Finland,Veikkausliiga,2012,15/04/12,16:30,TPS,MyPa,0,1,A,1.64,3.89,6.34,1.65,4.25,7,1.54,3.75,6.18
+Finland,Veikkausliiga,2012,18/04/12,16:30,Lahti,Honka,2,1,H,3.44,3.55,2.21,3.5,3.55,2.25,3.26,3.28,2.15
+Finland,Veikkausliiga,2012,19/04/12,16:30,JJK Jyvaskyla,Haka,1,4,A,1.88,3.62,4.63,1.91,3.7,5,1.78,3.49,4.41
+Finland,Veikkausliiga,2012,19/04/12,16:30,Mariehamn,KuPS,1,1,D,2.19,3.61,3.41,2.29,3.61,3.5,2.15,3.33,3.2
+Finland,Veikkausliiga,2012,19/04/12,16:30,MyPa,Jaro,2,0,H,2.29,3.57,3.24,2.4,3.57,3.25,2.23,3.3,3.04
+Finland,Veikkausliiga,2012,19/04/12,16:30,TPS,HJK,3,1,H,3.93,3.62,2.02,3.93,3.62,2.2,3.48,3.36,2.03
+Finland,Veikkausliiga,2012,19/04/12,16:30,VPS,Inter Turku,0,2,A,3.2,3.46,2.36,3.37,3.46,2.4,3,3.24,2.29
+Finland,Veikkausliiga,2012,22/04/12,16:30,Haka,Mariehamn,0,2,A,2.42,3.33,3.21,2.45,3.33,3.21,2.33,3.19,2.96
+Finland,Veikkausliiga,2012,22/04/12,16:30,Honka,JJK Jyvaskyla,0,2,A,1.8,4.07,4.47,1.95,4.07,4.47,1.84,3.57,3.95
+Finland,Veikkausliiga,2012,22/04/12,16:30,Inter Turku,MyPa,2,0,H,1.58,4.13,6.63,1.58,4.3,7.25,1.49,3.98,6.38
+Finland,Veikkausliiga,2012,22/04/12,16:30,KuPS,TPS,1,1,D,2.9,3.34,2.63,2.9,3.4,2.63,2.73,3.22,2.47
+Finland,Veikkausliiga,2012,22/04/12,16:30,VPS,Lahti,2,1,H,2.44,3.05,3.47,2.45,3.4,3.75,2.24,3.11,3.24
+Finland,Veikkausliiga,2012,23/04/12,16:30,HJK,Jaro,4,1,H,1.31,5.51,12.16,1.35,5.65,12.24,1.29,5.04,9.9
+Finland,Veikkausliiga,2012,29/04/12,16:30,Jaro,KuPS,1,0,H,2.4,3.63,3.01,2.54,3.63,3.01,2.43,3.24,2.79
+Finland,Veikkausliiga,2012,29/04/12,16:30,Lahti,Inter Turku,0,5,A,4.47,3.58,1.92,4.47,3.58,2,3.88,3.35,1.91
+Finland,Veikkausliiga,2012,29/04/12,16:30,Mariehamn,Honka,0,0,D,2.34,3.55,3.16,2.45,3.55,3.16,2.35,3.29,2.88
+Finland,Veikkausliiga,2012,29/04/12,16:30,MyPa,HJK,1,0,H,5.34,3.68,1.76,5.75,3.85,1.79,5.06,3.59,1.67
+Finland,Veikkausliiga,2012,29/04/12,16:30,TPS,Haka,2,0,H,1.75,3.75,5.38,1.77,4,6,1.67,3.64,5
+Finland,Veikkausliiga,2012,30/04/12,16:30,JJK Jyvaskyla,VPS,0,2,A,1.88,3.7,4.44,1.91,3.78,4.44,1.86,3.48,3.97
+Finland,Veikkausliiga,2012,02/05/12,16:30,Jaro,Inter Turku,0,1,A,4.41,3.74,1.88,4.41,3.84,1.9,4.02,3.52,1.84
+Finland,Veikkausliiga,2012,02/05/12,16:30,KuPS,HJK,0,3,A,4.76,3.89,1.79,4.76,3.89,1.91,4.01,3.52,1.82
+Finland,Veikkausliiga,2012,05/05/12,16:30,Haka,Jaro,4,1,H,2.73,3.36,2.78,2.73,3.37,3.05,2.46,3.21,2.79
+Finland,Veikkausliiga,2012,05/05/12,16:30,Honka,TPS,0,2,A,2.5,3.38,3.03,2.54,3.4,3.03,2.43,3.2,2.81
+Finland,Veikkausliiga,2012,05/05/12,16:30,JJK Jyvaskyla,Lahti,2,1,H,1.63,4.08,6.15,1.73,4.08,6.15,1.64,3.71,4.98
+Finland,Veikkausliiga,2012,05/05/12,16:30,KuPS,MyPa,1,2,A,2.16,3.32,3.82,2.16,3.4,3.85,2.04,3.27,3.52
+Finland,Veikkausliiga,2012,05/05/12,16:30,VPS,Mariehamn,1,2,A,2.18,3.26,3.81,2.29,3.35,3.81,2.17,3.2,3.25
+Finland,Veikkausliiga,2012,06/05/12,12:00,HJK,Inter Turku,2,1,H,1.81,3.68,4.61,2,3.68,4.61,1.86,3.42,3.92
+Finland,Veikkausliiga,2012,12/05/12,16:30,HJK,KuPS,2,0,H,1.29,5.88,12.19,1.31,5.89,12.25,1.27,5.24,10.54
+Finland,Veikkausliiga,2012,12/05/12,16:30,Inter Turku,JJK Jyvaskyla,2,1,H,1.56,4.4,6.22,1.7,4.41,6.22,1.58,3.91,5.3
+Finland,Veikkausliiga,2012,12/05/12,16:30,Jaro,Honka,0,1,A,2.86,3.34,2.66,2.9,3.46,2.66,2.77,3.25,2.44
+Finland,Veikkausliiga,2012,12/05/12,16:30,MyPa,Haka,3,1,H,2.12,3.45,3.8,2.15,3.5,3.82,2.08,3.24,3.44
+Finland,Veikkausliiga,2012,13/05/12,12:00,TPS,VPS,1,0,H,1.65,3.97,5.94,1.72,3.97,5.94,1.66,3.61,5.11
+Finland,Veikkausliiga,2012,13/05/12,14:00,Mariehamn,Lahti,2,0,H,1.76,3.8,5.13,1.78,3.8,5.13,1.72,3.52,4.65
+Finland,Veikkausliiga,2012,16/05/12,16:30,Haka,HJK,0,1,A,6.49,4.36,1.56,6.5,4.36,1.62,5.79,3.94,1.53
+Finland,Veikkausliiga,2012,16/05/12,16:30,Honka,MyPa,2,1,H,1.91,3.71,4.34,1.92,3.75,4.45,1.84,3.44,4.06
+Finland,Veikkausliiga,2012,16/05/12,16:30,Inter Turku,KuPS,2,1,H,1.45,4.8,8.06,1.45,4.8,8.58,1.4,4.34,7.45
+Finland,Veikkausliiga,2012,16/05/12,16:30,JJK Jyvaskyla,Mariehamn,5,2,H,1.96,3.83,3.93,2,3.83,3.97,1.94,3.42,3.67
+Finland,Veikkausliiga,2012,16/05/12,16:30,Lahti,TPS,2,0,H,4.74,3.73,1.83,5,3.73,1.85,4.29,3.44,1.79
+Finland,Veikkausliiga,2012,16/05/12,16:30,VPS,Jaro,1,1,D,2.4,3.33,3.25,2.4,3.33,3.4,2.24,3.21,3.12
+Finland,Veikkausliiga,2012,21/05/12,16:30,HJK,Honka,3,0,H,1.57,4.16,6.77,1.57,4.33,7.14,1.49,4,6.39
+Finland,Veikkausliiga,2012,21/05/12,16:30,Jaro,Lahti,0,2,A,2.36,3.38,3.26,2.36,3.42,3.36,2.2,3.27,3.14
+Finland,Veikkausliiga,2012,21/05/12,16:30,KuPS,Haka,3,0,H,2.06,3.62,3.78,2.14,3.62,3.78,2.04,3.33,3.45
+Finland,Veikkausliiga,2012,21/05/12,16:30,Mariehamn,Inter Turku,2,1,H,3.79,3.89,1.98,4.25,3.89,2,3.72,3.44,1.93
+Finland,Veikkausliiga,2012,21/05/12,16:30,MyPa,VPS,1,0,H,1.95,3.81,3.99,2.02,3.81,4.46,1.94,3.41,3.71
+Finland,Veikkausliiga,2012,21/05/12,16:30,TPS,JJK Jyvaskyla,2,3,A,2,3.68,3.94,2,3.69,4.07,1.91,3.5,3.7
+Finland,Veikkausliiga,2012,24/05/12,16:30,Honka,KuPS,1,0,H,1.75,4.21,4.61,1.81,4.23,4.99,1.75,3.63,4.32
+Finland,Veikkausliiga,2012,24/05/12,16:30,Inter Turku,Haka,4,1,H,1.38,5.32,8.65,1.4,5.32,9.9,1.33,4.81,8.49
+Finland,Veikkausliiga,2012,24/05/12,16:30,JJK Jyvaskyla,Jaro,1,1,D,1.76,3.85,5.07,1.83,4,5.42,1.69,3.75,4.65
+Finland,Veikkausliiga,2012,24/05/12,16:30,Lahti,MyPa,0,0,D,3.02,3.49,2.45,3.06,3.49,2.76,2.74,3.22,2.49
+Finland,Veikkausliiga,2012,24/05/12,16:30,Mariehamn,TPS,2,1,H,2.74,3.43,2.72,2.8,3.51,2.72,2.69,3.26,2.5
+Finland,Veikkausliiga,2012,24/05/12,16:30,VPS,HJK,1,0,H,7.89,4.38,1.49,8.38,4.4,1.55,6.91,3.98,1.47
+Finland,Veikkausliiga,2012,27/05/12,14:00,HJK,Lahti,2,0,H,1.27,6.25,13,1.27,6.85,14,1.21,6.08,12.03
+Finland,Veikkausliiga,2012,27/05/12,16:30,Haka,Honka,2,1,H,3.95,3.71,1.99,4.01,3.71,2.1,3.62,3.35,1.99
+Finland,Veikkausliiga,2012,27/05/12,16:30,Jaro,Mariehamn,0,3,A,3.29,3.26,2.42,3.3,3.35,2.45,3,3.21,2.3
+Finland,Veikkausliiga,2012,27/05/12,16:30,KuPS,VPS,0,3,A,2.06,3.49,3.96,2.15,3.6,3.96,2.06,3.3,3.45
+Finland,Veikkausliiga,2012,27/05/12,16:30,MyPa,JJK Jyvaskyla,0,1,A,2.38,3.45,3.18,2.41,3.45,3.24,2.32,3.3,2.9
+Finland,Veikkausliiga,2012,30/05/12,16:30,Inter Turku,Lahti,2,0,H,1.32,5.72,10.6,1.37,6,12,1.27,5.28,9.86
+Finland,Veikkausliiga,2012,11/06/12,16:30,JJK Jyvaskyla,KuPS,1,5,A,1.93,3.73,4.13,2,3.8,4.59,1.82,3.57,4.02
+Finland,Veikkausliiga,2012,16/06/12,16:30,Haka,VPS,0,1,A,2.99,3.24,2.64,2.99,3.33,2.67,2.8,3.17,2.47
+Finland,Veikkausliiga,2012,16/06/12,16:30,Honka,Inter Turku,2,1,H,3.11,3.61,2.37,3.25,3.61,2.38,2.97,3.34,2.27
+Finland,Veikkausliiga,2012,16/06/12,16:30,JJK Jyvaskyla,HJK,0,3,A,4.54,4.48,1.74,5.5,4.48,1.81,4.29,3.71,1.74
+Finland,Veikkausliiga,2012,16/06/12,16:30,TPS,Jaro,2,3,A,1.5,4.55,7.6,1.55,4.55,7.6,1.48,4.07,6.37
+Finland,Veikkausliiga,2012,17/06/12,16:30,KuPS,Lahti,1,2,A,1.71,4,5.32,1.75,4.01,5.34,1.68,3.7,4.72
+Finland,Veikkausliiga,2012,17/06/12,16:30,Mariehamn,MyPa,0,0,D,1.94,3.6,4.4,1.98,3.72,4.4,1.89,3.4,3.9
+Finland,Veikkausliiga,2012,19/06/12,16:30,Inter Turku,Jaro,1,1,D,1.3,5.84,11.89,1.33,5.85,12.04,1.29,5.13,9.69
+Finland,Veikkausliiga,2012,20/06/12,16:30,Lahti,Haka,0,1,A,2.23,3.66,3.37,2.23,3.7,3.45,2.15,3.31,3.21
+Finland,Veikkausliiga,2012,20/06/12,16:30,Mariehamn,HJK,2,0,H,4.88,4.05,1.76,4.93,4.05,1.77,4.5,3.58,1.73
+Finland,Veikkausliiga,2012,20/06/12,16:30,TPS,MyPa,1,0,H,2.13,3.51,3.76,2.15,3.51,4.09,1.98,3.36,3.66
+Finland,Veikkausliiga,2012,20/06/12,16:30,VPS,Honka,2,0,H,2.78,3.61,2.61,2.82,3.61,2.7,2.62,3.23,2.58
+Finland,Veikkausliiga,2012,25/06/12,16:30,Haka,JJK Jyvaskyla,3,1,H,2.8,3.64,2.54,3,3.64,2.54,2.8,3.32,2.39
+Finland,Veikkausliiga,2012,25/06/12,16:30,HJK,TPS,0,0,D,1.42,4.83,8.78,1.45,4.84,8.82,1.39,4.44,7.42
+Finland,Veikkausliiga,2012,25/06/12,16:30,Honka,Lahti,3,2,H,1.6,4.11,6.29,1.65,4.11,6.29,1.59,3.78,5.44
+Finland,Veikkausliiga,2012,25/06/12,16:30,Inter Turku,VPS,1,1,D,1.66,4,5.81,1.68,4.23,5.81,1.62,3.76,5.09
+Finland,Veikkausliiga,2012,25/06/12,16:30,Jaro,MyPa,1,0,H,2.74,3.53,2.65,2.74,3.6,2.72,2.6,3.24,2.59
+Finland,Veikkausliiga,2012,25/06/12,16:30,KuPS,Mariehamn,2,0,H,2.15,3.59,3.55,2.25,3.9,3.55,2.12,3.39,3.2
+Finland,Veikkausliiga,2012,28/06/12,16:30,Jaro,HJK,2,2,D,6.67,4.55,1.54,6.75,4.55,1.57,6.19,3.97,1.5
+Finland,Veikkausliiga,2012,28/06/12,16:30,JJK Jyvaskyla,Honka,0,1,A,2.5,3.58,2.92,2.5,3.58,2.99,2.37,3.29,2.83
+Finland,Veikkausliiga,2012,28/06/12,16:30,Lahti,VPS,1,0,H,2.82,3.47,2.66,2.95,3.47,2.66,2.76,3.21,2.46
+Finland,Veikkausliiga,2012,28/06/12,16:30,Mariehamn,Haka,1,0,H,1.91,3.55,4.61,1.91,3.75,4.9,1.78,3.51,4.34
+Finland,Veikkausliiga,2012,28/06/12,16:30,MyPa,Inter Turku,4,0,H,3.72,3.38,2.2,4.01,3.5,2.2,3.55,3.33,2.01
+Finland,Veikkausliiga,2012,28/06/12,16:30,TPS,KuPS,3,0,H,2,3.68,4.01,2,3.69,4.05,1.9,3.43,3.84
+Finland,Veikkausliiga,2012,02/07/12,16:30,Haka,TPS,1,0,H,3.16,3.6,2.34,3.3,3.6,2.36,3,3.33,2.25
+Finland,Veikkausliiga,2012,02/07/12,16:30,HJK,MyPa,1,1,D,1.33,5.55,10.44,1.34,5.68,11.08,1.31,4.82,9.47
+Finland,Veikkausliiga,2012,02/07/12,16:30,KuPS,Jaro,1,0,H,1.92,3.81,4.16,1.94,3.82,4.17,1.87,3.49,3.92
+Finland,Veikkausliiga,2012,02/07/12,16:30,Lahti,Inter Turku,4,3,H,3.85,3.66,2.02,3.87,3.68,2.02,3.64,3.46,1.95
+Finland,Veikkausliiga,2012,02/07/12,16:30,VPS,JJK Jyvaskyla,2,0,H,2.06,3.63,3.73,2.15,3.7,4.05,1.98,3.39,3.65
+Finland,Veikkausliiga,2012,03/07/12,16:30,Honka,Mariehamn,2,2,D,2.09,3.67,3.66,2.1,3.67,3.75,2,3.39,3.55
+Finland,Veikkausliiga,2012,07/07/12,16:30,Inter Turku,HJK,2,0,H,3.2,3.54,2.34,3.25,3.54,2.45,2.91,3.29,2.33
+Finland,Veikkausliiga,2012,07/07/12,16:30,Jaro,Haka,1,0,H,2.16,3.44,3.65,2.29,3.44,3.65,2.19,3.25,3.18
+Finland,Veikkausliiga,2012,07/07/12,16:30,Mariehamn,VPS,0,0,D,2.31,3.29,3.5,2.31,3.4,3.95,2.07,3.23,3.49
+Finland,Veikkausliiga,2012,08/07/12,16:30,JJK Jyvaskyla,Lahti,3,1,H,2.19,3.6,3.5,2.21,3.61,3.6,2.1,3.37,3.3
+Finland,Veikkausliiga,2012,08/07/12,16:30,MyPa,KuPS,1,1,D,2.27,3.42,3.5,2.27,3.44,3.5,2.15,3.23,3.32
+Finland,Veikkausliiga,2012,09/07/12,16:30,TPS,Honka,2,1,H,2.17,3.63,3.51,2.2,3.63,3.75,2.13,3.34,3.26
+Finland,Veikkausliiga,2012,14/07/12,16:30,VPS,TPS,1,3,A,2.93,3.35,2.62,2.93,3.42,2.7,2.71,3.15,2.55
+Finland,Veikkausliiga,2012,15/07/12,16:30,Haka,MyPa,3,1,H,2.75,3.18,2.92,2.75,3.2,2.92,2.52,3.12,2.78
+Finland,Veikkausliiga,2012,15/07/12,16:30,Honka,Jaro,2,0,H,1.7,4.2,5.12,1.71,4.2,5.6,1.64,3.73,5.04
+Finland,Veikkausliiga,2012,15/07/12,16:30,Inter Turku,JJK Jyvaskyla,3,2,H,1.42,5.01,8.47,1.5,5.01,8.47,1.43,4.41,6.8
+Finland,Veikkausliiga,2012,16/07/12,16:30,Lahti,Mariehamn,2,0,H,2.71,3.5,2.74,2.71,3.5,2.74,2.57,3.23,2.61
+Finland,Veikkausliiga,2012,21/07/12,14:00,Jaro,VPS,0,0,D,2.57,3.28,3.06,2.58,3.4,3.2,2.39,3.18,2.9
+Finland,Veikkausliiga,2012,21/07/12,16:30,HJK,Haka,1,0,H,1.28,5.8,14.75,1.3,6.5,15,1.24,5.56,11.58
+Finland,Veikkausliiga,2012,22/07/12,14:00,Mariehamn,JJK Jyvaskyla,3,3,D,1.71,4.19,5.05,1.75,4.19,5.29,1.67,3.77,4.72
+Finland,Veikkausliiga,2012,22/07/12,16:30,KuPS,Inter Turku,0,6,A,3.13,3.39,2.46,3.4,3.4,2.46,3.02,3.29,2.26
+Finland,Veikkausliiga,2012,22/07/12,16:30,MyPa,Honka,0,0,D,2.89,3.46,2.59,3.02,3.47,2.62,2.85,3.23,2.39
+Finland,Veikkausliiga,2012,22/07/12,16:30,TPS,Lahti,4,0,H,1.56,4.38,6.53,1.62,4.38,6.53,1.56,3.85,5.67
+Finland,Veikkausliiga,2012,28/07/12,16:30,Honka,HJK,1,0,H,3.65,3.55,2.15,3.8,3.55,2.2,3.45,3.32,2.06
+Finland,Veikkausliiga,2012,29/07/12,16:30,Haka,KuPS,0,2,A,2.22,3.74,3.25,2.29,3.74,3.3,2.19,3.33,3.13
+Finland,Veikkausliiga,2012,29/07/12,16:30,JJK Jyvaskyla,TPS,2,1,H,3.4,3.82,2.13,3.45,3.82,2.2,3.25,3.42,2.09
+Finland,Veikkausliiga,2012,29/07/12,16:30,Lahti,Jaro,0,2,A,2.38,3.39,3.22,2.38,3.4,3.5,2.23,3.25,3.11
+Finland,Veikkausliiga,2012,29/07/12,16:30,VPS,MyPa,2,0,H,2.27,3.19,3.65,2.44,3.3,3.65,2.22,3.17,3.19
+Finland,Veikkausliiga,2012,30/07/12,16:30,Inter Turku,Mariehamn,0,3,A,1.72,4.03,5.11,1.76,4.03,5.5,1.63,3.77,5.01
+Finland,Veikkausliiga,2012,04/08/12,16:30,HJK,VPS,3,3,D,1.53,4.21,7.77,1.55,4.4,7.77,1.47,3.98,6.95
+Finland,Veikkausliiga,2012,04/08/12,16:30,MyPa,Lahti,3,1,H,2,3.59,4.15,2,3.9,4.15,1.93,3.4,3.76
+Finland,Veikkausliiga,2012,05/08/12,16:30,Haka,Inter Turku,0,2,A,3.42,3.58,2.23,3.6,3.58,2.23,3.38,3.36,2.07
+Finland,Veikkausliiga,2012,05/08/12,16:30,Jaro,JJK Jyvaskyla,0,3,A,2.66,3.58,2.74,2.66,3.63,2.8,2.49,3.32,2.67
+Finland,Veikkausliiga,2012,05/08/12,16:30,KuPS,Honka,0,2,A,3.18,3.52,2.37,3.19,3.52,2.4,2.91,3.29,2.33
+Finland,Veikkausliiga,2012,06/08/12,16:30,TPS,Mariehamn,1,1,D,1.83,3.95,4.53,1.9,3.95,4.53,1.78,3.55,4.23
+Finland,Veikkausliiga,2012,11/08/12,15:00,JJK Jyvaskyla,MyPa,0,3,A,2.35,3.61,3.16,2.35,3.61,3.65,2.12,3.36,3.24
+Finland,Veikkausliiga,2012,11/08/12,16:30,Mariehamn,Jaro,2,0,H,1.8,3.8,4.98,1.88,3.8,4.98,1.76,3.56,4.32
+Finland,Veikkausliiga,2012,12/08/12,14:00,Lahti,HJK,3,0,H,5.93,4.15,1.64,6.5,4.2,1.64,5.66,3.93,1.55
+Finland,Veikkausliiga,2012,12/08/12,16:30,Honka,Haka,2,2,D,1.69,4.13,5.36,1.69,4.13,5.75,1.6,3.77,5.29
+Finland,Veikkausliiga,2012,12/08/12,16:30,TPS,Inter Turku,4,1,H,2.76,3.64,2.6,2.76,3.64,2.75,2.55,3.29,2.61
+Finland,Veikkausliiga,2012,12/08/12,16:30,VPS,KuPS,0,1,A,2.12,3.42,3.89,2.2,3.42,3.89,2.03,3.27,3.55
+Finland,Veikkausliiga,2012,18/08/12,16:30,HJK,JJK Jyvaskyla,2,0,H,1.31,5.9,10.9,1.4,5.9,12,1.32,4.93,8.64
+Finland,Veikkausliiga,2012,18/08/12,16:30,Inter Turku,Honka,2,1,H,2.09,3.71,3.63,2.1,3.71,4,1.97,3.44,3.6
+Finland,Veikkausliiga,2012,18/08/12,16:30,KuPS,Lahti,1,0,H,1.7,4.01,5.31,1.8,4.01,5.31,1.7,3.71,4.56
+Finland,Veikkausliiga,2012,19/08/12,16:30,Jaro,TPS,0,1,A,3.63,3.48,2.16,3.7,3.6,2.19,3.42,3.36,2.05
+Finland,Veikkausliiga,2012,19/08/12,16:30,VPS,Haka,2,1,H,1.93,3.69,4.29,2,3.69,4.33,1.91,3.35,3.91
+Finland,Veikkausliiga,2012,20/08/12,16:30,MyPa,Mariehamn,2,1,H,2.13,3.66,3.54,2.29,3.66,3.62,2.11,3.35,3.26
+Finland,Veikkausliiga,2012,22/08/12,16:30,TPS,Haka,9,2,H,1.55,4.45,6.5,1.56,4.46,7.5,1.5,4.01,6.16
+Finland,Veikkausliiga,2012,25/08/12,16:30,Haka,Lahti,0,3,A,2.72,3.35,2.78,2.76,3.4,3,2.48,3.24,2.75
+Finland,Veikkausliiga,2012,26/08/12,16:30,HJK,Mariehamn,5,1,H,1.45,4.74,8.14,1.47,4.76,8.9,1.43,4.25,7.06
+Finland,Veikkausliiga,2012,26/08/12,16:30,Inter Turku,Jaro,3,1,H,1.44,4.9,7.84,1.5,5,8,1.41,4.43,7.25
+Finland,Veikkausliiga,2012,26/08/12,16:30,KuPS,JJK Jyvaskyla,2,3,A,2,3.74,3.83,2.11,3.75,4,1.95,3.49,3.6
+Finland,Veikkausliiga,2012,26/08/12,16:30,MyPa,TPS,1,1,D,2.72,3.53,2.67,2.9,3.59,2.67,2.65,3.28,2.53
+Finland,Veikkausliiga,2012,27/08/12,16:30,Honka,VPS,1,2,A,1.92,3.61,4.29,1.97,3.66,4.5,1.88,3.39,4.04
+Finland,Veikkausliiga,2012,31/08/12,16:30,Lahti,Honka,3,2,H,3.42,3.44,2.25,3.42,3.5,2.68,2.96,3.29,2.3
+Finland,Veikkausliiga,2012,02/09/12,14:00,TPS,HJK,1,2,A,2.97,3.67,2.39,3.1,3.67,2.4,2.89,3.32,2.31
+Finland,Veikkausliiga,2012,02/09/12,16:30,Jaro,MyPa,0,3,A,3.05,3.64,2.37,3.2,3.64,2.45,2.86,3.28,2.35
+Finland,Veikkausliiga,2012,02/09/12,16:30,JJK Jyvaskyla,Haka,5,0,H,1.81,4.2,4.23,1.81,4.25,5,1.69,3.83,4.46
+Finland,Veikkausliiga,2012,02/09/12,16:30,Mariehamn,KuPS,2,0,H,2.2,3.3,3.69,2.25,3.4,3.7,2.09,3.29,3.38
+Finland,Veikkausliiga,2012,03/09/12,16:30,Inter Turku,VPS,2,0,H,1.69,4.01,5.42,1.71,4.15,6,1.61,3.83,5.18
+Finland,Veikkausliiga,2012,13/09/12,16:30,KuPS,TPS,1,3,A,2.58,3.66,2.75,2.6,3.66,2.84,2.51,3.33,2.62
+Finland,Veikkausliiga,2012,14/09/12,16:30,Haka,Mariehamn,1,1,D,3.04,3.75,2.33,3.15,3.75,2.38,3.03,3.36,2.23
+Finland,Veikkausliiga,2012,14/09/12,16:30,HJK,Jaro,0,0,D,1.19,7.65,17.48,1.2,7.65,18.1,1.17,6.63,13.66
+Finland,Veikkausliiga,2012,14/09/12,16:30,MyPa,Inter Turku,0,0,D,2.78,3.33,2.75,3.1,3.55,3,2.69,3.26,2.51
+Finland,Veikkausliiga,2012,14/09/12,16:30,VPS,Lahti,1,3,A,1.84,3.77,4.65,1.9,3.77,4.65,1.85,3.43,4.08
+Finland,Veikkausliiga,2012,15/09/12,16:30,Honka,JJK Jyvaskyla,3,0,H,2,4.08,3.57,2.06,4.08,3.9,1.98,3.53,3.44
+Finland,Veikkausliiga,2012,17/09/12,16:30,Inter Turku,TPS,3,3,D,2.5,3.59,2.83,2.5,3.59,3.05,2.34,3.37,2.81
+Finland,Veikkausliiga,2012,17/09/12,16:30,Jaro,KuPS,1,1,D,2.33,3.73,2.99,2.46,3.73,3.1,2.32,3.32,2.85
+Finland,Veikkausliiga,2012,17/09/12,16:30,MyPa,HJK,1,4,A,3.8,3.64,2.02,3.8,3.64,2.1,3.58,3.38,1.99
+Finland,Veikkausliiga,2012,18/09/12,16:30,JJK Jyvaskyla,VPS,1,2,A,2.29,3.74,3.1,2.33,3.74,3.2,2.22,3.4,2.99
+Finland,Veikkausliiga,2012,18/09/12,16:30,Mariehamn,Honka,1,1,D,2.39,3.78,2.93,2.4,3.78,3.3,2.24,3.36,3
+Finland,Veikkausliiga,2012,22/09/12,16:30,Honka,TPS,0,1,A,2.81,3.7,2.5,2.81,3.7,2.65,2.6,3.38,2.52
+Finland,Veikkausliiga,2012,23/09/12,16:30,Haka,Jaro,0,0,D,2.52,3.36,3.02,2.52,3.4,3.13,2.35,3.25,2.9
+Finland,Veikkausliiga,2012,23/09/12,16:30,HJK,Inter Turku,1,1,D,1.71,4.26,4.83,1.75,4.26,5.8,1.67,3.8,4.69
+Finland,Veikkausliiga,2012,23/09/12,16:30,KuPS,MyPa,2,0,H,2.71,3.53,2.68,2.71,3.53,2.9,2.5,3.3,2.66
+Finland,Veikkausliiga,2012,23/09/12,16:30,Lahti,JJK Jyvaskyla,2,1,H,2.45,3.62,2.92,2.45,3.68,2.95,2.38,3.37,2.77
+Finland,Veikkausliiga,2012,23/09/12,16:30,VPS,Mariehamn,1,3,A,2.27,3.51,3.34,2.4,3.51,3.34,2.23,3.32,3.04
+Finland,Veikkausliiga,2012,26/09/12,16:30,HJK,KuPS,4,1,H,1.22,7.13,15.23,1.23,7.13,15.23,1.2,6.2,12.56
+Finland,Veikkausliiga,2012,26/09/12,16:30,Jaro,Honka,1,0,H,2.27,3.52,3.31,2.5,3.52,3.31,2.27,3.31,3
+Finland,Veikkausliiga,2012,26/09/12,16:30,JJK Jyvaskyla,Inter Turku,0,0,D,3.85,4.13,1.92,4.34,4.13,1.96,3.73,3.74,1.85
+Finland,Veikkausliiga,2012,26/09/12,16:30,Mariehamn,Lahti,2,2,D,1.72,4.12,4.97,1.85,4.12,4.97,1.76,3.61,4.34
+Finland,Veikkausliiga,2012,26/09/12,16:30,MyPa,Haka,1,0,H,1.85,4.08,4.19,1.9,4.08,4.5,1.83,3.53,4.03
+Finland,Veikkausliiga,2012,26/09/12,16:30,TPS,VPS,1,0,H,1.59,4.51,5.76,1.7,4.51,5.9,1.59,3.92,5.2
+Finland,Veikkausliiga,2012,01/10/12,16:30,Haka,HJK,2,2,D,7.25,4.76,1.48,9.1,4.8,1.5,6.81,4.34,1.43
+Finland,Veikkausliiga,2012,01/10/12,16:30,JJK Jyvaskyla,Mariehamn,3,2,H,2.46,3.66,2.89,2.72,3.66,2.89,2.46,3.39,2.65
+Finland,Veikkausliiga,2012,01/10/12,16:30,Lahti,TPS,1,0,H,3.66,3.78,2.04,3.9,3.78,2.1,3.41,3.46,2.02
+Finland,Veikkausliiga,2012,01/10/12,16:30,VPS,Jaro,2,1,H,2.34,3.3,3.39,2.35,3.5,3.45,2.2,3.24,3.17
+Finland,Veikkausliiga,2012,03/10/12,16:30,Inter Turku,KuPS,1,4,A,1.28,6.19,11.5,1.35,6.19,11.5,1.27,5.46,9.61
+Finland,Veikkausliiga,2012,04/10/12,16:30,Honka,MyPa,1,1,D,2.27,3.58,3.25,2.29,3.58,3.35,2.17,3.32,3.16
+Finland,Veikkausliiga,2012,07/10/12,16:30,Jaro,Lahti,2,1,H,2.41,3.52,3.06,2.46,3.52,3.15,2.31,3.3,2.92
+Finland,Veikkausliiga,2012,07/10/12,16:30,KuPS,Haka,1,1,D,1.93,3.82,4.13,1.98,3.82,4.13,1.9,3.47,3.76
+Finland,Veikkausliiga,2012,07/10/12,16:30,MyPa,VPS,1,1,D,2.08,3.56,3.8,2.25,3.56,3.8,2.11,3.3,3.31
+Finland,Veikkausliiga,2012,07/10/12,16:30,TPS,JJK Jyvaskyla,1,0,H,1.53,4.86,5.94,1.56,4.86,6.2,1.51,4.21,5.64
+Finland,Veikkausliiga,2012,08/10/12,16:30,HJK,Honka,1,0,H,1.52,4.58,6.71,1.52,4.75,8,1.44,4.32,6.59
+Finland,Veikkausliiga,2012,08/10/12,16:30,Inter Turku,Mariehamn,1,0,H,1.74,4.05,4.98,1.8,4.13,5.09,1.69,3.74,4.56
+Finland,Veikkausliiga,2012,19/10/12,16:30,Haka,Inter Turku,1,2,A,4.42,4.25,1.78,4.7,4.26,1.81,4.21,3.77,1.74
+Finland,Veikkausliiga,2012,19/10/12,16:30,Honka,KuPS,2,1,H,1.99,3.73,3.95,2,3.95,4.05,1.93,3.46,3.7
+Finland,Veikkausliiga,2012,19/10/12,16:30,JJK Jyvaskyla,Jaro,4,2,H,2.12,3.69,3.54,2.25,3.69,3.54,2.16,3.37,3.12
+Finland,Veikkausliiga,2012,19/10/12,16:30,Lahti,MyPa,3,1,H,2.54,3.39,2.96,2.64,3.42,3.25,2.4,3.26,2.82
+Finland,Veikkausliiga,2012,19/10/12,16:30,Mariehamn,TPS,1,0,H,2.89,3.51,2.54,2.98,3.59,2.54,2.79,3.33,2.38
+Finland,Veikkausliiga,2012,19/10/12,16:30,VPS,HJK,1,3,A,4.46,3.94,1.83,5.8,4,1.83,4.65,3.67,1.7
+Finland,Veikkausliiga,2012,22/10/12,16:30,Haka,Honka,1,0,H,2.24,3.92,3.09,2.29,3.92,3.45,2.17,3.47,3.05
+Finland,Veikkausliiga,2012,22/10/12,16:30,HJK,Lahti,2,0,H,,,,1.29,6.1,13,1.24,5.59,10.64
+Finland,Veikkausliiga,2012,22/10/12,16:30,Inter Turku,TPS,0,0,D,2.5,3.62,2.86,2.5,3.65,3.05,2.29,3.41,2.86
+Finland,Veikkausliiga,2012,22/10/12,16:30,Jaro,Mariehamn,3,3,D,2.61,3.59,2.75,2.68,3.6,2.75,2.51,3.32,2.63
+Finland,Veikkausliiga,2012,22/10/12,16:30,KuPS,VPS,2,1,H,2.15,3.58,3.56,2.25,3.58,3.56,2.15,3.39,3.14
+Finland,Veikkausliiga,2012,22/10/12,16:30,MyPa,JJK Jyvaskyla,2,1,H,2,3.86,3.74,2.04,3.86,4,1.96,3.49,3.56
+Finland,Veikkausliiga,2012,27/10/12,12:00,Honka,Inter Turku,3,0,H,2.37,3.56,3.05,2.75,3.56,3.1,2.46,3.35,2.63
+Finland,Veikkausliiga,2012,27/10/12,12:00,JJK Jyvaskyla,HJK,3,6,A,5.3,4.57,1.61,5.5,4.57,1.67,4.97,3.95,1.59
+Finland,Veikkausliiga,2012,27/10/12,12:00,Lahti,KuPS,2,1,H,1.93,3.8,4.03,2,3.8,4.03,1.92,3.52,3.63
+Finland,Veikkausliiga,2012,27/10/12,12:00,Mariehamn,MyPa,2,2,D,1.99,3.75,3.79,2.04,3.75,3.8,1.98,3.4,3.53
+Finland,Veikkausliiga,2012,27/10/12,12:00,TPS,Jaro,1,2,A,2.04,3.92,3.51,2.15,3.92,3.6,2.01,3.55,3.33
+Finland,Veikkausliiga,2012,27/10/12,12:00,VPS,Haka,0,1,A,2.7,3.43,2.72,2.8,3.55,2.72,2.63,3.27,2.53
+Finland,Veikkausliiga,2013,13/04/13,12:00,TPS,Honka,2,0,H,2.02,3.44,4.11,2.08,3.5,4.5,1.92,3.35,3.89
+Finland,Veikkausliiga,2013,14/04/13,16:30,KuPS,MyPa,1,1,D,2.16,3.4,3.7,2.25,3.4,3.75,2.13,3.25,3.31
+Finland,Veikkausliiga,2013,14/04/13,16:30,Rovaniemi,Mariehamn,1,3,A,2.13,3.42,3.77,2.16,3.42,3.77,2.09,3.28,3.38
+Finland,Veikkausliiga,2013,20/04/13,14:00,TPS,VPS,0,1,A,1.63,3.94,6.4,1.63,4.05,6.7,1.54,3.8,6.13
+Finland,Veikkausliiga,2013,21/04/13,13:00,Rovaniemi,Lahti,3,0,H,2.95,3.37,2.57,2.95,3.37,2.57,2.79,3.21,2.42
+Finland,Veikkausliiga,2013,21/04/13,16:30,Jaro,KuPS,2,1,H,3.12,3.3,2.49,3.12,3.38,2.5,2.87,3.2,2.4
+Finland,Veikkausliiga,2013,21/04/13,16:30,Mariehamn,JJK Jyvaskyla,2,2,D,2.16,3.47,3.64,2.25,3.5,3.64,2.13,3.33,3.24
+Finland,Veikkausliiga,2013,21/04/13,16:30,MyPa,Inter Turku,1,0,H,2.29,3.41,3.39,2.35,3.41,3.41,2.22,3.24,3.12
+Finland,Veikkausliiga,2013,22/04/13,16:30,Honka,HJK,0,2,A,5.26,3.67,1.78,5.26,3.67,1.81,4.67,3.47,1.75
+Finland,Veikkausliiga,2013,28/04/13,16:30,JJK Jyvaskyla,Lahti,0,0,D,2.44,3.5,3.03,2.6,3.5,3.03,2.35,3.29,2.87
+Finland,Veikkausliiga,2013,28/04/13,16:30,KuPS,Mariehamn,0,1,A,2.27,3.62,3.22,2.29,3.62,3.4,2.21,3.28,3.11
+Finland,Veikkausliiga,2013,28/04/13,16:30,Rovaniemi,TPS,1,0,H,3.3,3.61,2.25,3.55,3.61,2.25,3.34,3.3,2.11
+Finland,Veikkausliiga,2013,28/04/13,16:30,VPS,Honka,0,0,D,2.87,3.17,2.75,2.88,3.25,2.8,2.66,3.08,2.65
+Finland,Veikkausliiga,2013,29/04/13,16:30,HJK,MyPa,2,0,H,1.46,4.59,8.21,1.46,4.75,10,1.37,4.39,8.39
+Finland,Veikkausliiga,2013,29/04/13,16:30,Inter Turku,Jaro,1,0,H,1.92,3.67,4.34,1.95,3.67,4.5,1.86,3.41,4.08
+Finland,Veikkausliiga,2013,02/05/13,16:30,Inter Turku,HJK,2,2,D,6.04,3.74,1.69,6.04,3.85,1.73,5.24,3.6,1.65
+Finland,Veikkausliiga,2013,05/05/13,16:30,Jaro,HJK,2,3,A,6.45,3.96,1.62,7.5,4.25,1.62,6.71,3.79,1.5
+Finland,Veikkausliiga,2013,05/05/13,16:30,Lahti,KuPS,1,0,H,2,3.58,4.04,2,3.58,4.25,1.93,3.32,3.85
+Finland,Veikkausliiga,2013,05/05/13,16:30,Mariehamn,Inter Turku,1,2,A,2.19,3.64,3.39,2.21,3.64,3.75,2.1,3.34,3.32
+Finland,Veikkausliiga,2013,05/05/13,16:30,MyPa,Honka,1,0,H,2.24,3.41,3.51,2.29,3.41,3.55,2.2,3.19,3.22
+Finland,Veikkausliiga,2013,05/05/13,16:30,TPS,JJK Jyvaskyla,1,0,H,1.78,3.83,5,1.83,3.83,5,1.74,3.53,4.56
+Finland,Veikkausliiga,2013,05/05/13,16:30,VPS,Rovaniemi,3,1,H,2.31,3.29,3.46,2.31,3.3,3.57,2.21,3.16,3.23
+Finland,Veikkausliiga,2013,09/05/13,12:00,HJK,Mariehamn,0,0,D,1.39,5.05,9.4,1.4,5.3,10.5,1.34,4.64,8.72
+Finland,Veikkausliiga,2013,09/05/13,15:00,Honka,Rovaniemi,2,0,H,1.83,3.53,5.14,1.86,3.55,5.14,1.81,3.39,4.4
+Finland,Veikkausliiga,2013,09/05/13,15:00,Inter Turku,Lahti,2,0,H,2.08,3.58,3.77,2.29,3.58,3.8,2.08,3.31,3.43
+Finland,Veikkausliiga,2013,09/05/13,15:00,JJK Jyvaskyla,VPS,0,1,A,2.06,3.61,3.78,2.2,3.61,3.78,2.08,3.29,3.43
+Finland,Veikkausliiga,2013,09/05/13,15:00,KuPS,TPS,4,1,H,3.01,3.52,2.45,3.01,3.52,2.54,2.86,3.25,2.38
+Finland,Veikkausliiga,2013,09/05/13,15:00,MyPa,Jaro,1,2,A,1.82,3.82,4.67,1.93,3.82,4.67,1.82,3.48,4.15
+Finland,Veikkausliiga,2013,12/05/13,16:30,Jaro,Honka,2,2,D,2.87,3.26,2.7,2.87,3.3,2.9,2.59,3.12,2.7
+Finland,Veikkausliiga,2013,12/05/13,16:30,Mariehamn,MyPa,0,4,A,2.22,3.45,3.49,2.23,3.45,3.6,2.09,3.29,3.39
+Finland,Veikkausliiga,2013,12/05/13,16:30,Rovaniemi,JJK Jyvaskyla,4,0,H,2.66,3.45,2.78,2.66,3.45,3,2.41,3.22,2.83
+Finland,Veikkausliiga,2013,12/05/13,16:30,VPS,KuPS,1,2,A,2.25,3.44,3.42,2.4,3.44,3.42,2.24,3.19,3.16
+Finland,Veikkausliiga,2013,13/05/13,16:30,Lahti,HJK,0,1,A,4.28,3.73,1.92,4.5,3.73,1.93,4.16,3.41,1.84
+Finland,Veikkausliiga,2013,13/05/13,16:30,TPS,Inter Turku,2,1,H,2.58,3.38,2.93,2.8,3.4,2.93,2.5,3.21,2.74
+Finland,Veikkausliiga,2013,17/05/13,16:30,HJK,TPS,0,2,A,1.55,4.29,6.86,1.58,4.33,7,1.51,3.96,6.25
+Finland,Veikkausliiga,2013,17/05/13,16:30,Honka,JJK Jyvaskyla,3,2,H,1.96,3.62,4.17,1.99,3.62,4.33,1.9,3.34,4
+Finland,Veikkausliiga,2013,17/05/13,16:30,Inter Turku,VPS,0,0,D,1.98,3.61,4.09,1.98,3.62,4.3,1.9,3.39,3.93
+Finland,Veikkausliiga,2013,17/05/13,16:30,KuPS,Rovaniemi,1,0,H,1.79,3.95,4.66,1.87,3.95,4.66,1.8,3.52,4.24
+Finland,Veikkausliiga,2013,17/05/13,16:30,Mariehamn,Jaro,1,0,H,2.02,3.71,3.86,2.06,3.71,4.05,1.94,3.45,3.71
+Finland,Veikkausliiga,2013,17/05/13,16:30,MyPa,Lahti,2,0,H,2.04,3.49,3.98,2.1,3.49,4.09,2.01,3.28,3.65
+Finland,Veikkausliiga,2013,23/05/13,16:30,HJK,VPS,1,2,A,1.47,4.63,7.63,1.47,4.63,9,1.4,4.32,7.76
+Finland,Veikkausliiga,2013,23/05/13,16:30,Honka,Mariehamn,2,1,H,2.06,3.52,3.89,2.1,3.56,4,2.02,3.37,3.52
+Finland,Veikkausliiga,2013,23/05/13,16:30,JJK Jyvaskyla,KuPS,0,0,D,2.24,3.42,3.47,2.4,3.5,3.47,2.24,3.3,3.07
+Finland,Veikkausliiga,2013,23/05/13,16:30,Lahti,Jaro,1,2,A,2.23,3.43,3.49,2.27,3.45,3.6,2.1,3.27,3.36
+Finland,Veikkausliiga,2013,23/05/13,16:30,Rovaniemi,Inter Turku,1,0,H,2.52,3.49,2.93,2.7,3.49,2.95,2.46,3.28,2.74
+Finland,Veikkausliiga,2013,26/05/13,16:30,HJK,Rovaniemi,2,0,H,1.34,5.5,10,1.38,5.5,10.5,1.31,5.04,8.79
+Finland,Veikkausliiga,2013,26/05/13,16:30,Inter Turku,JJK Jyvaskyla,3,1,H,2.06,3.48,3.96,2.09,3.6,4.2,1.93,3.4,3.8
+Finland,Veikkausliiga,2013,26/05/13,16:30,Jaro,TPS,1,1,D,3.6,3.65,2.11,3.8,3.65,2.15,3.49,3.35,2.04
+Finland,Veikkausliiga,2013,26/05/13,16:30,KuPS,Honka,1,2,A,2.64,3.31,2.89,2.64,3.31,3,2.45,3.2,2.81
+Finland,Veikkausliiga,2013,26/05/13,16:30,MyPa,VPS,3,0,H,1.9,3.56,4.59,1.95,3.56,4.59,1.88,3.36,4.03
+Finland,Veikkausliiga,2013,26/05/13,18:00,Mariehamn,Lahti,2,2,D,2.21,3.49,3.48,2.22,3.49,3.7,2.1,3.25,3.38
+Finland,Veikkausliiga,2013,29/05/13,16:30,Honka,Lahti,1,0,H,1.81,3.65,5.01,1.85,3.95,5.7,1.76,3.57,4.42
+Finland,Veikkausliiga,2013,29/05/13,16:30,JJK Jyvaskyla,HJK,1,3,A,4.92,4.01,1.75,5.8,4.25,1.75,4.95,3.74,1.65
+Finland,Veikkausliiga,2013,29/05/13,16:30,KuPS,Inter Turku,1,1,D,2.72,3.5,2.68,2.75,3.5,2.82,2.54,3.27,2.66
+Finland,Veikkausliiga,2013,29/05/13,16:30,Rovaniemi,MyPa,2,1,H,3.36,3.43,2.29,3.36,3.44,2.6,2.9,3.25,2.36
+Finland,Veikkausliiga,2013,29/05/13,16:30,TPS,Mariehamn,2,4,A,1.76,3.89,4.96,1.76,4,5.5,1.68,3.64,4.88
+Finland,Veikkausliiga,2013,29/05/13,16:30,VPS,Jaro,2,1,H,2.42,3.33,3.22,2.42,3.4,3.6,2.16,3.21,3.33
+Finland,Veikkausliiga,2013,01/06/13,14:00,HJK,KuPS,1,2,A,1.39,5.15,9.06,1.39,5.34,9.5,1.34,4.88,8.26
+Finland,Veikkausliiga,2013,02/06/13,16:30,Inter Turku,Honka,0,1,A,2.41,3.27,3.27,2.41,3.3,3.32,2.27,3.2,3.08
+Finland,Veikkausliiga,2013,02/06/13,16:30,Jaro,Rovaniemi,2,1,H,2.04,3.45,4.01,2.25,3.5,4.01,2.06,3.3,3.47
+Finland,Veikkausliiga,2013,02/06/13,16:30,Lahti,TPS,0,1,A,2.95,3.36,2.57,3.15,3.36,2.6,2.86,3.18,2.4
+Finland,Veikkausliiga,2013,02/06/13,16:30,Mariehamn,VPS,0,1,A,2.45,3.35,3.14,2.45,3.35,3.35,2.27,3.22,3.06
+Finland,Veikkausliiga,2013,02/06/13,16:30,MyPa,JJK Jyvaskyla,0,1,A,1.66,3.98,5.76,1.8,3.99,5.79,1.67,3.68,4.88
+Finland,Veikkausliiga,2013,13/06/13,16:30,HJK,Inter Turku,6,0,H,1.56,4.5,6.17,1.67,4.5,6.4,1.53,4.08,5.66
+Finland,Veikkausliiga,2013,13/06/13,16:30,Jaro,JJK Jyvaskyla,3,0,H,2.68,3.19,2.95,2.68,3.45,3.05,2.42,3.23,2.83
+Finland,Veikkausliiga,2013,13/06/13,16:30,Lahti,VPS,0,2,A,2.29,3.62,3.17,2.38,3.62,3.2,2.25,3.31,3.03
+Finland,Veikkausliiga,2013,13/06/13,16:30,Mariehamn,Rovaniemi,1,0,H,1.97,3.58,4.18,1.97,3.75,4.18,1.9,3.47,3.77
+Finland,Veikkausliiga,2013,13/06/13,16:30,MyPa,KuPS,2,0,H,1.83,3.64,4.91,2,3.75,4.91,1.82,3.49,4.2
+Finland,Veikkausliiga,2013,13/06/13,16:30,TPS,Honka,2,0,H,2.4,3.3,3.27,2.4,3.4,3.33,2.25,3.2,3.13
+Finland,Veikkausliiga,2013,16/06/13,16:30,Honka,HJK,1,0,H,3.6,3.4,2.21,3.9,3.5,2.21,3.51,3.3,2.05
+Finland,Veikkausliiga,2013,16/06/13,16:30,Inter Turku,MyPa,0,0,D,2.89,3.27,2.65,3,3.27,2.75,2.72,3.12,2.59
+Finland,Veikkausliiga,2013,16/06/13,16:30,JJK Jyvaskyla,Mariehamn,3,2,H,2.27,3.6,3.23,2.54,3.6,3.23,2.34,3.32,2.86
+Finland,Veikkausliiga,2013,16/06/13,16:30,KuPS,Jaro,3,0,H,2.24,3.39,3.56,2.34,3.4,3.56,2.19,3.23,3.21
+Finland,Veikkausliiga,2013,16/06/13,16:30,Lahti,Rovaniemi,0,0,D,1.93,3.52,4.44,2,3.54,4.44,1.91,3.35,3.94
+Finland,Veikkausliiga,2013,16/06/13,16:30,VPS,TPS,0,0,D,2.59,3.38,2.89,2.7,3.38,2.95,2.55,3.19,2.69
+Finland,Veikkausliiga,2013,19/06/13,16:30,Jaro,Inter Turku,0,0,D,2.36,3.53,3.13,2.4,3.53,3.25,2.28,3.29,2.98
+Finland,Veikkausliiga,2013,19/06/13,16:30,Lahti,JJK Jyvaskyla,2,1,H,2.42,3.35,3.2,2.45,3.45,3.3,2.28,3.24,3.07
+Finland,Veikkausliiga,2013,19/06/13,16:30,Mariehamn,KuPS,4,2,H,2.22,3.5,3.46,2.22,3.53,3.85,2.11,3.32,3.33
+Finland,Veikkausliiga,2013,19/06/13,16:30,MyPa,HJK,2,4,A,3.6,3.6,2.13,3.8,3.6,2.2,3.39,3.3,2.1
+Finland,Veikkausliiga,2013,19/06/13,16:30,TPS,Rovaniemi,2,1,H,1.6,4.22,6.13,1.61,4.22,6.8,1.54,3.88,5.98
+Finland,Veikkausliiga,2013,19/06/13,16:30,VPS,Honka,1,1,D,2.58,3.29,2.99,2.7,3.29,3,2.55,3.12,2.75
+Finland,Veikkausliiga,2013,24/06/13,16:30,HJK,Jaro,0,0,D,1.26,6.53,13.18,1.33,6.53,13.18,1.27,5.45,9.87
+Finland,Veikkausliiga,2013,24/06/13,16:30,Honka,MyPa,2,0,H,2.06,3.45,4,2.11,3.45,4.11,2,3.27,3.68
+Finland,Veikkausliiga,2013,24/06/13,16:30,Inter Turku,Mariehamn,0,2,A,2.67,3.4,2.79,2.67,3.4,3,2.47,3.26,2.72
+Finland,Veikkausliiga,2013,24/06/13,16:30,JJK Jyvaskyla,TPS,1,1,D,2.74,3.4,2.73,3,3.45,2.73,2.66,3.24,2.54
+Finland,Veikkausliiga,2013,24/06/13,16:30,KuPS,Lahti,0,1,A,1.99,3.56,4.16,2.04,3.56,4.29,1.95,3.34,3.77
+Finland,Veikkausliiga,2013,24/06/13,16:30,Rovaniemi,VPS,0,0,D,2.44,3.45,3.07,2.48,3.45,3.14,2.34,3.23,2.93
+Finland,Veikkausliiga,2013,27/06/13,16:30,Jaro,MyPa,2,0,H,2.95,3.67,2.42,2.95,3.67,2.7,2.71,3.24,2.51
+Finland,Veikkausliiga,2013,27/06/13,16:30,Lahti,Inter Turku,1,0,H,2.12,3.46,3.78,2.18,3.46,3.79,2.07,3.29,3.45
+Finland,Veikkausliiga,2013,27/06/13,16:30,Rovaniemi,Honka,0,1,A,2.78,3.27,2.78,2.9,3.3,2.78,2.72,3.18,2.53
+Finland,Veikkausliiga,2013,27/06/13,16:30,TPS,KuPS,0,0,D,1.65,4.13,5.68,1.75,4.13,5.68,1.66,3.74,4.9
+Finland,Veikkausliiga,2013,27/06/13,16:30,VPS,JJK Jyvaskyla,1,0,H,2,3.69,3.93,2.06,3.69,4.59,1.92,3.4,3.84
+Finland,Veikkausliiga,2013,27/06/13,16:45,Mariehamn,HJK,0,5,A,3.79,3.58,2.06,4,3.75,2.1,3.61,3.39,1.99
+Finland,Veikkausliiga,2013,30/06/13,16:30,Honka,Jaro,4,2,H,1.62,3.92,6.53,1.65,4.2,6.57,1.58,3.73,5.73
+Finland,Veikkausliiga,2013,30/06/13,16:30,Inter Turku,TPS,1,1,D,3.63,3.32,2.23,4,3.45,2.25,3.54,3.27,2.06
+Finland,Veikkausliiga,2013,30/06/13,16:30,JJK Jyvaskyla,Rovaniemi,1,1,D,2.18,3.44,3.62,2.21,3.5,3.62,2.13,3.28,3.31
+Finland,Veikkausliiga,2013,30/06/13,16:30,KuPS,VPS,1,0,H,2.22,3.41,3.54,2.29,3.41,3.55,2.2,3.24,3.18
+Finland,Veikkausliiga,2013,30/06/13,16:30,MyPa,Mariehamn,3,1,H,1.98,3.66,4.04,2.1,3.66,4.04,1.97,3.37,3.68
+Finland,Veikkausliiga,2013,01/07/13,16:30,HJK,Lahti,2,1,H,1.33,5.78,10.28,1.33,5.8,11,1.28,5.35,9.67
+Finland,Veikkausliiga,2013,06/07/13,14:00,Rovaniemi,KuPS,1,0,H,2.36,3.38,3.29,2.43,3.4,3.3,2.28,3.24,3.05
+Finland,Veikkausliiga,2013,07/07/13,16:30,JJK Jyvaskyla,Honka,1,0,H,3.57,3.43,2.22,3.75,3.5,2.27,3.23,3.29,2.17
+Finland,Veikkausliiga,2013,07/07/13,16:30,Mariehamn,Jaro,0,0,D,2.45,3.47,3.04,2.59,3.47,3.04,2.4,3.25,2.84
+Finland,Veikkausliiga,2013,07/07/13,16:30,VPS,Inter Turku,1,2,A,2.12,3.31,3.95,2.15,3.4,4.2,2.05,3.19,3.68
+Finland,Veikkausliiga,2013,08/07/13,16:30,Lahti,MyPa,3,0,H,2.44,3.31,3.18,2.5,3.31,3.2,2.37,3.2,2.93
+Finland,Veikkausliiga,2013,12/07/13,16:30,HJK,VPS,3,0,H,1.34,5.55,10.05,1.37,5.55,10.05,1.33,4.82,8.86
+Finland,Veikkausliiga,2013,13/07/13,14:00,Jaro,Lahti,7,1,H,2.23,3.39,3.55,2.45,3.39,3.55,2.24,3.23,3.14
+Finland,Veikkausliiga,2013,14/07/13,16:30,Inter Turku,Rovaniemi,0,0,D,1.79,3.8,4.92,1.9,3.8,4.92,1.79,3.52,4.26
+Finland,Veikkausliiga,2013,14/07/13,16:30,Mariehamn,Honka,1,4,A,2.85,3.22,2.74,3,3.4,2.75,2.75,3.23,2.49
+Finland,Veikkausliiga,2013,14/07/13,16:30,MyPa,TPS,2,1,H,2.25,3.46,3.42,2.35,3.46,3.42,2.24,3.25,3.1
+Finland,Veikkausliiga,2013,15/07/13,16:30,KuPS,JJK Jyvaskyla,2,1,H,1.96,3.78,4,2,3.8,4.09,1.91,3.5,3.77
+Finland,Veikkausliiga,2013,19/07/13,18:00,VPS,MyPa,4,1,H,2.29,3.38,3.39,2.39,3.4,3.5,2.27,3.22,3.1
+Finland,Veikkausliiga,2013,20/07/13,13:05,Rovaniemi,HJK,0,0,D,4.51,3.44,1.94,5.6,3.6,1.96,4.19,3.44,1.84
+Finland,Veikkausliiga,2013,21/07/13,13:15,Lahti,Mariehamn,2,1,H,1.89,3.73,4.36,2.06,3.75,4.36,1.9,3.44,3.89
+Finland,Veikkausliiga,2013,21/07/13,16:30,Honka,KuPS,1,0,H,1.7,3.85,5.56,1.88,4,5.56,1.7,3.65,4.74
+Finland,Veikkausliiga,2013,21/07/13,16:30,JJK Jyvaskyla,Inter Turku,2,0,H,2.49,3.44,3.01,2.5,3.44,3.01,2.41,3.22,2.86
+Finland,Veikkausliiga,2013,21/07/13,16:30,TPS,Jaro,2,2,D,1.89,3.76,4.36,1.96,3.8,4.5,1.83,3.54,4.08
+Finland,Veikkausliiga,2013,27/07/13,14:00,HJK,JJK Jyvaskyla,2,0,H,1.29,6.23,11.21,1.3,6.5,12,1.26,5.64,9.9
+Finland,Veikkausliiga,2013,27/07/13,14:00,Jaro,VPS,2,1,H,2.1,3.52,3.74,2.2,3.52,3.8,2.11,3.28,3.38
+Finland,Veikkausliiga,2013,28/07/13,16:30,Inter Turku,KuPS,2,2,D,2.13,3.45,3.76,2.25,3.48,3.76,2.13,3.33,3.28
+Finland,Veikkausliiga,2013,28/07/13,16:30,Lahti,Honka,0,1,A,2.64,3.4,2.84,2.75,3.4,2.84,2.63,3.15,2.65
+Finland,Veikkausliiga,2013,29/07/13,16:30,Mariehamn,TPS,2,0,H,3.01,3.44,2.48,3.1,3.5,2.68,2.84,3.27,2.39
+Finland,Veikkausliiga,2013,29/07/13,16:30,MyPa,Rovaniemi,0,1,A,1.73,3.71,5.64,1.8,3.71,5.64,1.74,3.48,4.71
+Finland,Veikkausliiga,2013,31/07/13,16:30,JJK Jyvaskyla,Jaro,0,0,D,2.18,3.5,3.54,2.22,3.5,3.54,2.11,3.34,3.29
+Finland,Veikkausliiga,2013,31/07/13,16:30,VPS,Lahti,0,3,A,2.24,3.34,3.54,2.29,3.65,3.8,2.15,3.24,3.28
+Finland,Veikkausliiga,2013,03/08/13,14:00,Rovaniemi,Jaro,0,0,D,2.09,3.47,3.88,2.25,3.5,4.2,1.98,3.39,3.64
+Finland,Veikkausliiga,2013,04/08/13,14:00,KuPS,HJK,0,0,D,5.11,4.04,1.72,5.25,4.09,1.8,4.75,3.7,1.69
+Finland,Veikkausliiga,2013,04/08/13,16:30,Honka,Inter Turku,0,0,D,1.77,3.7,5.23,1.78,3.85,6,1.67,3.6,5.04
+Finland,Veikkausliiga,2013,04/08/13,16:30,VPS,Mariehamn,2,2,D,2.14,3.42,3.75,2.16,3.42,3.9,2.05,3.29,3.48
+Finland,Veikkausliiga,2013,05/08/13,16:30,JJK Jyvaskyla,MyPa,0,3,A,2.66,3.31,2.88,2.66,3.35,3.1,2.43,3.19,2.85
+Finland,Veikkausliiga,2013,05/08/13,16:30,TPS,Lahti,1,2,A,1.99,3.64,4,2.1,3.66,4.4,1.96,3.42,3.68
+Finland,Veikkausliiga,2013,10/08/13,14:00,JJK Jyvaskyla,Jaro,0,0,D,2.46,3.44,3.06,2.7,3.44,3.3,2.33,3.21,3
+Finland,Veikkausliiga,2013,11/08/13,14:00,KuPS,MyPa,0,2,A,2.21,3.4,3.58,2.29,3.4,3.58,2.16,3.28,3.25
+Finland,Veikkausliiga,2013,11/08/13,16:30,Honka,TPS,2,1,H,2.02,3.44,4.19,2.04,3.75,4.95,1.91,3.4,3.91
+Finland,Veikkausliiga,2013,11/08/13,16:30,Inter Turku,HJK,1,1,D,5.19,3.7,1.78,5.25,3.7,1.81,4.65,3.48,1.75
+Finland,Veikkausliiga,2013,11/08/13,16:30,Rovaniemi,Mariehamn,0,2,A,2.02,3.66,3.87,2.19,3.66,4,2.02,3.35,3.51
+Finland,Veikkausliiga,2013,11/08/13,16:30,VPS,Lahti,3,1,H,2.38,3.38,3.23,2.38,3.41,3.25,2.27,3.2,3.09
+Finland,Veikkausliiga,2013,18/08/13,16:30,HJK,Honka,4,2,H,1.75,3.87,5.13,1.83,4,5.13,1.72,3.56,4.65
+Finland,Veikkausliiga,2013,18/08/13,16:30,MyPa,Inter Turku,1,1,D,2.04,3.37,4.18,2.1,3.5,4.3,1.95,3.32,3.86
+Finland,Veikkausliiga,2013,18/08/13,16:30,TPS,VPS,2,1,H,2.08,3.42,3.94,2.15,3.5,3.95,1.99,3.34,3.63
+Finland,Veikkausliiga,2013,21/08/13,16:30,Jaro,KuPS,2,2,D,2.16,3.42,3.64,2.17,3.6,4.09,2.06,3.32,3.47
+Finland,Veikkausliiga,2013,21/08/13,16:30,Lahti,Rovaniemi,2,3,A,1.92,3.52,4.53,2,3.75,4.55,1.88,3.4,4.01
+Finland,Veikkausliiga,2013,21/08/13,16:30,Mariehamn,JJK Jyvaskyla,4,1,H,1.99,3.69,3.96,2.02,3.75,4.25,1.9,3.54,3.74
+Finland,Veikkausliiga,2013,25/08/13,16:30,HJK,MyPa,2,1,H,1.53,4.48,6.63,1.53,5.09,7.6,1.47,4.23,6.47
+Finland,Veikkausliiga,2013,25/08/13,16:30,Honka,VPS,3,0,H,1.75,3.7,5.48,1.76,4.05,5.7,1.7,3.53,4.93
+Finland,Veikkausliiga,2013,25/08/13,16:30,JJK Jyvaskyla,Lahti,2,3,A,2.67,3.45,2.78,2.75,3.45,3,2.6,3.24,2.61
+Finland,Veikkausliiga,2013,25/08/13,16:30,KuPS,Mariehamn,3,2,H,2.24,3.57,3.35,2.36,3.58,3.5,2.2,3.33,3.13
+Finland,Veikkausliiga,2013,25/08/13,16:30,Rovaniemi,TPS,1,1,D,2.25,3.48,3.38,2.5,3.48,3.45,2.19,3.26,3.17
+Finland,Veikkausliiga,2013,26/08/13,16:30,Inter Turku,Jaro,1,0,H,2.23,3.46,3.48,2.25,3.46,3.9,2.15,3.3,3.26
+Finland,Veikkausliiga,2013,28/08/13,16:30,TPS,MyPa,1,2,A,2.63,3.28,2.94,2.63,3.3,3.1,2.42,3.21,2.82
+Finland,Veikkausliiga,2013,30/08/13,16:30,Lahti,KuPS,2,0,H,1.99,3.74,3.9,2.1,3.74,4,1.97,3.43,3.59
+Finland,Veikkausliiga,2013,31/08/13,14:00,TPS,JJK Jyvaskyla,2,2,D,1.72,4.19,4.85,1.75,4.19,5.25,1.66,3.84,4.69
+Finland,Veikkausliiga,2013,01/09/13,16:30,Jaro,HJK,1,5,A,4.76,3.86,1.8,4.76,3.86,1.84,4.45,3.54,1.76
+Finland,Veikkausliiga,2013,01/09/13,16:30,Mariehamn,Inter Turku,1,1,D,2.3,3.53,3.25,2.3,3.53,3.7,2.18,3.33,3.16
+Finland,Veikkausliiga,2013,01/09/13,16:30,MyPa,Honka,0,0,D,2.5,3.34,3.07,2.7,3.34,3.07,2.51,3.18,2.77
+Finland,Veikkausliiga,2013,01/09/13,16:30,VPS,Rovaniemi,1,1,D,2.25,3.25,3.65,2.25,3.4,3.8,2.11,3.29,3.36
+Finland,Veikkausliiga,2013,12/09/13,16:30,JJK Jyvaskyla,VPS,1,3,A,2.96,3.6,2.44,3.1,3.6,2.6,2.86,3.32,2.36
+Finland,Veikkausliiga,2013,12/09/13,16:30,MyPa,Jaro,1,0,H,1.67,4.13,5.44,1.75,4.13,5.53,1.65,3.73,5.03
+Finland,Veikkausliiga,2013,13/09/13,16:30,HJK,Mariehamn,6,1,H,1.25,6.71,13,1.3,7.2,13,1.23,5.97,10.45
+Finland,Veikkausliiga,2013,13/09/13,16:30,Honka,Rovaniemi,0,0,D,1.6,4.19,6.15,1.6,4.3,6.4,1.55,3.89,5.78
+Finland,Veikkausliiga,2013,13/09/13,16:30,Inter Turku,Lahti,1,3,A,2.1,3.56,3.74,2.2,3.56,4.1,2.12,3.31,3.31
+Finland,Veikkausliiga,2013,13/09/13,16:30,KuPS,TPS,1,1,D,2.11,3.91,3.41,2.2,3.91,3.65,2.08,3.39,3.32
+Finland,Veikkausliiga,2013,16/09/13,16:30,Jaro,Honka,1,3,A,3.51,3.61,2.16,4.15,3.61,2.16,3.64,3.31,2
+Finland,Veikkausliiga,2013,16/09/13,16:30,Lahti,HJK,0,2,A,5.36,4.12,1.68,5.36,4.12,1.75,4.72,3.73,1.69
+Finland,Veikkausliiga,2013,16/09/13,16:30,Mariehamn,MyPa,3,2,H,2.57,3.64,2.76,2.8,3.64,2.76,2.6,3.32,2.56
+Finland,Veikkausliiga,2013,16/09/13,16:30,Rovaniemi,JJK Jyvaskyla,1,1,D,1.63,4.12,5.87,1.7,4.12,5.87,1.63,3.73,5.22
+Finland,Veikkausliiga,2013,16/09/13,16:30,TPS,Inter Turku,1,1,D,2.7,3.32,2.83,2.7,3.32,2.95,2.51,3.24,2.71
+Finland,Veikkausliiga,2013,16/09/13,16:30,VPS,KuPS,2,1,H,2.33,3.38,3.34,2.33,3.55,3.85,2.14,3.29,3.31
+Finland,Veikkausliiga,2013,20/09/13,16:30,Inter Turku,VPS,1,2,A,2.02,3.78,3.75,2.25,3.78,3.75,2.1,3.32,3.35
+Finland,Veikkausliiga,2013,21/09/13,14:00,Jaro,Mariehamn,1,2,A,2.3,3.61,3.19,2.43,3.61,3.2,2.33,3.35,2.86
+Finland,Veikkausliiga,2013,22/09/13,16:30,HJK,TPS,3,1,H,1.27,6.31,11.9,1.29,6.32,13,1.25,5.67,10.14
+Finland,Veikkausliiga,2013,22/09/13,16:30,KuPS,Rovaniemi,2,0,H,1.96,3.65,4.16,2,3.65,4.19,1.95,3.36,3.76
+Finland,Veikkausliiga,2013,22/09/13,16:30,MyPa,Lahti,0,1,A,2.17,3.49,3.6,2.17,3.5,3.8,2.02,3.34,3.57
+Finland,Veikkausliiga,2013,23/09/13,16:30,Honka,JJK Jyvaskyla,3,3,D,1.26,6.27,13.5,1.3,6.27,13.5,1.25,5.67,10.14
+Finland,Veikkausliiga,2013,26/09/13,16:30,TPS,HJK,0,3,A,6.74,4.59,1.52,7,4.59,1.6,6,3.98,1.53
+Finland,Veikkausliiga,2013,27/09/13,16:30,Lahti,Jaro,5,2,H,1.62,4.17,5.82,1.67,4.17,6.25,1.6,3.83,5.37
+Finland,Veikkausliiga,2013,29/09/13,16:30,Mariehamn,Honka,3,2,H,3.18,3.62,2.3,3.2,3.63,2.4,3.01,3.36,2.25
+Finland,Veikkausliiga,2013,29/09/13,16:30,TPS,MyPa,2,1,H,3.07,3.45,2.44,3.13,3.7,2.7,2.81,3.29,2.41
+Finland,Veikkausliiga,2013,30/09/13,16:30,VPS,HJK,1,1,D,6.47,4.33,1.56,6.5,4.33,1.65,5.7,3.91,1.55
+Finland,Veikkausliiga,2013,02/10/13,16:30,JJK Jyvaskyla,KuPS,0,4,A,2.68,3.28,2.52,3,3.6,2.7,2.72,3.31,2.46
+Finland,Veikkausliiga,2013,02/10/13,16:30,Rovaniemi,Inter Turku,1,2,A,2.49,3.26,3.15,2.5,3.32,3.2,2.34,3.24,2.94
+Finland,Veikkausliiga,2013,05/10/13,13:15,Lahti,Mariehamn,5,1,H,1.93,3.87,4.03,1.95,3.9,4.3,1.86,3.61,3.81
+Finland,Veikkausliiga,2013,05/10/13,14:00,Inter Turku,JJK Jyvaskyla,2,0,H,1.5,4.61,7.2,1.6,4.61,7.2,1.5,4.08,6.13
+Finland,Veikkausliiga,2013,06/10/13,14:00,HJK,Rovaniemi,3,0,H,1.19,7.79,17.04,1.22,7.79,19,1.18,6.75,13.45
+Finland,Veikkausliiga,2013,06/10/13,14:00,Honka,KuPS,2,4,A,1.71,3.95,5.29,1.73,4.15,5.29,1.66,3.73,4.89
+Finland,Veikkausliiga,2013,06/10/13,14:00,Jaro,TPS,0,3,A,2.76,3.71,2.54,2.84,3.71,2.7,2.65,3.34,2.49
+Finland,Veikkausliiga,2013,06/10/13,14:00,MyPa,VPS,1,1,D,2.17,3.52,3.58,2.34,3.52,3.6,2.12,3.3,3.31
+Finland,Veikkausliiga,2013,20/10/13,12:00,Honka,Lahti,4,2,H,2.61,3.85,2.61,2.65,3.85,2.75,2.52,3.4,2.59
+Finland,Veikkausliiga,2013,20/10/13,12:00,JJK Jyvaskyla,HJK,0,5,A,8.4,5.82,1.36,9,5.82,1.4,7.89,4.93,1.34
+Finland,Veikkausliiga,2013,20/10/13,12:00,KuPS,Inter Turku,1,2,A,2.16,3.65,3.47,2.16,3.65,3.75,2.06,3.38,3.37
+Finland,Veikkausliiga,2013,20/10/13,12:00,Rovaniemi,MyPa,0,1,A,2.79,3.33,2.72,2.79,3.4,2.85,2.58,3.22,2.64
+Finland,Veikkausliiga,2013,20/10/13,12:00,TPS,Mariehamn,3,3,D,2.58,3.72,2.72,2.58,3.85,2.79,2.45,3.38,2.67
+Finland,Veikkausliiga,2013,20/10/13,12:00,VPS,Jaro,3,0,H,1.54,4.5,6.55,1.55,4.5,7,1.49,4.01,6.36
+Finland,Veikkausliiga,2013,26/10/13,12:00,HJK,KuPS,4,2,H,1.18,6.69,13.8,1.25,7,15.33,1.2,6.23,12.1
+Finland,Veikkausliiga,2013,26/10/13,12:00,Inter Turku,Honka,1,2,A,2.32,3.45,2.84,2.55,3.7,2.9,2.39,3.39,2.73
+Finland,Veikkausliiga,2013,26/10/13,12:00,Jaro,Rovaniemi,2,0,H,2.61,3.51,2.81,2.61,3.55,2.81,2.51,3.34,2.62
+Finland,Veikkausliiga,2013,26/10/13,12:00,Lahti,TPS,3,2,H,1.79,4.01,4.63,1.9,4.01,4.63,1.73,3.75,4.29
+Finland,Veikkausliiga,2013,26/10/13,12:00,Mariehamn,VPS,4,1,H,2.04,3.81,3.68,2.11,4,4.1,2.01,3.69,3.24
+Finland,Veikkausliiga,2013,26/10/13,12:00,MyPa,JJK Jyvaskyla,3,0,H,1.24,5.76,11.18,1.3,6.5,14,1.23,5.64,10.94
+Finland,Veikkausliiga,2014,06/04/14,14:00,HJK,Jaro,1,0,H,1.33,5.58,10.87,1.33,5.8,11.17,1.29,5.32,9
+Finland,Veikkausliiga,2014,06/04/14,14:00,MyPa,Honka,4,3,H,2.19,3.31,3.78,2.25,3.35,3.78,2.12,3.22,3.41
+Finland,Veikkausliiga,2014,06/04/14,14:00,Rovaniemi,VPS,0,2,A,2.63,3.19,3.03,2.63,3.35,3.2,2.37,3.12,3.01
+Finland,Veikkausliiga,2014,12/04/14,14:00,HJK,KuPS,3,1,H,1.32,5.52,11.2,1.33,5.9,12,1.29,5.04,10.14
+Finland,Veikkausliiga,2014,12/04/14,14:00,Rovaniemi,SJK,1,1,D,2.15,3.41,3.74,2.22,3.41,3.75,2.12,3.24,3.4
+Finland,Veikkausliiga,2014,12/04/14,14:00,TPS,Honka,0,1,A,3.34,3.48,2.28,3.34,3.48,2.38,3.1,3.26,2.24
+Finland,Veikkausliiga,2014,13/04/14,14:00,Jaro,Inter Turku,0,2,A,3.04,3.3,2.54,3.19,3.35,2.54,3.01,3.18,2.33
+Finland,Veikkausliiga,2014,13/04/14,14:00,Mariehamn ,VPS,0,3,A,2.5,3.43,3.01,2.5,3.43,3.4,2.27,3.27,3.05
+Finland,Veikkausliiga,2014,13/04/14,14:00,MyPa,Lahti,1,1,D,2.99,3.27,2.6,3.01,3.35,2.8,2.74,3.19,2.51
+Finland,Veikkausliiga,2014,19/04/14,14:00,Honka,MyPa,1,2,A,2.34,3.46,3.25,2.35,3.46,3.25,2.24,3.25,3.1
+Finland,Veikkausliiga,2014,19/04/14,14:00,Inter Turku,SJK,2,1,H,1.93,3.5,4.52,2,3.7,5,1.88,3.32,4.17
+Finland,Veikkausliiga,2014,19/04/14,14:00,KuPS,Jaro,1,4,A,2.13,3.51,3.71,2.25,3.51,3.71,2.09,3.29,3.4
+Finland,Veikkausliiga,2014,19/04/14,14:00,Lahti,HJK,3,1,H,3.87,3.49,2.08,3.95,3.6,2.08,3.71,3.31,1.99
+Finland,Veikkausliiga,2014,19/04/14,14:00,Mariehamn,Rovaniemi,2,0,H,1.78,3.84,4.95,1.83,3.84,5.1,1.77,3.56,4.41
+Finland,Veikkausliiga,2014,19/04/14,14:00,VPS,TPS,1,0,H,1.69,3.74,6.06,1.72,3.8,6.06,1.65,3.55,5.31
+Finland,Veikkausliiga,2014,22/04/14,16:30,HJK,Honka,2,2,D,1.37,5.31,9.09,1.38,5.6,10,1.33,4.92,8.56
+Finland,Veikkausliiga,2014,23/04/14,16:30,Jaro,Lahti,2,1,H,3.14,3.44,2.4,3.15,3.44,2.4,3.03,3.22,2.31
+Finland,Veikkausliiga,2014,23/04/14,16:30,MyPa,VPS,1,1,D,2.37,3.24,3.39,2.4,3.35,3.41,2.3,3.16,3.09
+Finland,Veikkausliiga,2014,23/04/14,16:30,Rovaniemi,Inter Turku,1,0,H,2.85,3.29,2.7,2.85,3.45,2.7,2.69,3.2,2.57
+Finland,Veikkausliiga,2014,23/04/14,16:30,SJK,KuPS,2,0,H,1.76,3.79,5.13,1.77,3.79,5.4,1.7,3.59,4.85
+Finland,Veikkausliiga,2014,23/04/14,16:30,TPS,Mariehamn,0,1,A,3.32,3.91,2.14,4,3.91,2.14,3.59,3.44,1.98
+Finland,Veikkausliiga,2014,26/04/14,14:00,HJK,TPS,0,1,A,1.34,5.67,9.93,1.34,6.5,12,1.26,5.57,9.97
+Finland,Veikkausliiga,2014,27/04/14,14:00,Honka,Inter Turku,3,1,H,2.96,3.4,2.54,2.97,3.45,2.75,2.7,3.24,2.52
+Finland,Veikkausliiga,2014,27/04/14,14:00,KuPS,Lahti,0,2,A,3.14,3.45,2.4,3.41,3.45,2.4,3.24,3.25,2.18
+Finland,Veikkausliiga,2014,27/04/14,14:00,Mariehamn,Jaro,1,3,A,1.87,3.79,4.39,1.88,3.8,5,1.78,3.51,4.38
+Finland,Veikkausliiga,2014,27/04/14,14:00,Rovaniemi,MyPa,0,1,A,2.28,3.16,3.7,2.28,3.4,3.7,2.17,3.14,3.37
+Finland,Veikkausliiga,2014,03/05/14,14:00,TPS,Rovaniemi,0,2,A,2.2,3.4,3.62,2.5,3.5,3.62,2.2,3.21,3.23
+Finland,Veikkausliiga,2014,04/05/14,16:30,Honka,Jaro,1,1,D,2.32,3.51,3.24,2.45,3.51,3.24,2.29,3.3,2.98
+Finland,Veikkausliiga,2014,04/05/14,16:30,Inter Turku,KuPS,1,1,D,1.56,4.23,6.72,1.6,4.23,7,1.54,3.8,6.15
+Finland,Veikkausliiga,2014,04/05/14,16:30,Lahti,SJK,1,1,D,1.93,3.5,4.57,1.99,3.7,4.57,1.88,3.4,4.05
+Finland,Veikkausliiga,2014,04/05/14,16:30,Mariehamn,MyPa,2,1,H,2.33,3.73,3.05,2.33,3.73,4.05,2.17,3.35,3.18
+Finland,Veikkausliiga,2014,04/05/14,16:30,VPS,HJK,0,2,A,5.23,3.9,1.73,5.34,3.9,1.8,4.63,3.56,1.74
+Finland,Veikkausliiga,2014,08/05/14,16:30,HJK,Mariehamn,1,0,H,1.31,6.21,9.74,1.35,6.29,12,1.29,5.4,8.93
+Finland,Veikkausliiga,2014,08/05/14,16:30,Jaro,VPS,1,0,H,2.34,3.35,3.29,2.41,3.4,3.4,2.26,3.18,3.15
+Finland,Veikkausliiga,2014,08/05/14,16:30,KuPS,Rovaniemi,1,0,H,2.15,3.37,3.81,2.2,3.4,3.85,2.12,3.18,3.46
+Finland,Veikkausliiga,2014,08/05/14,16:30,Lahti,Inter Turku,0,0,D,2.14,3.67,3.47,2.2,3.67,3.6,2.1,3.36,3.31
+Finland,Veikkausliiga,2014,08/05/14,16:30,MyPa,TPS,4,1,H,1.82,3.7,4.88,1.82,3.8,5.15,1.75,3.55,4.57
+Finland,Veikkausliiga,2014,08/05/14,16:30,SJK,Honka,0,0,D,2.23,3.46,3.49,2.25,3.46,3.6,2.13,3.26,3.37
+Finland,Veikkausliiga,2014,12/05/14,16:30,Honka,Lahti,1,0,H,2.99,3.47,2.48,2.99,3.47,2.62,2.79,3.27,2.44
+Finland,Veikkausliiga,2014,12/05/14,16:30,Mariehamn,Inter Turku,2,2,D,2.28,3.95,3,2.33,3.95,3.45,2.17,3.45,3.11
+Finland,Veikkausliiga,2014,12/05/14,16:30,MyPa,Jaro,3,2,H,2.46,3.25,3.22,2.46,3.45,3.31,2.31,3.22,3.04
+Finland,Veikkausliiga,2014,12/05/14,16:30,Rovaniemi,HJK,0,1,A,5.67,3.85,1.7,6.25,3.9,1.71,5.54,3.63,1.62
+Finland,Veikkausliiga,2014,12/05/14,16:30,TPS,SJK,2,0,H,3.12,3.32,2.48,3.13,3.35,2.53,2.89,3.22,2.4
+Finland,Veikkausliiga,2014,12/05/14,16:30,VPS,KuPS,1,1,D,2.05,3.44,4.07,2.05,3.8,4.1,1.96,3.32,3.82
+Finland,Veikkausliiga,2014,16/05/14,16:30,HJK,MyPa,4,0,H,1.5,4.64,6.95,1.56,4.64,8,1.49,4.21,6.15
+Finland,Veikkausliiga,2014,17/05/14,14:00,Inter Turku,VPS,0,0,D,2.04,3.54,3.93,2.07,3.54,4.2,1.96,3.31,3.86
+Finland,Veikkausliiga,2014,17/05/14,14:00,Jaro,TPS,2,0,H,1.94,3.56,4.35,1.95,3.6,4.5,1.86,3.39,4.15
+Finland,Veikkausliiga,2014,17/05/14,14:00,KuPS,Honka,2,0,H,2.98,3.39,2.53,2.98,3.4,2.65,2.8,3.25,2.45
+Finland,Veikkausliiga,2014,17/05/14,14:00,Lahti,Rovaniemi,1,0,H,1.65,3.75,6.58,1.68,3.8,6.58,1.61,3.58,5.78
+Finland,Veikkausliiga,2014,17/05/14,14:00,SJK,Mariehamn,3,0,H,2.29,3.55,3.25,2.46,3.55,3.25,2.31,3.3,2.95
+Finland,Veikkausliiga,2014,23/05/14,16:30,Honka,Mariehamn,2,2,D,2.68,3.77,2.58,2.8,3.77,2.8,2.57,3.39,2.57
+Finland,Veikkausliiga,2014,23/05/14,16:30,Lahti,TPS,2,0,H,1.58,4.53,5.86,1.6,4.53,6.4,1.56,3.91,5.65
+Finland,Veikkausliiga,2014,23/05/14,16:30,MyPa,KuPS,2,0,H,1.72,3.95,5.26,1.8,3.96,5.4,1.7,3.66,4.72
+Finland,Veikkausliiga,2014,23/05/14,16:30,SJK,Jaro,0,1,A,2.6,3.17,3.07,2.6,3.3,3.2,2.36,3.17,2.99
+Finland,Veikkausliiga,2014,23/05/14,16:30,VPS,Rovaniemi,2,0,H,1.79,3.75,4.96,1.79,3.75,5.6,1.72,3.48,4.89
+Finland,Veikkausliiga,2014,26/05/14,16:30,HJK,SJK,1,0,H,1.42,4.87,8.61,1.43,5,9,1.37,4.56,8.27
+Finland,Veikkausliiga,2014,26/05/14,16:30,Mariehamn,Lahti,0,0,D,2.97,3.24,2.63,2.97,3.38,2.65,2.74,3.22,2.51
+Finland,Veikkausliiga,2014,26/05/14,16:30,MyPa,Inter Turku,1,1,D,2.63,3.52,2.77,2.63,3.52,3,2.43,3.3,2.79
+Finland,Veikkausliiga,2014,26/05/14,16:30,Rovaniemi,Jaro,2,1,H,3.2,3.25,2.47,3.2,3.3,2.5,3.01,3.08,2.41
+Finland,Veikkausliiga,2014,26/05/14,16:30,TPS,KuPS,0,3,A,2.69,3.49,2.73,2.7,3.49,2.88,2.58,3.18,2.69
+Finland,Veikkausliiga,2014,26/05/14,16:30,VPS,Honka,3,0,H,2.14,3.68,3.5,2.14,3.68,4.05,2.05,3.36,3.46
+Finland,Veikkausliiga,2014,04/06/14,16:30,Inter Turku,HJK,0,2,A,3.73,3.57,2.1,4,3.75,2.1,3.66,3.41,1.97
+Finland,Veikkausliiga,2014,04/06/14,16:30,Lahti,TPS,2,0,H,1.42,4.8,9.02,1.45,4.8,9.32,1.41,4.3,7.85
+Finland,Veikkausliiga,2014,04/06/14,16:30,SJK,MyPa,1,0,H,2.38,3.22,3.39,2.75,3.4,3.39,2.46,3.1,2.89
+Finland,Veikkausliiga,2014,08/06/14,16:30,Honka,Rovaniemi,1,0,H,2.18,3.28,3.83,2.2,3.35,3.95,2.12,3.18,3.48
+Finland,Veikkausliiga,2014,08/06/14,16:30,Inter Turku,TPS,2,1,H,1.53,4.08,7.98,1.55,4.08,7.98,1.5,3.84,6.9
+Finland,Veikkausliiga,2014,08/06/14,16:30,Jaro,HJK,0,2,A,4.97,3.61,1.83,4.97,3.67,1.91,4.44,3.45,1.8
+Finland,Veikkausliiga,2014,08/06/14,16:30,KuPS,Mariehamn,4,0,H,2.65,3.49,2.78,2.65,3.53,2.98,2.52,3.29,2.68
+Finland,Veikkausliiga,2014,08/06/14,16:30,Lahti,VPS,1,1,D,2.07,3.39,4.1,2.1,3.4,4.33,2,3.17,3.89
+Finland,Veikkausliiga,2014,11/06/14,16:00,TPS,Mariehamn,3,1,H,3.65,3.6,2.13,3.75,3.6,2.15,3.43,3.35,2.08
+Finland,Veikkausliiga,2014,11/06/14,16:30,Honka,Lahti,1,1,D,3,3.27,2.62,3.01,3.4,2.62,2.87,3.16,2.46
+Finland,Veikkausliiga,2014,11/06/14,16:30,Jaro,Inter Turku,2,0,H,2.4,3.25,3.33,2.4,3.3,3.4,2.3,3.15,3.12
+Finland,Veikkausliiga,2014,11/06/14,16:30,MyPa,SJK,1,3,A,1.75,3.95,5.01,1.8,4,5.6,1.71,3.54,4.86
+Finland,Veikkausliiga,2014,11/06/14,16:30,Rovaniemi,HJK,0,0,D,6.55,4.23,1.57,7.3,4.23,1.58,6.39,3.8,1.53
+Finland,Veikkausliiga,2014,11/06/14,16:30,VPS,KuPS,0,3,A,2.16,3.46,3.66,2.16,3.46,3.9,2.04,3.27,3.61
+Finland,Veikkausliiga,2014,14/06/14,15:00,HJK,VPS,3,0,H,1.29,5.5,14.42,1.31,5.8,14.42,1.28,5,11.28
+Finland,Veikkausliiga,2014,15/06/14,14:00,Inter Turku,MyPa,1,0,H,2.31,3.32,3.45,2.31,3.4,3.6,2.17,3.23,3.3
+Finland,Veikkausliiga,2014,15/06/14,14:00,KuPS,Honka,2,0,H,1.81,4.09,4.42,1.85,4.09,4.8,1.77,3.6,4.31
+Finland,Veikkausliiga,2014,15/06/14,14:00,SJK,Rovaniemi,1,0,H,2.39,3.1,3.49,2.39,3.35,3.6,2.22,3.11,3.32
+Finland,Veikkausliiga,2014,15/06/14,16:30,Mariehamn,Jaro,4,2,H,2.47,3.7,2.85,2.66,3.7,2.85,2.49,3.32,2.7
+Finland,Veikkausliiga,2014,18/06/14,16:30,Honka,HJK,1,1,D,7.26,4.5,1.5,7.5,4.5,1.53,6.75,4.04,1.48
+Finland,Veikkausliiga,2014,18/06/14,16:30,Jaro,MyPa,1,1,D,2.17,3.36,3.76,2.18,3.5,4.05,2.09,3.26,3.45
+Finland,Veikkausliiga,2014,18/06/14,16:30,Mariehamn,Lahti,0,1,A,2.7,3.5,2.72,2.8,3.5,2.72,2.62,3.29,2.57
+Finland,Veikkausliiga,2014,18/06/14,16:30,Rovaniemi,Inter Turku,3,0,H,2.47,3.3,3.2,2.6,3.35,3.25,2.41,3.12,2.94
+Finland,Veikkausliiga,2014,18/06/14,16:30,TPS,KuPS,1,1,D,2.97,3.51,2.48,3.65,3.51,2.48,3.19,3.3,2.2
+Finland,Veikkausliiga,2014,18/06/14,16:30,VPS,SJK,0,1,A,2.5,3.24,3.17,2.55,3.25,3.25,2.36,3.12,3.06
+Finland,Veikkausliiga,2014,23/06/14,16:30,HJK,TPS,5,0,H,1.22,6.8,16.8,1.23,6.8,17,1.19,6.11,14.66
+Finland,Veikkausliiga,2014,23/06/14,16:30,Inter Turku,VPS,3,0,H,2.31,3.4,3.35,2.35,3.4,3.9,2.15,3.22,3.38
+Finland,Veikkausliiga,2014,23/06/14,16:30,KuPS,Mariehamn,1,3,A,2.02,3.99,3.58,2.04,3.99,4.1,1.97,3.47,3.61
+Finland,Veikkausliiga,2014,23/06/14,16:30,MyPa,Rovaniemi,1,1,D,2.25,3.41,3.44,2.3,3.6,4.15,2.08,3.26,3.51
+Finland,Veikkausliiga,2014,23/06/14,16:30,SJK,Honka,2,1,H,2.24,3.44,3.47,2.25,3.44,3.95,2.1,3.23,3.45
+Finland,Veikkausliiga,2014,24/06/14,16:30,Lahti,Jaro,1,0,H,1.86,3.63,4.7,1.93,3.63,4.7,1.84,3.36,4.28
+Finland,Veikkausliiga,2014,27/06/14,16:30,Honka,Inter Turku,2,1,H,2.61,3.33,2.93,2.68,3.33,2.93,2.55,3.18,2.72
+Finland,Veikkausliiga,2014,27/06/14,16:30,Jaro,Rovaniemi,1,1,D,2.08,3.41,3.98,2.11,3.45,4.45,2,3.27,3.69
+Finland,Veikkausliiga,2014,27/06/14,16:30,Lahti,KuPS,0,1,A,1.68,3.89,5.78,1.75,3.89,5.8,1.67,3.56,5.1
+Finland,Veikkausliiga,2014,27/06/14,16:30,Mariehamn,HJK,0,2,A,5.28,4.45,1.64,5.5,4.45,1.67,5.04,3.94,1.61
+Finland,Veikkausliiga,2014,27/06/14,16:30,VPS,MyPa,4,0,H,2.62,3.23,2.99,2.63,3.4,3.05,2.47,3.14,2.86
+Finland,Veikkausliiga,2014,27/06/14,17:30,TPS,SJK,0,1,A,3.28,3.35,2.35,3.35,3.4,2.36,3.16,3.26,2.22
+Finland,Veikkausliiga,2014,02/07/14,16:30,HJK,Lahti,0,0,D,1.52,4.12,8.01,1.54,4.3,8.1,1.48,3.91,7.19
+Finland,Veikkausliiga,2014,02/07/14,16:30,Inter Turku,TPS,3,2,H,1.63,4.01,6.24,1.64,4.01,6.24,1.59,3.75,5.62
+Finland,Veikkausliiga,2014,02/07/14,16:30,KuPS,Jaro,1,1,D,2.12,3.75,3.46,2.2,3.75,3.61,2.06,3.41,3.38
+Finland,Veikkausliiga,2014,02/07/14,16:30,SJK,Mariehamn,3,0,H,2.2,3.52,3.5,2.27,3.52,3.8,2.13,3.3,3.3
+Finland,Veikkausliiga,2014,06/07/14,16:30,Honka,Rovaniemi,0,2,A,3.15,3.18,2.55,3.26,3.3,2.65,2.91,3.11,2.46
+Finland,Veikkausliiga,2014,06/07/14,16:30,Jaro,VPS,1,2,A,2.38,3.47,3.17,2.56,3.47,3.4,2.27,3.26,3.12
+Finland,Veikkausliiga,2014,06/07/14,16:30,KuPS,HJK,2,2,D,5.4,3.82,1.73,5.4,3.82,1.76,4.96,3.59,1.69
+Finland,Veikkausliiga,2014,06/07/14,16:30,Mariehamn,Inter Turku,3,1,H,2.52,3.38,3.01,2.52,3.43,3.05,2.36,3.3,2.89
+Finland,Veikkausliiga,2014,07/07/14,16:30,Lahti,SJK,1,1,D,2.04,3.35,4.25,2.1,3.35,4.33,2,3.19,3.84
+Finland,Veikkausliiga,2014,07/07/14,16:30,TPS,MyPa,3,0,H,3.21,3.41,2.38,3.22,3.45,2.43,3.09,3.23,2.28
+Finland,Veikkausliiga,2014,12/07/14,14:00,Rovaniemi,TPS,3,0,H,1.71,4.06,5.15,1.71,4.06,5.8,1.65,3.69,5.11
+Finland,Veikkausliiga,2014,12/07/14,14:00,SJK,KuPS,0,0,D,2.23,3.4,3.54,2.28,3.4,3.6,2.14,3.26,3.34
+Finland,Veikkausliiga,2014,13/07/14,16:30,MyPa,Mariehamn,3,0,H,2.3,3.63,3.17,2.8,3.63,3.17,2.4,3.37,2.79
+Finland,Veikkausliiga,2014,13/07/14,16:30,VPS,Honka,3,1,H,1.63,3.95,6.31,1.7,3.95,6.31,1.62,3.69,5.44
+Finland,Veikkausliiga,2014,14/07/14,16:30,Inter Turku,Lahti,0,1,A,2.73,3.3,2.82,2.95,3.35,2.82,2.66,3.14,2.64
+Finland,Veikkausliiga,2014,19/07/14,14:00,HJK,SJK,2,0,H,1.68,3.85,5.93,1.72,3.9,6.5,1.65,3.6,5.31
+Finland,Veikkausliiga,2014,20/07/14,16:30,Honka,Jaro,0,5,A,2.87,3.59,2.52,3.15,3.59,2.52,2.91,3.36,2.32
+Finland,Veikkausliiga,2014,20/07/14,16:30,KuPS,Inter Turku,4,2,H,2.13,3.45,3.74,2.21,3.5,3.75,2.06,3.33,3.47
+Finland,Veikkausliiga,2014,20/07/14,16:30,Lahti,MyPa,3,0,H,1.59,3.88,7.16,1.65,3.98,7.16,1.58,3.66,5.92
+Finland,Veikkausliiga,2014,20/07/14,16:30,Mariehamn,Rovaniemi,2,4,A,1.79,3.74,4.97,1.81,5,5.1,1.72,3.65,4.75
+Finland,Veikkausliiga,2014,20/07/14,16:30,TPS,VPS,0,0,D,3.93,3.71,1.97,4,3.73,2.05,3.68,3.41,1.96
+Finland,Veikkausliiga,2014,26/07/14,14:00,Jaro,SJK,0,1,A,2.66,3.13,3.03,2.7,3.25,3.03,2.5,3.08,2.87
+Finland,Veikkausliiga,2014,26/07/14,15:00,Inter Turku,HJK,3,3,D,4.53,3.68,1.88,5.1,3.69,1.88,4.46,3.48,1.78
+Finland,Veikkausliiga,2014,27/07/14,16:30,Honka,TPS,1,1,D,2.43,3.5,3.05,2.43,3.5,3.3,2.31,3.29,2.97
+Finland,Veikkausliiga,2014,27/07/14,16:30,MyPa,KuPS,5,3,H,2.77,3.4,2.68,2.93,3.4,2.73,2.73,3.25,2.5
+Finland,Veikkausliiga,2014,27/07/14,16:30,Rovaniemi,Lahti,0,1,A,3.2,3.38,2.39,3.3,3.38,2.46,3.08,3.13,2.32
+Finland,Veikkausliiga,2014,27/07/14,16:30,VPS,Mariehamn,1,2,A,1.83,4,4.35,1.86,4,4.45,1.8,3.62,4.12
+Finland,Veikkausliiga,2014,02/08/14,14:00,MyPa,HJK,0,1,A,4.32,3.86,1.87,4.45,3.86,2,3.99,3.58,1.85
+Finland,Veikkausliiga,2014,03/08/14,16:30,Honka,Mariehamn,1,1,D,3.12,3.59,2.35,3.2,3.59,2.46,2.97,3.36,2.27
+Finland,Veikkausliiga,2014,03/08/14,16:30,Rovaniemi,KuPS,3,1,H,,,,2.2,3.5,3.7,2.13,3.25,3.31
+Finland,Veikkausliiga,2014,03/08/14,16:30,SJK,Inter Turku,2,2,D,1.93,3.55,4.48,1.95,3.6,4.48,1.89,3.42,3.98
+Finland,Veikkausliiga,2014,03/08/14,16:30,VPS,Lahti,1,3,A,3.35,3.36,2.34,3.5,3.36,2.39,3.15,3.18,2.26
+Finland,Veikkausliiga,2014,04/08/14,16:30,TPS,Jaro,2,2,D,3.2,3.26,2.46,3.3,3.4,2.46,3.04,3.23,2.31
+Finland,Veikkausliiga,2014,09/08/14,14:00,Inter Turku,SJK,1,1,D,3.05,3.26,2.56,3.05,3.3,2.9,2.85,3.16,2.47
+Finland,Veikkausliiga,2014,10/08/14,16:30,Jaro,TPS,1,1,D,1.71,3.99,5.26,1.76,4,5.5,1.68,3.71,4.88
+Finland,Veikkausliiga,2014,10/08/14,16:30,KuPS,Rovaniemi,1,0,H,1.97,3.53,4.26,2.02,3.6,4.26,1.95,3.41,3.76
+Finland,Veikkausliiga,2014,10/08/14,16:30,Lahti,VPS,4,1,H,1.76,3.65,5.51,1.79,3.7,6.2,1.69,3.52,5.09
+Finland,Veikkausliiga,2014,10/08/14,16:30,Mariehamn,Honka,4,1,H,1.73,4.11,4.9,1.83,4.11,4.9,1.71,3.73,4.58
+Finland,Veikkausliiga,2014,13/08/14,16:30,HJK,Inter Turku,2,0,H,1.4,5.3,8.09,1.4,5.3,9.8,1.36,4.66,8.46
+Finland,Veikkausliiga,2014,13/08/14,16:30,KuPS,MyPa,1,0,H,1.86,3.75,4.51,1.9,3.75,4.51,1.85,3.48,4.13
+Finland,Veikkausliiga,2014,13/08/14,16:30,Lahti,Rovaniemi,3,4,A,1.62,4.09,6.15,1.64,4.09,6.94,1.57,3.78,5.94
+Finland,Veikkausliiga,2014,13/08/14,16:30,Mariehamn,VPS,1,0,H,2.34,3.6,3.13,2.35,3.6,3.3,2.22,3.37,3.08
+Finland,Veikkausliiga,2014,13/08/14,16:30,SJK,Jaro,1,0,H,1.99,3.48,4.24,2.03,3.48,4.24,1.97,3.27,3.89
+Finland,Veikkausliiga,2014,13/08/14,16:30,TPS,Honka,2,1,H,2.31,3.44,3.31,2.31,3.48,3.5,2.22,3.3,3.14
+Finland,Veikkausliiga,2014,17/08/14,16:30,VPS,SJK,0,1,A,2.65,3.15,3.04,2.75,3.2,3.04,2.56,3.04,2.84
+Finland,Veikkausliiga,2014,24/08/14,16:30,Jaro,Honka,3,3,D,1.75,3.92,5.03,1.76,4,5.6,1.66,3.69,5.04
+Finland,Veikkausliiga,2014,24/08/14,16:30,MyPa,Lahti,2,2,D,3.73,3.33,2.19,3.73,3.38,2.2,3.44,3.23,2.11
+Finland,Veikkausliiga,2014,24/08/14,16:30,Rovaniemi,Mariehamn,1,3,A,2.28,3.47,3.37,2.35,3.5,3.6,2.2,3.3,3.16
+Finland,Veikkausliiga,2014,24/08/14,16:30,SJK,HJK,2,0,H,2.89,3.14,2.78,3.15,3.3,2.78,2.81,3.06,2.57
+Finland,Veikkausliiga,2014,25/08/14,16:30,Inter Turku,KuPS,0,0,D,2.19,3.67,3.37,2.3,3.67,3.6,2.1,3.43,3.27
+Finland,Veikkausliiga,2014,25/08/14,16:30,VPS,TPS,0,0,D,2,3.38,4.37,2.03,3.6,4.6,1.89,3.43,3.93
+Finland,Veikkausliiga,2014,31/08/14,15:00,Lahti,Inter Turku,0,0,D,2.01,3.67,3.92,2.04,3.7,4.9,1.88,3.47,4.04
+Finland,Veikkausliiga,2014,31/08/14,16:30,Honka,VPS,1,2,A,3.01,3.33,2.54,3.01,3.45,2.6,2.8,3.27,2.43
+Finland,Veikkausliiga,2014,31/08/14,16:30,Jaro,HJK,1,4,A,3.87,3.61,2.04,4.3,3.61,2.09,3.78,3.39,1.94
+Finland,Veikkausliiga,2014,31/08/14,16:30,KuPS,SJK,0,0,D,2.96,3.27,2.62,3,3.3,2.75,2.69,3.12,2.62
+Finland,Veikkausliiga,2014,31/08/14,16:30,Mariehamn,MyPa,3,1,H,1.83,3.94,4.45,1.9,4,5,1.75,3.68,4.35
+Finland,Veikkausliiga,2014,31/08/14,16:30,TPS,Rovaniemi,4,2,H,3.11,3.35,2.46,3.11,3.4,2.6,2.89,3.19,2.41
+Finland,Veikkausliiga,2014,12/09/14,16:30,HJK,KuPS,2,2,D,1.4,5.12,8.5,1.4,5.12,9.6,1.37,4.66,8.02
+Finland,Veikkausliiga,2014,13/09/14,14:00,Inter Turku,Mariehamn,0,2,A,2.05,3.85,3.59,2.25,3.85,3.6,2.04,3.55,3.34
+Finland,Veikkausliiga,2014,13/09/14,14:00,SJK,Lahti,1,1,D,2.41,3.22,3.33,2.43,3.3,3.55,2.29,3.09,3.22
+Finland,Veikkausliiga,2014,14/09/14,16:30,MyPa,TPS,2,1,H,1.83,3.92,4.48,1.87,4.2,4.9,1.77,3.64,4.33
+Finland,Veikkausliiga,2014,14/09/14,16:30,Rovaniemi,Honka,2,1,H,1.58,4.27,6.31,1.63,4.4,6.31,1.56,4.02,5.55
+Finland,Veikkausliiga,2014,14/09/14,16:30,VPS,Jaro,3,3,D,2.45,3.4,3.1,2.45,3.4,3.55,2.29,3.25,3.07
+Finland,Veikkausliiga,2014,17/09/14,16:30,Honka,MyPa,2,0,H,2.94,3.68,2.41,3.05,3.85,2.46,2.86,3.42,2.33
+Finland,Veikkausliiga,2014,17/09/14,16:30,Mariehamn,SJK,2,2,D,2.17,3.57,3.52,2.55,3.65,3.65,2.16,3.34,3.26
+Finland,Veikkausliiga,2014,17/09/14,16:30,TPS,Inter Turku,1,6,A,3.01,3.5,2.45,4,3.6,2.46,3.03,3.33,2.28
+Finland,Veikkausliiga,2014,17/09/14,16:30,VPS,Rovaniemi,2,0,H,2.39,3.31,3.26,2.39,3.4,3.33,2.27,3.2,3.13
+Finland,Veikkausliiga,2014,19/09/14,16:30,Jaro,KuPS,3,2,H,2.51,3.72,2.79,2.6,3.72,2.98,2.44,3.4,2.7
+Finland,Veikkausliiga,2014,21/09/14,14:00,SJK,TPS,2,1,H,1.42,4.74,9.07,1.44,5.5,10.71,1.37,4.47,8.59
+Finland,Veikkausliiga,2014,21/09/14,16:30,HJK,Mariehamn,5,1,H,1.43,5.1,7.56,1.47,5.1,8.5,1.43,4.53,6.7
+Finland,Veikkausliiga,2014,21/09/14,16:30,MyPa,VPS,0,0,D,2.59,3.42,2.88,2.7,3.42,2.98,2.49,3.25,2.75
+Finland,Veikkausliiga,2014,22/09/14,16:30,Inter Turku,Honka,2,2,D,1.76,4.09,4.7,1.87,4.4,5.5,1.68,3.85,4.67
+Finland,Veikkausliiga,2014,22/09/14,16:30,KuPS,Lahti,1,1,D,2.77,3.44,2.68,2.78,3.45,2.76,2.61,3.18,2.66
+Finland,Veikkausliiga,2014,22/09/14,16:30,Rovaniemi,Jaro,0,1,A,2.03,3.77,3.77,2.1,3.8,3.8,2,3.47,3.5
+Finland,Veikkausliiga,2014,25/09/14,16:30,Lahti,HJK,0,2,A,3.46,3.69,2.16,3.46,3.69,2.25,3.25,3.34,2.15
+Finland,Veikkausliiga,2014,28/09/14,15:00,Honka,SJK,1,1,D,3.48,3.57,2.19,3.9,3.7,2.19,3.47,3.41,2.04
+Finland,Veikkausliiga,2014,28/09/14,15:00,Jaro,Lahti,0,4,A,2.83,3.41,2.65,2.91,3.5,2.65,2.72,3.28,2.5
+Finland,Veikkausliiga,2014,28/09/14,15:00,Mariehamn,KuPS,3,1,H,2.24,3.7,3.25,2.25,3.7,3.65,2.14,3.41,3.23
+Finland,Veikkausliiga,2014,28/09/14,15:00,Rovaniemi,MyPa,0,0,D,1.73,3.99,5.08,1.91,4.2,5.25,1.71,3.72,4.58
+Finland,Veikkausliiga,2014,28/09/14,15:00,TPS,HJK,1,4,A,7.68,4.76,1.46,8.8,5.3,1.46,7.05,4.46,1.42
+Finland,Veikkausliiga,2014,28/09/14,15:00,VPS,Inter Turku,1,0,H,2.36,3.48,3.18,2.4,3.55,3.3,2.22,3.34,3.12
+Finland,Veikkausliiga,2014,05/10/14,12:00,SJK,VPS,0,3,A,2,3.39,4.36,2.05,3.5,5,1.92,3.3,4.09
+Finland,Veikkausliiga,2014,05/10/14,15:00,Inter Turku,Rovaniemi,4,1,H,1.93,3.72,4.21,2,3.9,4.45,1.91,3.46,3.9
+Finland,Veikkausliiga,2014,05/10/14,16:30,HJK,Honka,1,1,D,1.28,6.35,11.25,1.3,6.4,11.64,1.26,5.6,9.72
+Finland,Veikkausliiga,2014,05/10/14,16:30,KuPS,TPS,1,0,H,1.59,4.36,6,1.59,4.55,6.5,1.53,4.11,5.77
+Finland,Veikkausliiga,2014,05/10/14,16:30,Lahti,Mariehamn,1,1,D,1.81,3.93,4.57,1.82,4,4.9,1.75,3.68,4.38
+Finland,Veikkausliiga,2014,05/10/14,16:30,MyPa,Jaro,2,1,H,2.5,3.57,2.9,2.5,3.57,3.01,2.35,3.34,2.88
+Finland,Veikkausliiga,2014,16/10/14,16:30,HJK,MyPa,2,0,H,1.31,5.9,11.1,1.34,6.03,12.06,1.27,5.41,10.14
+Finland,Veikkausliiga,2014,18/10/14,12:00,Honka,KuPS,2,2,D,2.81,3.53,2.6,2.88,3.6,2.75,2.67,3.35,2.5
+Finland,Veikkausliiga,2014,18/10/14,12:00,Jaro,Mariehamn,1,0,H,2.64,3.71,2.66,2.72,3.75,2.8,2.58,3.42,2.56
+Finland,Veikkausliiga,2014,18/10/14,12:00,Rovaniemi,SJK,1,2,A,2.69,3.2,2.93,2.9,3.4,2.93,2.59,3.22,2.68
+Finland,Veikkausliiga,2014,18/10/14,12:00,TPS,Lahti,0,1,A,5.18,4.09,1.7,5.5,4.09,1.72,5.06,3.74,1.65
+Finland,Veikkausliiga,2014,19/10/14,12:00,MyPa,Inter Turku,2,2,D,2.67,3.55,2.71,2.72,3.55,2.8,2.53,3.26,2.66
+Finland,Veikkausliiga,2014,19/10/14,12:00,VPS,HJK,1,1,D,3.04,3.25,2.57,3.1,3.45,2.6,2.85,3.2,2.43
+Finland,Veikkausliiga,2014,25/10/14,12:00,Inter Turku,Jaro,0,1,A,2.53,3.66,2.76,2.7,3.66,2.85,2.48,3.39,2.68
+Finland,Veikkausliiga,2014,25/10/14,12:00,KuPS,VPS,0,1,A,2.42,3.41,3.09,2.54,3.55,3.15,2.34,3.25,2.97
+Finland,Veikkausliiga,2014,25/10/14,12:00,Lahti,Honka,2,0,H,1.52,4.5,6.68,1.6,4.6,7.8,1.5,4.18,6.17
+Finland,Veikkausliiga,2014,25/10/14,12:00,SJK,MyPa,3,1,H,1.42,4.74,8.68,1.45,4.74,8.68,1.43,4.25,7.37
+Finland,Veikkausliiga,2014,25/10/14,12:45,Mariehamn,TPS,3,1,H,1.29,6.09,11,1.32,6.13,12,1.28,5.45,10.11
+Finland,Veikkausliiga,2014,26/10/14,12:00,HJK,Rovaniemi,3,0,H,1.36,5.32,9.15,1.36,6,12,1.31,5.18,8.86
+Finland,Veikkausliiga,2015,12/04/15,15:00,Inter Turku,SJK,1,1,D,4.57,3.35,1.97,4.57,3.62,2.03,4.07,3.19,1.94
+Finland,Veikkausliiga,2015,12/04/15,15:00,Jaro,Mariehamn,1,1,D,3.21,3.5,2.34,3.25,3.58,2.5,3,3.3,2.28
+Finland,Veikkausliiga,2015,12/04/15,15:00,Lahti,KTP,1,1,D,1.78,3.58,5.48,1.83,3.65,5.5,1.73,3.42,4.99
+Finland,Veikkausliiga,2015,12/04/15,15:00,Rovaniemi,HJK,1,3,A,5.77,3.79,1.7,5.77,3.95,1.75,5.23,3.57,1.67
+Finland,Veikkausliiga,2015,19/04/15,14:00,HJK,Lahti,1,1,D,1.56,4.01,7.5,1.59,4.3,7.8,1.51,3.82,6.76
+Finland,Veikkausliiga,2015,19/04/15,14:00,Inter Turku,Ilves,3,1,H,1.74,3.73,5.47,1.76,3.8,6,1.69,3.55,5.14
+Finland,Veikkausliiga,2015,19/04/15,14:00,KTP,KuPS,0,1,A,3.54,3.43,2.23,3.54,3.43,2.3,3.25,3.25,2.19
+Finland,Veikkausliiga,2015,19/04/15,14:00,Mariehamn,HIFK,1,1,D,1.95,3.66,4.17,1.99,3.66,4.4,1.9,3.45,3.92
+Finland,Veikkausliiga,2015,19/04/15,14:00,SJK,Rovaniemi,1,0,H,1.48,4.27,8.61,1.5,4.65,8.61,1.46,4,7.48
+Finland,Veikkausliiga,2015,23/04/15,16:30,HIFK,HJK,1,1,D,7.74,4.58,1.48,9.1,4.58,1.52,7.22,4.11,1.45
+Finland,Veikkausliiga,2015,23/04/15,16:30,Ilves,KTP,0,0,D,2.51,3.17,3.22,2.51,3.3,3.4,2.34,3.07,3.14
+Finland,Veikkausliiga,2015,23/04/15,16:30,Jaro,SJK,0,1,A,4.7,3.41,1.94,4.7,3.6,1.94,4.33,3.3,1.87
+Finland,Veikkausliiga,2015,23/04/15,16:30,KuPS,VPS,1,0,H,1.93,3.54,4.47,1.96,3.75,4.75,1.89,3.31,4.15
+Finland,Veikkausliiga,2015,23/04/15,16:30,Lahti,Mariehamn,0,1,A,2.03,3.37,4.24,2.03,3.6,5.1,1.89,3.3,4.18
+Finland,Veikkausliiga,2015,23/04/15,16:30,Rovaniemi,Inter Turku,0,4,A,2.73,3.48,2.69,2.91,3.5,2.85,2.61,3.24,2.63
+Finland,Veikkausliiga,2015,29/04/15,16:30,HJK,KTP,1,0,H,1.22,6.55,17.8,1.25,7,19.5,1.21,5.87,14.31
+Finland,Veikkausliiga,2015,29/04/15,16:30,Jaro,Ilves,3,1,H,2.09,3.36,4.05,2.1,3.4,4.2,2.02,3.24,3.74
+Finland,Veikkausliiga,2015,29/04/15,16:30,Rovaniemi,HIFK,2,0,H,2.38,3.39,3.23,2.4,3.5,3.5,2.28,3.19,3.12
+Finland,Veikkausliiga,2015,29/04/15,16:30,VPS,Mariehamn,0,1,A,2.44,3.22,3.27,2.44,3.35,3.6,2.27,3.13,3.21
+Finland,Veikkausliiga,2015,03/05/15,14:00,HJK,Jaro,3,0,H,1.27,5.87,14.87,1.3,6,15.33,1.25,5.29,12.78
+Finland,Veikkausliiga,2015,03/05/15,14:00,Ilves,Rovaniemi,0,1,A,3.05,3.15,2.64,3.05,3.3,2.7,2.82,3.07,2.55
+Finland,Veikkausliiga,2015,03/05/15,14:00,KTP,VPS,3,2,H,3.06,3.16,2.61,3.1,3.3,2.62,2.88,3.06,2.51
+Finland,Veikkausliiga,2015,03/05/15,14:00,Lahti,Inter Turku,1,1,D,2.36,3.3,3.37,2.42,3.35,3.5,2.26,3.17,3.19
+Finland,Veikkausliiga,2015,03/05/15,14:00,Mariehamn,KuPS,1,1,D,2.32,3.36,3.38,2.54,3.4,3.38,2.29,3.17,3.12
+Finland,Veikkausliiga,2015,03/05/15,14:00,SJK,HIFK,2,0,H,1.52,4.12,8.06,1.52,4.33,8.5,1.47,3.9,7.48
+Finland,Veikkausliiga,2015,08/05/15,16:30,HIFK,Inter Turku,2,1,H,3.08,3.42,2.45,3.3,3.42,2.45,3.04,3.26,2.29
+Finland,Veikkausliiga,2015,08/05/15,16:30,Jaro,Rovaniemi,1,2,A,2.52,3.23,3.12,2.57,3.25,3.15,2.4,3.11,2.98
+Finland,Veikkausliiga,2015,08/05/15,16:30,KuPS,HJK,1,0,H,5.87,3.69,1.71,5.87,3.8,1.78,5.05,3.52,1.7
+Finland,Veikkausliiga,2015,08/05/15,16:30,Lahti,SJK,1,0,H,3.23,3.07,2.57,3.23,3.15,2.6,3.01,3,2.46
+Finland,Veikkausliiga,2015,08/05/15,16:30,Mariehamn,KTP,2,1,H,1.75,3.65,5.59,1.79,3.85,5.7,1.69,3.52,5.14
+Finland,Veikkausliiga,2015,08/05/15,16:30,VPS,Ilves,2,3,A,1.93,3.56,4.44,1.95,3.58,5.25,1.83,3.34,4.45
+Finland,Veikkausliiga,2015,11/05/15,16:30,HJK,VPS,1,0,H,1.32,5.52,11.45,1.32,6,12.56,1.28,5.1,10.37
+Finland,Veikkausliiga,2015,11/05/15,16:30,Inter Turku,Jaro,2,0,H,1.63,4.16,5.82,1.67,4.16,5.85,1.61,3.79,5.37
+Finland,Veikkausliiga,2015,11/05/15,16:30,SJK,KuPS,5,0,H,2.08,3.17,4.36,2.13,3.35,4.5,1.98,3.14,4
+Finland,Veikkausliiga,2015,14/05/15,12:00,HJK,Mariehamn,1,0,H,1.51,4.32,7.76,1.52,4.7,8.8,1.46,4.16,6.97
+Finland,Veikkausliiga,2015,14/05/15,12:00,Ilves,HIFK,1,1,D,2.61,3.23,3.01,2.85,3.3,3.01,2.59,3.09,2.76
+Finland,Veikkausliiga,2015,14/05/15,12:00,SJK,VPS,2,0,H,1.54,4.01,8.01,1.55,4.4,8.01,1.49,3.81,7.27
+Finland,Veikkausliiga,2015,14/05/15,16:30,Inter Turku,KTP,4,1,H,1.72,3.75,5.65,1.75,3.85,5.76,1.68,3.57,5.15
+Finland,Veikkausliiga,2015,14/05/15,16:30,Jaro,Lahti,1,1,D,3.81,3.24,2.2,3.81,3.45,2.3,3.5,3.17,2.12
+Finland,Veikkausliiga,2015,14/05/15,16:30,Rovaniemi,KuPS,1,0,H,2.37,3.3,3.31,2.4,3.35,3.4,2.3,3.19,3.08
+Finland,Veikkausliiga,2015,17/05/15,15:00,HIFK,Jaro,3,2,H,2.05,3.51,3.96,2.1,3.55,3.98,2,3.32,3.68
+Finland,Veikkausliiga,2015,17/05/15,15:00,KTP,SJK,0,0,D,6.56,3.8,1.64,6.56,3.8,1.74,5.91,3.58,1.61
+Finland,Veikkausliiga,2015,17/05/15,15:00,KuPS,Inter Turku,1,1,D,2.41,3.36,3.2,2.41,3.4,3.48,2.24,3.22,3.17
+Finland,Veikkausliiga,2015,17/05/15,15:00,Lahti,Rovaniemi,1,2,A,2.1,3.29,4.1,2.13,3.38,4.3,2.01,3.18,3.91
+Finland,Veikkausliiga,2015,17/05/15,15:00,Mariehamn,Ilves,2,0,H,1.61,4.07,6.31,1.62,4.08,7,1.56,3.79,6.04
+Finland,Veikkausliiga,2015,17/05/15,15:00,VPS,HJK,2,2,D,7.44,3.99,1.56,7.44,4,1.62,6.55,3.76,1.53
+Finland,Veikkausliiga,2015,20/05/15,16:30,KuPS,Lahti,0,3,A,2.56,3.24,3.07,2.56,3.24,3.28,2.4,3.11,2.99
+Finland,Veikkausliiga,2015,20/05/15,16:30,Mariehamn,Rovaniemi,1,0,H,2.09,3.4,3.96,2.11,3.65,4,2.03,3.25,3.67
+Finland,Veikkausliiga,2015,20/05/15,16:30,SJK,Ilves,3,0,H,1.36,5.25,10.08,1.36,5.25,12.5,1.32,4.7,10.02
+Finland,Veikkausliiga,2015,21/05/15,16:30,HJK,Inter Turku,2,0,H,1.42,4.89,8.7,1.51,5,8.7,1.41,4.44,7.42
+Finland,Veikkausliiga,2015,21/05/15,16:30,KTP,HIFK,1,2,A,2.38,3.31,3.3,2.57,3.4,3.3,2.35,3.2,3
+Finland,Veikkausliiga,2015,21/05/15,16:30,VPS,Jaro,1,2,A,2.07,3.52,3.87,2.13,3.52,4.2,2.01,3.32,3.7
+Finland,Veikkausliiga,2015,23/05/15,14:00,Ilves,Lahti,2,1,H,4.23,3.36,2.05,4.25,3.45,2.06,3.84,3.24,1.99
+Finland,Veikkausliiga,2015,24/05/15,16:30,Jaro,KTP,0,2,A,2.2,3.42,3.61,2.24,3.5,3.65,2.14,3.25,3.35
+Finland,Veikkausliiga,2015,24/05/15,16:30,SJK,HJK,1,2,A,2.83,3.1,2.85,2.83,3.25,2.89,2.71,2.99,2.7
+Finland,Veikkausliiga,2015,25/05/15,16:30,HIFK,KuPS,1,1,D,2.47,3.38,3.08,2.48,3.4,3.1,2.39,3.22,2.91
+Finland,Veikkausliiga,2015,25/05/15,16:30,Inter Turku,Mariehamn,1,1,D,2.33,3.55,3.16,2.38,3.6,3.2,2.27,3.31,3.04
+Finland,Veikkausliiga,2015,28/05/15,16:30,KTP,Lahti,0,0,D,3.76,3.45,2.13,3.9,3.45,2.17,3.55,3.23,2.08
+Finland,Veikkausliiga,2015,29/05/15,16:30,HJK,KuPS,1,1,D,1.27,5.93,14.02,1.31,6.2,14.02,1.26,5.34,11.05
+Finland,Veikkausliiga,2015,29/05/15,16:30,Rovaniemi,VPS,1,0,H,2.05,3.44,4.06,2.06,3.5,4.4,1.94,3.3,3.96
+Finland,Veikkausliiga,2015,03/06/15,16:30,HJK,Ilves,2,1,H,1.2,7.08,19.16,1.24,7.08,21,1.19,6.18,14.47
+Finland,Veikkausliiga,2015,03/06/15,16:30,Lahti,HIFK,2,0,H,1.93,3.78,4.14,1.95,3.78,4.7,1.85,3.45,4.14
+Finland,Veikkausliiga,2015,03/06/15,16:30,Mariehamn,SJK,0,3,A,2.7,3.14,2.95,2.88,3.25,2.96,2.63,3.06,2.74
+Finland,Veikkausliiga,2015,03/06/15,16:30,Rovaniemi,KTP,4,0,H,1.68,3.77,6.02,1.75,3.85,6.02,1.68,3.51,5.21
+Finland,Veikkausliiga,2015,03/06/15,16:30,VPS,Inter Turku,3,0,H,2.82,3.33,2.7,3.13,3.55,2.7,2.8,3.19,2.5
+Finland,Veikkausliiga,2015,06/06/15,14:00,Ilves,Inter Turku,1,0,H,3.61,3.64,2.11,3.7,3.64,2.2,3.4,3.34,2.09
+Finland,Veikkausliiga,2015,07/06/15,12:00,HIFK,Jaro,0,0,D,1.99,3.8,3.86,2.05,3.8,4.25,1.95,3.48,3.68
+Finland,Veikkausliiga,2015,07/06/15,12:00,KuPS,VPS,0,0,D,2.2,3.38,3.64,2.22,3.4,3.88,2.06,3.24,3.6
+Finland,Veikkausliiga,2015,07/06/15,12:00,Lahti,HJK,0,0,D,4.13,3.45,2.03,4.33,3.55,2.06,3.97,3.27,1.94
+Finland,Veikkausliiga,2015,07/06/15,12:00,SJK,Rovaniemi,0,1,A,1.75,3.66,5.53,1.75,3.7,6.1,1.66,3.52,5.38
+Finland,Veikkausliiga,2015,08/06/15,16:30,KTP,Mariehamn,0,2,A,4.23,3.51,1.98,4.35,3.65,2.05,3.88,3.34,1.95
+Finland,Veikkausliiga,2015,16/06/15,16:30,HIFK,Rovaniemi,1,1,D,3.04,3.33,2.53,3.28,3.45,2.57,2.97,3.19,2.36
+Finland,Veikkausliiga,2015,16/06/15,16:30,Jaro,Ilves,3,0,H,2.14,3.5,3.69,2.21,3.65,3.96,2.1,3.3,3.46
+Finland,Veikkausliiga,2015,17/06/15,16:30,HJK,SJK,3,1,H,1.76,3.55,5.77,1.81,3.85,6,1.7,3.45,5.25
+Finland,Veikkausliiga,2015,17/06/15,16:30,Inter Turku,KTP,3,0,H,1.53,4.28,7.27,1.6,4.65,7.5,1.49,4.14,6.42
+Finland,Veikkausliiga,2015,17/06/15,16:30,Mariehamn,KuPS,2,3,A,1.88,3.63,4.6,1.9,3.75,4.6,1.84,3.42,4.3
+Finland,Veikkausliiga,2015,17/06/15,16:30,VPS,Lahti,2,0,H,3.19,3.17,2.52,3.35,3.3,2.52,3.02,3.12,2.39
+Finland,Veikkausliiga,2015,22/06/15,16:30,HJK,Jaro,4,0,H,1.25,6.38,15.29,1.26,6.5,15.33,1.23,5.72,12.01
+Finland,Veikkausliiga,2015,22/06/15,16:30,Inter Turku,HIFK,3,1,H,1.77,4.01,4.75,1.78,4.25,5.4,1.72,3.72,4.56
+Finland,Veikkausliiga,2015,22/06/15,16:30,KTP,KuPS,3,1,H,3.19,3.26,2.47,3.3,3.35,2.53,3.02,3.15,2.37
+Finland,Veikkausliiga,2015,22/06/15,16:30,Lahti,Mariehamn,0,0,D,2.13,3.32,3.94,2.15,3.4,3.94,2.07,3.27,3.55
+Finland,Veikkausliiga,2015,22/06/15,16:30,Rovaniemi,Ilves,4,1,H,1.5,4.35,7.81,1.55,4.5,8.4,1.48,4.03,6.77
+Finland,Veikkausliiga,2015,22/06/15,16:30,SJK,VPS,3,2,H,1.59,3.95,7.03,1.59,4.3,7.4,1.51,3.77,6.86
+Finland,Veikkausliiga,2015,25/06/15,16:30,Jaro,KTP,0,0,D,2.02,3.5,4.11,2.22,3.7,4.25,2.01,3.34,3.62
+Finland,Veikkausliiga,2015,25/06/15,16:30,KuPS,Lahti,1,0,H,2.85,3.2,2.76,2.91,3.2,3.1,2.67,3.05,2.72
+Finland,Veikkausliiga,2015,25/06/15,16:30,Mariehamn,SJK,1,1,D,2.9,3.23,2.7,3,3.5,2.7,2.82,3.15,2.5
+Finland,Veikkausliiga,2015,25/06/15,16:30,Rovaniemi,Inter Turku,1,1,D,2.02,3.57,4.01,2.05,3.95,4.25,1.97,3.41,3.72
+Finland,Veikkausliiga,2015,25/06/15,16:30,VPS,HIFK,0,2,A,2.02,3.55,4.02,2.07,3.55,4.1,1.99,3.31,3.74
+Finland,Veikkausliiga,2015,26/06/15,16:30,Ilves,HJK,1,1,D,8.4,4.63,1.45,9,5,1.47,7.39,4.38,1.42
+Finland,Veikkausliiga,2015,28/06/15,16:30,HIFK,Mariehamn,1,1,D,2.56,3.44,2.91,2.73,3.44,2.91,2.53,3.26,2.71
+Finland,Veikkausliiga,2015,28/06/15,16:30,Jaro,Rovaniemi,0,1,A,2.92,3.32,2.63,3.1,3.4,2.66,2.85,3.17,2.48
+Finland,Veikkausliiga,2015,29/06/15,16:30,Inter Turku,HJK,3,0,H,3.68,3.48,2.14,4,3.6,2.15,3.63,3.33,2.03
+Finland,Veikkausliiga,2015,05/07/15,16:30,KuPS,Jaro,1,3,A,1.99,3.57,4.13,2.02,3.7,4.2,1.92,3.42,3.89
+Finland,Veikkausliiga,2015,05/07/15,16:30,Mariehamn,Ilves,0,0,D,1.49,4.5,7.5,1.55,4.6,7.5,1.47,4.14,6.6
+Finland,Veikkausliiga,2015,05/07/15,16:30,VPS,Inter Turku,0,0,D,3.02,3.37,2.52,3.03,3.38,2.63,2.88,3.19,2.44
+Finland,Veikkausliiga,2015,06/07/15,16:30,HJK,HIFK,1,1,D,1.5,4.52,7.3,1.5,4.7,9.33,1.42,4.31,7.47
+Finland,Veikkausliiga,2015,06/07/15,16:30,KTP,Rovaniemi,0,0,D,3.53,3.5,2.19,3.61,3.55,2.2,3.43,3.28,2.1
+Finland,Veikkausliiga,2015,06/07/15,16:30,Lahti,SJK,1,0,H,2.56,3.07,3.25,2.72,3.15,3.25,2.55,2.98,2.91
+Finland,Veikkausliiga,2015,10/07/15,16:30,Rovaniemi,HJK,2,1,H,3.04,3.24,2.58,3.2,3.26,2.58,2.99,3.14,2.39
+Finland,Veikkausliiga,2015,12/07/15,16:30,Ilves,KuPS,1,0,H,2.72,3.24,2.86,2.88,3.25,2.91,2.61,3.15,2.7
+Finland,Veikkausliiga,2015,12/07/15,16:30,Jaro,VPS,2,1,H,2.19,3.39,3.67,2.21,3.52,3.84,2.09,3.26,3.48
+Finland,Veikkausliiga,2015,12/07/15,16:30,SJK,KTP,1,0,H,1.4,4.7,10.05,1.45,4.75,10.37,1.38,4.33,8.69
+Finland,Veikkausliiga,2015,13/07/15,16:30,Inter Turku,Mariehamn,1,1,D,2.4,3.39,3.19,2.4,3.42,3.38,2.33,3.26,2.97
+Finland,Veikkausliiga,2015,19/07/15,16:30,KuPS,Inter Turku,1,1,D,3.08,3.31,2.51,3.08,3.4,2.65,2.84,3.21,2.46
+Finland,Veikkausliiga,2015,19/07/15,16:30,Lahti,Ilves,3,1,H,1.63,3.93,6.32,1.75,3.93,6.5,1.62,3.69,5.47
+Finland,Veikkausliiga,2015,19/07/15,16:30,Mariehamn,Jaro,4,3,H,1.66,4.1,5.64,1.67,4.1,6.5,1.63,3.75,5.31
+Finland,Veikkausliiga,2015,19/07/15,16:30,SJK,HIFK,4,1,H,1.57,4.08,6.96,1.59,4.1,7.5,1.53,3.86,6.35
+Finland,Veikkausliiga,2015,19/07/15,16:30,VPS,Rovaniemi,1,1,D,3.17,3.27,2.48,3.38,3.35,2.48,3,3.19,2.36
+Finland,Veikkausliiga,2015,25/07/15,14:00,HJK,KTP,2,1,H,1.28,6.01,12.98,1.3,6.1,13.5,1.28,5.17,10.93
+Finland,Veikkausliiga,2015,25/07/15,14:00,Jaro,HIFK,0,2,A,2.19,3.39,3.65,2.27,3.5,3.65,2.13,3.33,3.32
+Finland,Veikkausliiga,2015,26/07/15,16:30,Ilves,SJK,0,0,D,4.93,3.86,1.78,5.4,3.86,1.78,4.88,3.56,1.71
+Finland,Veikkausliiga,2015,26/07/15,16:30,Inter Turku,Lahti,0,2,A,2.28,3.57,3.27,2.3,3.57,3.6,2.23,3.32,3.11
+Finland,Veikkausliiga,2015,26/07/15,16:30,Rovaniemi,Mariehamn,1,1,D,2.47,3.39,3.08,2.49,3.4,3.52,2.3,3.23,3.06
+Finland,Veikkausliiga,2015,01/08/15,14:00,HIFK,Ilves,2,2,D,1.8,3.82,4.83,1.85,3.9,4.95,1.79,3.58,4.33
+Finland,Veikkausliiga,2015,02/08/15,13:00,SJK,Inter Turku,0,1,A,1.62,4.15,6.05,1.67,4.2,6.5,1.59,3.84,5.47
+Finland,Veikkausliiga,2015,02/08/15,16:30,KuPS,Rovaniemi,3,0,H,2.53,3.42,2.96,2.75,3.42,3,2.5,3.24,2.75
+Finland,Veikkausliiga,2015,02/08/15,16:30,Lahti,Jaro,1,1,D,1.6,4.19,6.19,1.65,4.19,6.5,1.58,3.87,5.59
+Finland,Veikkausliiga,2015,03/08/15,16:30,KTP,VPS,0,0,D,2.48,3.23,3.2,2.52,3.32,3.2,2.45,3.15,2.89
+Finland,Veikkausliiga,2015,09/08/15,14:00,Ilves,KTP,2,0,H,2.03,3.49,4.06,2.11,3.6,4.33,1.97,3.35,3.78
+Finland,Veikkausliiga,2015,09/08/15,14:00,Jaro,SJK,1,0,H,4.35,3.68,1.91,4.39,3.68,1.97,4.02,3.46,1.87
+Finland,Veikkausliiga,2015,09/08/15,14:00,KuPS,HIFK,2,0,H,2.27,3.27,3.59,2.27,3.4,3.8,2.11,3.29,3.41
+Finland,Veikkausliiga,2015,09/08/15,14:00,Rovaniemi,Lahti,1,2,A,2.93,3.12,2.76,2.93,3.2,2.87,2.73,3.05,2.66
+Finland,Veikkausliiga,2015,09/08/15,14:00,VPS,Mariehamn,1,0,H,3.33,3.4,2.31,3.35,3.4,2.4,3.09,3.26,2.27
+Finland,Veikkausliiga,2015,12/08/15,16:30,HJK,Lahti,1,0,H,1.76,3.63,5.51,1.8,3.8,5.6,1.7,3.49,5.08
+Finland,Veikkausliiga,2015,12/08/15,16:30,Inter Turku,Ilves,1,2,A,1.64,4.33,5.44,1.72,4.33,5.55,1.62,3.94,5.04
+Finland,Veikkausliiga,2015,12/08/15,16:30,Mariehamn,KTP,0,1,A,1.34,5.55,9.97,1.44,5.7,10.5,1.34,4.9,8.52
+Finland,Veikkausliiga,2015,12/08/15,16:30,Rovaniemi,SJK,2,0,H,3.41,3.19,2.38,3.41,3.24,2.49,3.1,3.08,2.35
+Finland,Veikkausliiga,2015,12/08/15,16:30,VPS,KuPS,2,2,D,2.48,3.3,3.15,2.52,3.3,3.3,2.37,3.14,3.01
+Finland,Veikkausliiga,2015,16/08/15,16:30,Ilves,Jaro,1,0,H,2.31,3.51,3.21,2.45,3.53,3.21,2.32,3.28,2.96
+Finland,Veikkausliiga,2015,16/08/15,16:30,Lahti,VPS,0,0,D,1.72,3.79,5.55,1.77,3.79,5.55,1.71,3.5,4.99
+Finland,Veikkausliiga,2015,17/08/15,16:30,HIFK,Rovaniemi,1,1,D,2.65,3.3,2.91,2.66,3.39,2.91,2.52,3.17,2.76
+Finland,Veikkausliiga,2015,19/08/15,16:30,KTP,Inter Turku,4,1,H,3.16,3.34,2.45,3.16,3.44,2.55,2.89,3.16,2.42
+Finland,Veikkausliiga,2015,19/08/15,16:30,KuPS,Mariehamn,0,0,D,2.67,3.27,2.9,2.78,3.3,2.9,2.61,3.15,2.68
+Finland,Veikkausliiga,2015,22/08/15,14:00,Rovaniemi,Ilves,0,0,D,1.5,4.32,7.79,1.55,4.4,7.79,1.49,4.04,6.56
+Finland,Veikkausliiga,2015,23/08/15,16:30,Jaro,Inter Turku,0,0,D,2.49,3.61,2.88,2.55,3.61,2.94,2.43,3.37,2.76
+Finland,Veikkausliiga,2015,23/08/15,16:30,KuPS,KTP,1,1,D,1.61,4,6.57,1.8,4,6.57,1.63,3.7,5.39
+Finland,Veikkausliiga,2015,23/08/15,16:30,Mariehamn,Lahti,0,2,A,2.43,3.34,3.18,2.43,3.4,3.26,2.3,3.23,3.05
+Finland,Veikkausliiga,2015,23/08/15,16:30,VPS,SJK,1,3,A,4.23,3.41,2.02,4.47,3.41,2.1,3.9,3.23,1.98
+Finland,Veikkausliiga,2015,24/08/15,16:30,HJK,HIFK,1,1,D,1.65,4.08,5.7,1.7,4.08,6,1.63,3.76,5.17
+Finland,Veikkausliiga,2015,26/08/15,16:30,SJK,KuPS,1,0,H,1.71,3.86,5.48,1.75,3.86,6.25,1.64,3.62,5.45
+Finland,Veikkausliiga,2015,26/08/15,16:30,VPS,Lahti,3,1,H,3.4,3.28,2.35,3.42,3.35,2.5,3.15,3.14,2.29
+Finland,Veikkausliiga,2015,29/08/15,14:00,Inter Turku,Rovaniemi,2,0,H,2.14,3.47,3.73,2.38,3.6,3.8,2.17,3.28,3.27
+Finland,Veikkausliiga,2015,29/08/15,14:00,KTP,Jaro,1,0,H,2.49,3.42,3.02,2.55,3.42,3.1,2.4,3.22,2.88
+Finland,Veikkausliiga,2015,30/08/15,16:30,HIFK,VPS,3,0,H,2.08,3.42,3.97,2.08,3.5,4.05,2.01,3.31,3.68
+Finland,Veikkausliiga,2015,30/08/15,16:30,Ilves,HJK,1,0,H,4.53,3.72,1.87,4.7,3.72,1.91,4.31,3.42,1.83
+Finland,Veikkausliiga,2015,30/08/15,16:30,Lahti,KuPS,1,0,H,2,3.46,4.23,2,3.6,4.75,1.88,3.34,4.14
+Finland,Veikkausliiga,2015,30/08/15,16:30,SJK,Mariehamn,4,0,H,2.07,3.4,4.06,2.08,3.5,4.45,1.92,3.34,3.96
+Finland,Veikkausliiga,2015,10/09/15,16:30,HJK,Inter Turku,0,2,A,1.51,4.55,7.05,1.55,4.55,7.05,1.51,4.06,6.18
+Finland,Veikkausliiga,2015,10/09/15,16:30,KuPS,SJK,1,1,D,3.38,3.4,2.31,3.58,3.5,2.31,3.23,3.23,2.21
+Finland,Veikkausliiga,2015,10/09/15,16:30,Lahti,KTP,3,2,H,1.6,3.97,6.85,1.7,3.97,7.2,1.6,3.66,5.73
+Finland,Veikkausliiga,2015,10/09/15,16:30,Mariehamn,HIFK,1,0,H,1.84,3.82,4.54,1.9,3.82,4.54,1.81,3.55,4.19
+Finland,Veikkausliiga,2015,10/09/15,16:30,Rovaniemi,Jaro,0,0,D,1.75,3.86,5.14,1.79,3.86,5.14,1.72,3.63,4.66
+Finland,Veikkausliiga,2015,10/09/15,16:30,VPS,Ilves,1,0,H,2.24,3.47,3.44,2.25,3.47,3.6,2.15,3.29,3.29
+Finland,Veikkausliiga,2015,13/09/15,15:30,SJK,Lahti,0,0,D,1.99,3.45,4.29,2,3.5,4.55,1.91,3.3,4.04
+Finland,Veikkausliiga,2015,13/09/15,16:30,Ilves,Mariehamn,1,3,A,3.17,3.36,2.43,3.17,3.5,2.5,2.86,3.27,2.38
+Finland,Veikkausliiga,2015,13/09/15,16:30,Jaro,HJK,1,1,D,3.83,3.55,2.07,4.3,3.55,2.11,3.69,3.39,1.97
+Finland,Veikkausliiga,2015,14/09/15,16:30,HIFK,KuPS,1,3,A,2.5,3.22,3.17,2.5,3.38,3.25,2.36,3.19,3
+Finland,Veikkausliiga,2015,14/09/15,16:30,Inter Turku,VPS,1,1,D,1.87,3.73,4.53,1.89,3.75,4.8,1.82,3.49,4.26
+Finland,Veikkausliiga,2015,14/09/15,16:30,KTP,Rovaniemi,0,4,A,3.72,3.34,2.19,3.72,3.4,2.36,3.26,3.21,2.21
+Finland,Veikkausliiga,2015,17/09/15,16:30,HIFK,VPS,0,3,A,2.09,3.46,3.87,2.13,3.5,4.05,2.04,3.29,3.56
+Finland,Veikkausliiga,2015,17/09/15,16:30,Ilves,KuPS,1,0,H,3.29,3.29,2.39,3.29,3.4,2.65,3,3.17,2.37
+Finland,Veikkausliiga,2015,17/09/15,16:30,Jaro,Mariehamn,0,0,D,2.72,3.48,2.71,2.78,3.5,2.77,2.61,3.29,2.6
+Finland,Veikkausliiga,2015,20/09/15,14:00,HJK,Rovaniemi,0,2,A,1.88,3.52,4.78,1.91,3.6,4.78,1.84,3.39,4.31
+Finland,Veikkausliiga,2015,20/09/15,14:00,KTP,SJK,1,3,A,5.49,3.88,1.71,5.75,3.88,1.75,5.09,3.62,1.67
+Finland,Veikkausliiga,2015,20/09/15,14:00,KuPS,Ilves,1,2,A,1.65,3.94,6.13,1.74,3.94,6.13,1.63,3.65,5.48
+Finland,Veikkausliiga,2015,20/09/15,14:00,Lahti,HIFK,0,5,A,1.74,3.78,5.36,1.75,3.78,5.75,1.67,3.55,5.23
+Finland,Veikkausliiga,2015,20/09/15,14:00,VPS,Jaro,2,1,H,2.45,3.34,3.16,2.47,3.4,3.23,2.34,3.2,3.02
+Finland,Veikkausliiga,2015,21/09/15,16:30,Mariehamn,Inter Turku,0,2,A,2.1,3.68,3.61,2.1,3.73,4.25,2,3.48,3.54
+Finland,Veikkausliiga,2015,23/09/15,15:00,SJK,HJK,3,0,H,2.33,3.38,3.35,2.36,3.4,3.5,2.22,3.24,3.21
+Finland,Veikkausliiga,2015,23/09/15,16:30,HIFK,KTP,0,0,D,1.59,4.2,6.32,1.63,4.3,6.32,1.56,3.99,5.6
+Finland,Veikkausliiga,2015,23/09/15,16:30,Jaro,KuPS,1,1,D,2.18,3.35,3.74,2.25,3.46,3.74,2.12,3.29,3.4
+Finland,Veikkausliiga,2015,27/09/15,16:30,Ilves,Lahti,1,2,A,3.58,3.34,2.24,3.58,3.35,2.5,3.2,3.18,2.26
+Finland,Veikkausliiga,2015,27/09/15,16:30,KTP,HJK,1,1,D,6.64,4.23,1.57,7,4.23,1.75,6,3.87,1.55
+Finland,Veikkausliiga,2015,27/09/15,16:30,Rovaniemi,VPS,2,1,H,1.71,3.81,5.6,1.76,3.9,5.6,1.68,3.6,5.07
+Finland,Veikkausliiga,2015,28/09/15,16:30,HIFK,SJK,1,0,H,3.74,3.41,2.13,4.25,3.65,2.14,3.59,3.33,2.03
+Finland,Veikkausliiga,2015,30/09/15,16:30,Inter Turku,KuPS,3,1,H,2.04,3.65,3.76,2.11,3.7,4.05,2.01,3.41,3.58
+Finland,Veikkausliiga,2015,01/10/15,16:30,Mariehamn,HJK,0,2,A,3.18,3.52,2.35,3.36,3.52,2.37,2.98,3.33,2.3
+Finland,Veikkausliiga,2015,04/10/15,13:00,KTP,HIFK,1,0,H,3.13,3.4,2.43,3.13,3.55,2.71,2.72,3.27,2.52
+Finland,Veikkausliiga,2015,04/10/15,13:00,KuPS,Jaro,2,0,H,2.45,3.34,3.16,2.47,3.4,3.25,2.31,3.24,3.03
+Finland,Veikkausliiga,2015,04/10/15,13:00,Lahti,Inter Turku,3,1,H,1.97,3.71,4.01,2.2,3.73,4.1,1.99,3.48,3.58
+Finland,Veikkausliiga,2015,04/10/15,13:00,SJK,Ilves,2,1,H,1.37,5.15,9.87,1.45,5.15,12,1.35,4.65,8.8
+Finland,Veikkausliiga,2015,04/10/15,13:00,VPS,HJK,1,2,A,5.52,3.73,1.74,5.52,3.75,1.9,4.84,3.5,1.73
+Finland,Veikkausliiga,2015,05/10/15,16:30,Mariehamn,Rovaniemi,1,0,H,3.34,3.62,2.23,3.58,3.63,2.35,3.17,3.35,2.19
+Finland,Veikkausliiga,2015,15/10/15,16:30,HIFK,Lahti,3,3,D,2.95,3.41,2.55,3.05,3.41,2.68,2.8,3.21,2.49
+Finland,Veikkausliiga,2015,15/10/15,16:30,Ilves,VPS,1,3,A,2.75,3.22,2.85,3,3.3,2.85,2.72,3.17,2.58
+Finland,Veikkausliiga,2015,15/10/15,16:30,Inter Turku,Jaro,1,0,H,1.75,4.36,4.47,1.8,4.5,4.85,1.71,3.87,4.44
+Finland,Veikkausliiga,2015,18/10/15,12:00,HJK,Mariehamn,4,0,H,1.46,4.85,7.56,1.46,4.85,8.3,1.42,4.42,7.26
+Finland,Veikkausliiga,2015,18/10/15,12:00,Ilves,HIFK,1,3,A,2.8,3.51,2.61,2.8,3.65,2.72,2.67,3.31,2.54
+Finland,Veikkausliiga,2015,18/10/15,12:00,Inter Turku,SJK,0,2,A,3.18,3.47,2.37,3.18,3.6,2.42,3.04,3.29,2.28
+Finland,Veikkausliiga,2015,18/10/15,12:00,Jaro,Lahti,1,1,D,2.5,3.44,2.99,2.63,3.5,3.01,2.43,3.28,2.82
+Finland,Veikkausliiga,2015,18/10/15,12:00,Rovaniemi,KuPS,2,1,H,1.54,4.35,6.9,1.6,4.4,7.5,1.52,3.98,6.23
+Finland,Veikkausliiga,2015,18/10/15,12:00,VPS,KTP,1,1,D,1.9,3.6,4.53,1.91,3.68,4.55,1.86,3.41,4.19
+Finland,Veikkausliiga,2015,25/10/15,11:00,HIFK,Inter Turku,2,0,H,2.29,3.84,3.06,2.32,3.85,3.3,2.23,3.51,2.97
+Finland,Veikkausliiga,2015,25/10/15,11:00,KTP,Ilves,1,2,A,1.67,4,5.7,1.75,4,5.7,1.68,3.67,4.92
+Finland,Veikkausliiga,2015,25/10/15,11:00,KuPS,HJK,0,1,A,5.87,4.27,1.61,6,4.27,1.65,5.5,3.94,1.58
+Finland,Veikkausliiga,2015,25/10/15,11:00,Lahti,Rovaniemi,1,4,A,3.2,3.58,2.31,3.2,3.58,2.4,2.99,3.33,2.29
+Finland,Veikkausliiga,2015,25/10/15,11:00,Mariehamn,VPS,2,0,H,2.37,3.53,3.12,2.38,3.6,3.31,2.27,3.34,3.03
+Finland,Veikkausliiga,2015,25/10/15,11:00,SJK,Jaro,2,0,H,1.3,5.92,11.15,1.35,5.92,11.5,1.31,5.03,9.44
+Finland,Veikkausliiga,2015,28/10/15,16:30,PK-35 Vantaa,KTP,0,0,D,,,,2.5,3.35,4.2,2.15,3.15,3.39
+Finland,Veikkausliiga,2015,31/10/15,13:00,KTP,PK-35 Vantaa,2,3,A,2.61,3.19,3.05,2.64,3.25,3.1,2.43,3.09,2.89
+Finland,Veikkausliiga,2016,02/04/16,12:00,HJK,Mariehamn,2,0,H,1.54,4.13,7.38,1.59,4.13,7.5,1.51,3.86,6.73
+Finland,Veikkausliiga,2016,02/04/16,15:00,PK-35 Vantaa,Rovaniemi,3,4,A,2.57,3.22,3.07,2.65,3.28,3.09,2.48,3.07,2.9
+Finland,Veikkausliiga,2016,08/04/16,16:30,HJK,VPS,3,1,H,1.41,4.69,9.71,1.43,4.95,10,1.37,4.5,8.67
+Finland,Veikkausliiga,2016,09/04/16,14:00,Inter Turku,Lahti,1,1,D,2.24,3.29,3.65,2.4,3.29,3.66,2.21,3.13,3.36
+Finland,Veikkausliiga,2016,09/04/16,14:00,KuPS,Ilves,0,1,A,2.16,3.41,3.72,2.22,3.48,4,2.1,3.22,3.52
+Finland,Veikkausliiga,2016,09/04/16,14:00,Mariehamn,Rovaniemi,1,0,H,2.45,3.32,3.16,2.47,3.32,3.23,2.36,3.16,3.02
+Finland,Veikkausliiga,2016,09/04/16,14:00,PK-35 Vantaa,HIFK,0,2,A,2.45,3.46,3.06,2.48,3.46,3.1,2.36,3.28,2.91
+Finland,Veikkausliiga,2016,09/04/16,14:00,PS Kemi,SJK,3,0,H,4.54,3.33,1.98,4.76,3.5,1.99,4.19,3.27,1.9
+Finland,Veikkausliiga,2016,14/04/16,16:30,HIFK,Inter Turku,1,2,A,2.41,3.38,3.18,2.55,3.4,3.18,2.36,3.22,2.98
+Finland,Veikkausliiga,2016,14/04/16,16:30,KuPS,PK-35 Vantaa,2,3,A,2.28,3.4,3.42,2.4,3.4,3.45,2.23,3.23,3.19
+Finland,Veikkausliiga,2016,14/04/16,16:30,Rovaniemi,HJK,2,2,D,4.56,3.54,1.91,4.56,3.65,1.95,4.14,3.36,1.88
+Finland,Veikkausliiga,2016,14/04/16,16:30,SJK,Mariehamn,0,1,A,1.75,3.57,5.76,1.77,3.8,6.1,1.69,3.46,5.31
+Finland,Veikkausliiga,2016,17/04/16,13:00,PS Kemi,Mariehamn,1,2,A,3.15,3.32,2.46,3.3,3.4,2.5,2.97,3.22,2.37
+Finland,Veikkausliiga,2016,17/04/16,14:00,PK-35 Vantaa,VPS,0,2,A,2.41,3.34,3.23,2.45,3.4,3.35,2.29,3.22,3.08
+Finland,Veikkausliiga,2016,18/04/16,16:30,HJK,SJK,2,1,H,1.83,3.53,5.16,1.83,3.74,5.6,1.77,3.37,4.79
+Finland,Veikkausliiga,2016,18/04/16,16:30,Inter Turku,KuPS,3,1,H,1.75,3.81,5.23,1.76,3.81,6,1.7,3.57,4.96
+Finland,Veikkausliiga,2016,18/04/16,16:30,Lahti,HIFK,2,2,D,2.03,3.39,4.23,2.06,3.5,4.25,1.98,3.23,3.92
+Finland,Veikkausliiga,2016,24/04/16,14:00,KuPS,Lahti,2,0,H,3.31,3.31,2.38,3.44,3.45,2.38,3.19,3.18,2.26
+Finland,Veikkausliiga,2016,24/04/16,14:00,Rovaniemi,PK-35 Vantaa,1,0,H,1.7,4.11,5.13,1.75,4.11,5.5,1.66,3.79,4.85
+Finland,Veikkausliiga,2016,24/04/16,14:00,SJK,Ilves,0,2,A,1.65,3.99,5.98,1.65,4,7.2,1.58,3.75,5.84
+Finland,Veikkausliiga,2016,24/04/16,14:00,VPS,Inter Turku,0,0,D,2.85,3.26,2.72,3,3.35,2.72,2.8,3.1,2.56
+Finland,Veikkausliiga,2016,24/04/16,14:30,Mariehamn,HJK,0,0,D,4.1,3.47,2.02,4.13,3.58,2.02,3.85,3.31,1.96
+Finland,Veikkausliiga,2016,25/04/16,16:30,HIFK,PS Kemi,0,0,D,1.91,3.73,4.29,1.91,3.78,4.45,1.85,3.52,4.07
+Finland,Veikkausliiga,2016,28/04/16,16:30,HIFK,KuPS,3,2,H,2.19,3.39,3.65,2.21,3.44,3.7,2.09,3.25,3.5
+Finland,Veikkausliiga,2016,28/04/16,16:30,Inter Turku,Rovaniemi,1,2,A,2.28,3.32,3.51,2.28,3.38,3.64,2.17,3.18,3.37
+Finland,Veikkausliiga,2016,28/04/16,16:30,Lahti,VPS,4,0,H,2.04,3.1,4.64,2.05,3.4,4.64,1.96,3.12,4.18
+Finland,Veikkausliiga,2016,29/04/16,16:30,Ilves,Mariehamn,0,1,A,2.77,3.19,2.86,2.82,3.19,2.92,2.66,3.03,2.73
+Finland,Veikkausliiga,2016,29/04/16,16:30,PK-35 Vantaa,SJK,0,0,D,3.5,3.23,2.3,3.58,3.5,2.3,3.34,3.16,2.2
+Finland,Veikkausliiga,2016,29/04/16,16:30,PS Kemi,HJK,1,0,H,5.1,3.73,1.78,7,3.95,1.78,5.58,3.65,1.63
+Finland,Veikkausliiga,2016,04/05/16,16:30,HJK,Ilves,5,1,H,1.53,4.32,7.08,1.54,4.45,8.5,1.47,4.13,6.9
+Finland,Veikkausliiga,2016,04/05/16,16:30,KuPS,PS Kemi,2,0,H,2.25,3.37,3.52,2.36,3.37,3.52,2.22,3.19,3.26
+Finland,Veikkausliiga,2016,04/05/16,16:30,Mariehamn,PK-35 Vantaa,0,0,D,1.83,3.54,5.08,1.93,3.6,5.2,1.81,3.37,4.56
+Finland,Veikkausliiga,2016,04/05/16,16:30,VPS,HIFK,3,1,H,2.67,3.18,2.98,2.67,3.25,3.1,2.5,3.09,2.89
+Finland,Veikkausliiga,2016,05/05/16,12:00,Rovaniemi,Lahti,0,0,D,2.11,3.4,3.89,2.14,3.55,4.33,2.02,3.28,3.68
+Finland,Veikkausliiga,2016,05/05/16,12:00,SJK,Inter Turku,1,0,H,2.19,3.12,4.03,2.36,3.25,4.03,2.15,3.06,3.56
+Finland,Veikkausliiga,2016,07/05/16,14:00,KuPS,VPS,1,0,H,2.21,3.33,3.69,2.21,3.33,4,2.12,3.19,3.51
+Finland,Veikkausliiga,2016,07/05/16,14:00,PK-35 Vantaa,HJK,1,2,A,4.15,3.55,1.99,4.75,3.75,1.99,4.07,3.5,1.87
+Finland,Veikkausliiga,2016,07/05/16,14:00,PS Kemi,Ilves,1,0,H,2.54,3.24,3.1,2.62,3.26,3.1,2.46,3.1,2.93
+Finland,Veikkausliiga,2016,09/05/16,16:00,HIFK,Rovaniemi,1,1,D,2.9,3.22,2.71,2.93,3.35,2.75,2.74,3.12,2.6
+Finland,Veikkausliiga,2016,09/05/16,16:00,Inter Turku,Mariehamn,0,2,A,2.38,3.23,3.38,2.47,3.25,3.5,2.31,3.11,3.16
+Finland,Veikkausliiga,2016,09/05/16,16:00,Lahti,SJK,3,0,H,2.87,3.03,2.89,2.9,3.1,2.89,2.77,2.96,2.69
+Finland,Veikkausliiga,2016,13/05/16,16:30,Ilves,PK-35 Vantaa,2,0,H,2.68,3.15,2.98,2.68,3.2,3.18,2.52,3.03,2.91
+Finland,Veikkausliiga,2016,13/05/16,16:30,Rovaniemi,KuPS,0,1,A,1.94,3.4,4.6,1.96,3.47,4.65,1.91,3.34,4.07
+Finland,Veikkausliiga,2016,13/05/16,16:30,VPS,PS Kemi,0,1,A,2.15,3.29,3.9,2.2,3.3,4.05,2.08,3.15,3.69
+Finland,Veikkausliiga,2016,14/05/16,14:00,SJK,HIFK,2,1,H,1.76,3.7,5.39,1.85,3.7,5.5,1.73,3.45,4.97
+Finland,Veikkausliiga,2016,15/05/16,16:30,Mariehamn,Lahti,3,0,H,2.28,3.21,3.64,2.3,3.21,3.8,2.21,3.08,3.41
+Finland,Veikkausliiga,2016,16/05/16,16:30,HJK,Inter Turku,3,1,H,1.52,4.52,6.98,1.53,4.52,7.5,1.48,4.19,6.49
+Finland,Veikkausliiga,2016,20/05/16,16:30,HIFK,Mariehamn,0,1,A,2.7,3.3,2.84,2.9,3.3,2.84,2.62,3.14,2.7
+Finland,Veikkausliiga,2016,20/05/16,16:30,Lahti,HJK,1,2,A,3.46,3.36,2.28,3.78,3.38,2.28,3.3,3.23,2.19
+Finland,Veikkausliiga,2016,21/05/16,14:00,Inter Turku,Ilves,1,0,H,2.19,3.26,3.84,2.24,3.3,3.92,2.12,3.19,3.51
+Finland,Veikkausliiga,2016,21/05/16,14:00,KuPS,SJK,0,0,D,3.18,3.06,2.44,3.26,3.2,2.63,3.02,3.02,2.45
+Finland,Veikkausliiga,2016,21/05/16,14:00,PK-35 Vantaa,PS Kemi,2,2,D,2.02,3.38,4.28,2.12,3.4,4.28,2,3.26,3.81
+Finland,Veikkausliiga,2016,22/05/16,16:30,VPS,Rovaniemi,1,0,H,2.94,3.12,2.75,3.05,3.12,2.76,2.87,2.99,2.58
+Finland,Veikkausliiga,2016,25/05/16,16:30,Ilves,Lahti,2,0,H,2.48,3.3,2.9,2.67,3.3,3.09,2.53,3.04,2.88
+Finland,Veikkausliiga,2016,25/05/16,16:30,Mariehamn,KuPS,0,3,A,2.07,3.34,4.12,2.07,3.35,4.6,2,3.19,3.91
+Finland,Veikkausliiga,2016,25/05/16,16:30,PK-35 Vantaa,Inter Turku,3,1,H,3.13,3.71,2.29,3.6,3.71,2.31,3.2,3.33,2.18
+Finland,Veikkausliiga,2016,25/05/16,16:30,SJK,VPS,1,0,H,1.93,3.25,4.98,1.93,3.6,6.2,1.77,3.27,5.12
+Finland,Veikkausliiga,2016,26/05/16,16:30,HJK,HIFK,2,1,H,1.52,4.57,6.73,1.52,4.9,7.6,1.48,4.23,6.34
+Finland,Veikkausliiga,2016,28/05/16,14:00,Lahti,PK-35 Vantaa,2,1,H,1.72,3.82,5.45,1.75,3.92,5.7,1.7,3.6,4.85
+Finland,Veikkausliiga,2016,28/05/16,14:00,Rovaniemi,SJK,2,3,A,2.43,3.09,3.44,2.49,3.2,3.44,2.35,3.02,3.19
+Finland,Veikkausliiga,2016,28/05/16,16:00,Inter Turku,PS Kemi,0,2,A,2.25,3.44,3.45,2.31,3.44,3.45,2.22,3.26,3.21
+Finland,Veikkausliiga,2016,29/05/16,16:30,HIFK,Ilves,0,1,A,2.4,3.35,3.23,2.4,3.35,3.36,2.29,3.23,3.08
+Finland,Veikkausliiga,2016,29/05/16,16:30,KuPS,HJK,0,0,D,3.41,3.36,2.17,3.9,3.46,2.21,3.46,3.27,2.1
+Finland,Veikkausliiga,2016,29/05/16,16:30,Mariehamn,VPS,2,2,D,1.91,3.38,4.87,1.92,3.6,5.2,1.85,3.26,4.46
+Finland,Veikkausliiga,2016,09/06/16,16:30,HIFK,PK-35 Vantaa,1,2,A,2.32,3.51,3.23,2.32,3.56,3.66,2.16,3.34,3.25
+Finland,Veikkausliiga,2016,09/06/16,16:30,Ilves,KuPS,1,0,H,2.25,3.27,3.64,2.39,3.31,3.64,2.23,3.15,3.29
+Finland,Veikkausliiga,2016,09/06/16,16:30,Lahti,Inter Turku,1,0,H,1.74,3.86,5.27,1.75,3.86,5.6,1.69,3.64,4.91
+Finland,Veikkausliiga,2016,09/06/16,16:30,Rovaniemi,Mariehamn,0,0,D,1.99,3.48,4.17,2.15,3.48,4.3,2,3.29,3.74
+Finland,Veikkausliiga,2016,09/06/16,16:30,SJK,PS Kemi,1,0,H,1.7,3.73,5.87,1.72,3.75,6.3,1.67,3.53,5.35
+Finland,Veikkausliiga,2016,09/06/16,16:30,VPS,HJK,3,0,H,4.32,3.3,2.04,4.5,3.54,2.08,3.94,3.29,1.96
+Finland,Veikkausliiga,2016,12/06/16,11:30,HJK,Rovaniemi,1,1,D,1.58,4.04,6.88,1.6,4.2,7,1.55,3.86,6.02
+Finland,Veikkausliiga,2016,12/06/16,11:30,Ilves,VPS,1,0,H,2.16,3.25,3.92,2.16,3.35,4.1,2.09,3.18,3.64
+Finland,Veikkausliiga,2016,12/06/16,11:30,Inter Turku,HIFK,1,0,H,2.4,3.31,3.26,2.41,3.34,3.32,2.31,3.22,3.08
+Finland,Veikkausliiga,2016,12/06/16,11:30,Mariehamn,SJK,1,0,H,2.76,3.06,2.98,2.76,3.15,2.98,2.64,2.97,2.81
+Finland,Veikkausliiga,2016,12/06/16,11:30,PK-35 Vantaa,KuPS,1,1,D,2.14,3.37,3.47,2.3,3.4,3.68,2.17,3.24,3.31
+Finland,Veikkausliiga,2016,12/06/16,11:30,PS Kemi,Lahti,2,1,H,2.52,3.22,3.14,2.6,3.3,3.14,2.45,3.11,2.93
+Finland,Veikkausliiga,2016,18/06/16,11:30,HIFK,Lahti,2,2,D,2.81,3.27,2.75,2.86,3.27,2.94,2.69,3.13,2.65
+Finland,Veikkausliiga,2016,18/06/16,11:30,Rovaniemi,Ilves,1,0,H,2.14,3.24,4.01,2.33,3.3,4.1,2.07,3.16,3.72
+Finland,Veikkausliiga,2016,18/06/16,11:30,SJK,HJK,2,3,A,2.77,3.13,2.9,2.8,3.5,2.92,2.65,3.07,2.74
+Finland,Veikkausliiga,2016,19/06/16,16:30,KuPS,Inter Turku,2,1,H,2.17,3.25,3.9,2.17,3.32,4.15,2.08,3.17,3.63
+Finland,Veikkausliiga,2016,19/06/16,16:30,Mariehamn,PS Kemi,2,0,H,1.92,3.49,4.6,1.92,3.68,5,1.83,3.34,4.4
+Finland,Veikkausliiga,2016,23/06/16,15:30,PS Kemi,Rovaniemi,0,2,A,2.87,3.13,2.77,2.93,3.25,2.83,2.75,3.05,2.67
+Finland,Veikkausliiga,2016,28/06/16,16:30,Inter Turku,SJK,1,3,A,4.01,3.41,2.07,4.33,3.42,2.23,3.75,3.24,2.03
+Finland,Veikkausliiga,2016,28/06/16,16:30,VPS,Ilves,2,0,H,2.57,2.95,3.36,2.6,3.1,3.48,2.42,2.91,3.2
+Finland,Veikkausliiga,2016,29/06/16,16:30,Lahti,PS Kemi,1,0,H,2.02,3.51,4.07,2.1,3.56,4.26,1.97,3.38,3.78
+Finland,Veikkausliiga,2016,02/07/16,14:00,Ilves,SJK,2,1,H,3.94,3.1,2.23,4.05,3.2,2.3,3.54,3.03,2.19
+Finland,Veikkausliiga,2016,03/07/16,16:30,Lahti,KuPS,0,0,D,2.15,3.29,3.89,2.24,3.32,3.89,2.13,3.19,3.5
+Finland,Veikkausliiga,2016,03/07/16,16:30,PS Kemi,HIFK,1,2,A,2.23,3.42,3.52,2.26,3.44,3.8,2.14,3.28,3.37
+Finland,Veikkausliiga,2016,04/07/16,16:30,Inter Turku,VPS,0,2,A,2.4,3.18,3.4,2.47,3.23,3.4,2.35,3.07,3.16
+Finland,Veikkausliiga,2016,08/07/16,16:30,SJK,PK-35 Vantaa,3,2,H,1.67,4.09,5.49,1.7,4.09,5.85,1.65,3.74,5.18
+Finland,Veikkausliiga,2016,08/07/16,17:30,VPS,Lahti,1,0,H,2.21,3.27,3.74,2.3,3.45,4.15,2.16,3.14,3.46
+Finland,Veikkausliiga,2016,10/07/16,15:00,HJK,PS Kemi,2,0,H,1.38,4.93,10.11,1.4,5.1,10.5,1.37,4.59,8.45
+Finland,Veikkausliiga,2016,10/07/16,15:00,KuPS,HIFK,1,0,H,2.07,3.44,3.99,2.09,3.52,4.46,1.98,3.29,3.87
+Finland,Veikkausliiga,2016,10/07/16,15:00,Mariehamn,Ilves,3,1,H,1.99,3.28,4.6,2,3.32,4.75,1.93,3.17,4.24
+Finland,Veikkausliiga,2016,10/07/16,15:00,Rovaniemi,Inter Turku,2,1,H,1.83,3.62,4.91,1.87,3.62,5.25,1.79,3.4,4.65
+Finland,Veikkausliiga,2016,13/07/16,16:30,VPS,PK-35 Vantaa,2,1,H,1.91,3.57,4.51,1.95,3.65,4.75,1.86,3.4,4.2
+Finland,Veikkausliiga,2016,16/07/16,14:00,PS Kemi,KuPS,0,2,A,2.59,3.24,3.02,2.61,3.3,3.2,2.47,3.12,2.92
+Finland,Veikkausliiga,2016,17/07/16,16:30,Ilves,HJK,1,0,H,3.73,3.04,2.34,3.73,3.25,2.45,3.35,3.07,2.26
+Finland,Veikkausliiga,2016,17/07/16,16:30,Lahti,Rovaniemi,1,2,A,2.34,3.23,3.48,2.58,3.24,3.6,2.31,3.12,3.19
+Finland,Veikkausliiga,2016,17/07/16,16:30,PK-35 Vantaa,Mariehamn,0,2,A,2.99,3.26,2.61,3.1,3.45,2.68,2.82,3.21,2.49
+Finland,Veikkausliiga,2016,18/07/16,16:30,HIFK,VPS,0,1,A,2.83,3.26,2.74,2.98,3.26,2.84,2.76,3.09,2.61
+Finland,Veikkausliiga,2016,23/07/16,14:00,SJK,Lahti,4,1,H,1.84,3.52,5.06,1.87,3.58,5.2,1.78,3.43,4.67
+Finland,Veikkausliiga,2016,24/07/16,16:30,HJK,PK-35 Vantaa,4,2,H,1.4,5.38,8.18,1.43,5.38,8.92,1.38,4.78,7.55
+Finland,Veikkausliiga,2016,24/07/16,16:30,Ilves,PS Kemi,1,1,D,1.9,3.48,4.73,2,3.48,5.1,1.86,3.31,4.38
+Finland,Veikkausliiga,2016,24/07/16,16:30,Rovaniemi,HIFK,1,0,H,1.69,3.76,6.01,1.8,3.76,6.01,1.69,3.53,5.14
+Finland,Veikkausliiga,2016,25/07/16,16:30,Mariehamn,Inter Turku,0,0,D,1.58,4.13,6.58,1.63,4.13,7.1,1.57,3.82,5.87
+Finland,Veikkausliiga,2016,25/07/16,16:30,VPS,KuPS,3,0,H,2.33,3.15,3.6,2.45,3.2,3.67,2.26,3.03,3.4
+Finland,Veikkausliiga,2016,30/07/16,14:00,HIFK,SJK,1,1,D,4.2,3.56,1.98,4.26,3.57,2,3.98,3.33,1.93
+Finland,Veikkausliiga,2016,30/07/16,14:00,PS Kemi,VPS,0,0,D,2.89,3.04,2.86,2.89,3.17,2.92,2.73,3.02,2.69
+Finland,Veikkausliiga,2016,31/07/16,16:30,Inter Turku,HJK,0,0,D,3.93,3.43,2.09,4.4,3.53,2.12,3.7,3.34,2
+Finland,Veikkausliiga,2016,31/07/16,16:30,KuPS,Rovaniemi,1,1,D,3.03,3.25,2.58,3.05,3.25,2.98,2.77,3.08,2.62
+Finland,Veikkausliiga,2016,31/07/16,16:30,Lahti,Mariehamn,1,1,D,3.09,3.13,2.61,3.14,3.22,2.94,2.78,3.03,2.64
+Finland,Veikkausliiga,2016,02/08/16,16:30,PK-35 Vantaa,Ilves,1,1,D,2.91,3.45,2.55,3.02,3.46,2.72,2.83,3.23,2.47
+Finland,Veikkausliiga,2016,06/08/16,12:00,PS Kemi,PK-35 Vantaa,2,1,H,1.76,3.87,5,1.85,3.87,5.25,1.76,3.55,4.61
+Finland,Veikkausliiga,2016,06/08/16,14:00,Ilves,Inter Turku,0,0,D,2.4,3.35,3.23,2.5,3.4,3.36,2.33,3.16,3.09
+Finland,Veikkausliiga,2016,06/08/16,14:00,SJK,KuPS,1,0,H,1.81,3.69,4.99,1.84,3.69,5.25,1.76,3.47,4.73
+Finland,Veikkausliiga,2016,07/08/16,16:30,HJK,Lahti,2,2,D,1.53,4.43,6.92,1.58,4.43,8.31,1.51,4.01,6.48
+Finland,Veikkausliiga,2016,07/08/16,16:30,Mariehamn,HIFK,2,5,A,1.76,3.6,5.55,1.77,3.74,6,1.68,3.51,5.25
+Finland,Veikkausliiga,2016,07/08/16,16:30,Rovaniemi,VPS,2,0,H,2.19,3.19,3.94,2.2,3.25,3.94,2.13,3.06,3.64
+Finland,Veikkausliiga,2016,10/08/16,16:30,HIFK,HJK,0,0,D,5.17,4.09,1.7,5.65,4.2,1.74,4.87,3.88,1.65
+Finland,Veikkausliiga,2016,10/08/16,16:30,Inter Turku,PK-35 Vantaa,2,2,D,1.57,4.36,6.31,1.57,5,9,1.48,4.24,6.49
+Finland,Veikkausliiga,2016,10/08/16,16:30,KuPS,Mariehamn,1,0,H,2.47,3.18,3.26,2.55,3.32,3.28,2.43,3.06,3.03
+Finland,Veikkausliiga,2016,10/08/16,16:30,Lahti,Ilves,3,2,H,2.23,3.29,3.68,2.26,3.35,3.88,2.16,3.15,3.49
+Finland,Veikkausliiga,2016,10/08/16,16:30,Rovaniemi,PS Kemi,5,0,H,1.75,3.77,5.33,1.75,3.85,5.8,1.68,3.58,5.18
+Finland,Veikkausliiga,2016,10/08/16,16:30,VPS,SJK,2,1,H,3.05,3.06,2.7,3.07,3.13,2.72,2.91,2.97,2.58
+Finland,Veikkausliiga,2016,13/08/16,14:00,Ilves,HIFK,3,1,H,2.22,3.26,3.73,2.24,3.38,3.82,2.14,3.2,3.48
+Finland,Veikkausliiga,2016,13/08/16,14:00,PK-35 Vantaa,Lahti,1,1,D,3.46,3.66,2.16,3.62,3.67,2.3,3.3,3.46,2.1
+Finland,Veikkausliiga,2016,13/08/16,14:00,PS Kemi,Inter Turku,3,1,H,2.84,3.19,2.78,3,3.25,2.82,2.79,3.12,2.57
+Finland,Veikkausliiga,2016,13/08/16,14:00,SJK,Rovaniemi,3,1,H,2,3.45,4.25,2.13,3.45,4.25,2,3.26,3.84
+Finland,Veikkausliiga,2016,14/08/16,16:30,VPS,Mariehamn,0,2,A,2.32,3.15,3.62,2.38,3.2,3.67,2.24,3.04,3.41
+Finland,Veikkausliiga,2016,15/08/16,16:30,HJK,KuPS,2,3,A,1.52,4.45,7.1,1.52,4.6,7.8,1.47,4.11,6.86
+Finland,Veikkausliiga,2016,20/08/16,14:00,PS Kemi,Rovaniemi,3,1,H,3.1,3.27,2.52,3.12,3.32,2.52,2.97,3.15,2.41
+Finland,Veikkausliiga,2016,20/08/16,14:00,SJK,Ilves,4,0,H,1.68,3.8,6.07,1.7,3.82,6.2,1.63,3.63,5.57
+Finland,Veikkausliiga,2016,21/08/16,16:30,KuPS,PK-35 Vantaa,3,0,H,1.51,4.49,7.05,1.57,4.49,7.05,1.5,4.12,6.23
+Finland,Veikkausliiga,2016,21/08/16,16:30,Lahti,Inter Turku,1,2,A,2.23,3.42,3.52,2.24,3.45,3.82,2.12,3.25,3.48
+Finland,Veikkausliiga,2016,21/08/16,16:30,Mariehamn,HIFK,1,0,H,1.86,3.58,4.8,1.89,3.58,5.07,1.8,3.43,4.53
+Finland,Veikkausliiga,2016,21/08/16,16:30,VPS,HJK,0,0,D,3.59,3.3,2.26,3.6,3.3,2.36,3.39,3.16,2.2
+Finland,Veikkausliiga,2016,24/08/16,16:30,HJK,PK-35 Vantaa,2,0,H,1.24,6.85,13.22,1.25,6.94,16.84,1.21,6.19,12.4
+Finland,Veikkausliiga,2016,24/08/16,16:30,Ilves,Rovaniemi,1,1,D,2.89,3.14,2.78,3.02,3.2,2.8,2.76,3.06,2.64
+Finland,Veikkausliiga,2016,26/08/16,16:30,PK-35 Vantaa,PS Kemi,0,1,A,5.25,4.24,1.67,6,4.33,1.68,5.32,3.94,1.6
+Finland,Veikkausliiga,2016,27/08/16,14:00,HIFK,SJK,3,1,H,3.7,3.5,2.13,3.82,3.5,2.17,3.52,3.32,2.07
+Finland,Veikkausliiga,2016,27/08/16,14:00,Inter Turku,Ilves,0,1,A,2.24,3.42,3.49,2.24,3.42,3.77,2.09,3.27,3.52
+Finland,Veikkausliiga,2016,27/08/16,14:00,Rovaniemi,Lahti,3,0,H,2.02,3.46,4.14,2.05,3.54,4.29,1.95,3.31,3.92
+Finland,Veikkausliiga,2016,28/08/16,16:30,HJK,KuPS,1,0,H,1.68,4.05,5.51,1.71,4.2,5.9,1.63,3.84,5.15
+Finland,Veikkausliiga,2016,28/08/16,16:30,Mariehamn,VPS,0,0,D,2.13,3.25,4.04,2.18,3.25,4.3,2.1,3.08,3.76
+Finland,Veikkausliiga,2016,09/09/16,15:30,PS Kemi,HJK,0,2,A,4.94,3.85,1.78,4.96,3.85,1.83,4.59,3.58,1.75
+Finland,Veikkausliiga,2016,09/09/16,16:30,HIFK,VPS,0,1,A,2.41,3.11,3.48,2.45,3.12,3.57,2.34,3,3.25
+Finland,Veikkausliiga,2016,09/09/16,16:30,Ilves,Rovaniemi,2,1,H,2.48,3.11,3.35,2.64,3.2,3.35,2.45,3.07,2.99
+Finland,Veikkausliiga,2016,09/09/16,16:30,KuPS,Mariehamn,2,1,H,2.41,3.19,3.38,2.41,3.32,3.42,2.31,3.09,3.2
+Finland,Veikkausliiga,2016,09/09/16,16:30,Lahti,PK-35 Vantaa,2,0,H,1.23,6.4,16.77,1.25,6.94,17.83,1.2,6.01,13.99
+Finland,Veikkausliiga,2016,09/09/16,16:30,SJK,Inter Turku,1,0,H,1.59,4.21,6.27,1.62,4.21,6.65,1.55,3.94,5.85
+Finland,Veikkausliiga,2016,12/09/16,16:30,HJK,Lahti,1,4,A,1.42,4.75,9.11,1.45,4.95,9.6,1.4,4.46,7.69
+Finland,Veikkausliiga,2016,12/09/16,16:30,Inter Turku,HIFK,0,0,D,2.53,3.32,3.04,2.62,3.4,3.04,2.46,3.2,2.88
+Finland,Veikkausliiga,2016,12/09/16,16:30,Mariehamn,PS Kemi,1,0,H,1.71,3.8,5.64,1.72,3.8,6.6,1.65,3.61,5.45
+Finland,Veikkausliiga,2016,12/09/16,16:30,PK-35 Vantaa,Ilves,1,3,A,10.09,5.38,1.34,11.5,5.38,1.37,10.07,4.87,1.31
+Finland,Veikkausliiga,2016,12/09/16,16:30,Rovaniemi,SJK,1,1,D,2.98,3.35,2.56,3.02,3.38,2.6,2.86,3.18,2.48
+Finland,Veikkausliiga,2016,12/09/16,16:30,VPS,KuPS,1,1,D,2.34,3.11,3.61,2.5,3.22,3.67,2.28,3.04,3.34
+Finland,Veikkausliiga,2016,16/09/16,16:30,HIFK,PS Kemi,3,1,H,1.68,3.88,5.8,1.91,3.92,5.8,1.71,3.59,4.87
+Finland,Veikkausliiga,2016,16/09/16,16:30,Ilves,VPS,0,0,D,2.22,3.05,4.06,2.36,3.1,4.06,2.21,2.97,3.54
+Finland,Veikkausliiga,2016,16/09/16,16:30,Inter Turku,HJK,3,2,H,3.87,3.57,2.05,4.4,3.64,2.1,3.82,3.39,1.95
+Finland,Veikkausliiga,2016,16/09/16,16:30,Lahti,KuPS,1,1,D,2.49,3.23,3.19,2.6,3.35,3.19,2.4,3.17,2.93
+Finland,Veikkausliiga,2016,16/09/16,16:30,Rovaniemi,PK-35 Vantaa,1,0,H,1.14,9.19,22.91,1.17,9.51,27.73,1.12,7.94,19.3
+Finland,Veikkausliiga,2016,17/09/16,14:00,SJK,Mariehamn,1,0,H,1.8,3.6,5.25,1.97,3.75,5.25,1.81,3.38,4.49
+Finland,Veikkausliiga,2016,20/09/16,16:30,PK-35 Vantaa,HIFK,0,2,A,8.95,5.2,1.38,9.91,5.5,1.46,8.43,4.88,1.34
+Finland,Veikkausliiga,2016,21/09/16,15:00,PS Kemi,Lahti,2,4,A,3.03,3.36,2.51,3.03,3.39,2.65,2.8,3.21,2.49
+Finland,Veikkausliiga,2016,21/09/16,16:30,HJK,Rovaniemi,2,1,H,1.61,4.25,5.89,1.64,4.25,6.14,1.58,3.91,5.53
+Finland,Veikkausliiga,2016,21/09/16,16:30,KuPS,Ilves,1,2,A,2.25,3.35,3.54,2.3,3.44,3.62,2.18,3.2,3.35
+Finland,Veikkausliiga,2016,21/09/16,16:30,Mariehamn,Inter Turku,1,1,D,1.94,3.52,4.43,2.01,3.52,4.52,1.89,3.33,4.17
+Finland,Veikkausliiga,2016,21/09/16,16:30,VPS,SJK,1,2,A,3.47,3.07,2.44,3.47,3.1,2.6,3.09,2.97,2.44
+Finland,Veikkausliiga,2016,25/09/16,16:30,Ilves,PS Kemi,2,0,H,1.71,3.6,6.14,1.71,3.95,6.5,1.63,3.58,5.71
+Finland,Veikkausliiga,2016,25/09/16,16:30,Rovaniemi,Mariehamn,1,1,D,2.35,3.32,3.35,2.45,3.32,3.48,2.27,3.15,3.17
+Finland,Veikkausliiga,2016,26/09/16,16:30,Inter Turku,VPS,1,1,D,2.26,3.17,3.74,2.34,3.2,3.77,2.2,3.05,3.46
+Finland,Veikkausliiga,2016,26/09/16,16:30,Lahti,HIFK,0,0,D,2.2,3.59,3.42,2.26,3.62,3.48,2.15,3.4,3.2
+Finland,Veikkausliiga,2016,28/09/16,16:30,SJK,KuPS,1,0,H,1.6,3.94,6.88,1.65,4,6.88,1.59,3.76,5.78
+Finland,Veikkausliiga,2016,30/09/16,16:30,HIFK,HJK,2,1,H,4.37,3.49,1.96,4.37,3.55,2.03,3.98,3.35,1.92
+Finland,Veikkausliiga,2016,01/10/16,13:00,PS Kemi,SJK,1,3,A,6.58,4.02,1.6,6.58,4.05,1.65,5.87,3.75,1.59
+Finland,Veikkausliiga,2016,02/10/16,16:30,KuPS,Inter Turku,0,2,A,2.49,3.28,3.13,2.54,3.3,3.27,2.38,3.14,3.02
+Finland,Veikkausliiga,2016,02/10/16,16:30,Lahti,Ilves,0,0,D,2.81,3.36,2.69,2.81,3.36,2.8,2.66,3.18,2.63
+Finland,Veikkausliiga,2016,02/10/16,16:30,Mariehamn,PK-35 Vantaa,4,2,H,1.15,8.72,23.05,1.19,9.31,26,1.14,7.55,18.95
+Finland,Veikkausliiga,2016,02/10/16,16:30,VPS,Rovaniemi,1,0,H,2.4,3.22,3.35,2.47,3.28,3.47,2.34,3.09,3.12
+Finland,Veikkausliiga,2016,14/10/16,16:30,HJK,Mariehamn,1,1,D,1.65,4.12,5.75,1.68,4.12,6.15,1.61,3.75,5.54
+Finland,Veikkausliiga,2016,14/10/16,16:30,Ilves,HIFK,1,1,D,2.08,3.27,4.11,2.1,3.42,4.11,2.03,3.21,3.79
+Finland,Veikkausliiga,2016,14/10/16,16:30,Inter Turku,PS Kemi,0,0,D,1.59,4.09,6.6,1.61,4.15,7.15,1.55,3.86,6.12
+Finland,Veikkausliiga,2016,14/10/16,16:30,PK-35 Vantaa,VPS,1,2,A,11.43,5.79,1.31,13,6.3,1.32,10.86,5.57,1.26
+Finland,Veikkausliiga,2016,14/10/16,16:30,Rovaniemi,KuPS,2,1,H,2.14,3.39,3.8,2.15,3.42,3.87,2.07,3.26,3.6
+Finland,Veikkausliiga,2016,14/10/16,16:30,SJK,Lahti,2,2,D,1.39,5.11,9.3,1.41,5.11,10,1.35,4.69,8.62
+Finland,Veikkausliiga,2016,17/10/16,16:30,HIFK,KuPS,0,2,A,1.62,4.15,6.03,1.65,4.16,6.3,1.59,3.84,5.53
+Finland,Veikkausliiga,2016,17/10/16,16:30,Ilves,HJK,1,3,A,2.89,3.1,2.8,2.93,3.15,2.9,2.75,3,2.67
+Finland,Veikkausliiga,2016,17/10/16,16:30,Inter Turku,Rovaniemi,1,1,D,2.1,3.47,3.83,2.15,3.75,4.1,2.06,3.28,3.58
+Finland,Veikkausliiga,2016,17/10/16,16:30,Lahti,Mariehamn,0,2,A,3.72,3.36,2.18,3.96,3.58,2.21,3.54,3.24,2.09
+Finland,Veikkausliiga,2016,17/10/16,16:30,PS Kemi,VPS,1,4,A,3.72,3.14,2.28,3.75,3.2,2.35,3.46,3.06,2.21
+Finland,Veikkausliiga,2016,17/10/16,16:30,SJK,PK-35 Vantaa,5,0,H,,,,1.1,13.87,45.55,1.08,9.48,27.16
+Finland,Veikkausliiga,2016,23/10/16,13:00,HJK,SJK,0,0,D,2.3,3.58,3.21,2.37,3.62,3.21,2.24,3.35,3.08
+Finland,Veikkausliiga,2016,23/10/16,13:00,KuPS,PS Kemi,1,0,H,1.92,3.63,4.39,1.94,3.63,4.55,1.87,3.45,4.08
+Finland,Veikkausliiga,2016,23/10/16,13:00,Mariehamn,Ilves,2,1,H,1.59,4.28,6.11,1.67,4.28,6.11,1.59,3.87,5.46
+Finland,Veikkausliiga,2016,23/10/16,13:00,PK-35 Vantaa,Inter Turku,2,1,H,14.5,6.8,1.24,17.83,7.2,1.25,13.41,6.33,1.2
+Finland,Veikkausliiga,2016,23/10/16,13:00,Rovaniemi,HIFK,0,0,D,2.86,3.47,2.58,2.86,3.47,2.7,2.67,3.22,2.57
+Finland,Veikkausliiga,2016,23/10/16,13:00,VPS,Lahti,0,1,A,1.65,4.04,5.81,1.71,4.04,5.81,1.63,3.74,5.29
+Finland,Veikkausliiga,2016,26/10/16,13:00,TPS,Inter Turku,0,0,D,3.2,3.39,2.39,3.4,3.39,2.54,3.05,3.15,2.33
+Finland,Veikkausliiga,2016,29/10/16,15:00,Inter Turku,TPS,2,0,H,1.85,3.53,4.92,2,3.6,4.92,1.83,3.38,4.31
+Finland,Veikkausliiga,2017,05/04/17,16:30,HJK,VPS,5,0,H,1.45,4.48,8.98,1.47,4.6,11,1.41,4.12,8.47
+Finland,Veikkausliiga,2017,05/04/17,17:30,SJK,Lahti,1,1,D,1.81,3.6,5.18,1.81,3.78,5.4,1.75,3.46,4.76
+Finland,Veikkausliiga,2017,08/04/17,14:00,Ilves,Lahti,1,1,D,2.08,3.3,4.17,2.11,3.35,4.4,2,3.16,3.94
+Finland,Veikkausliiga,2017,08/04/17,14:00,Mariehamn,JJK Jyvaskyla,5,2,H,1.47,4.36,8.51,1.48,4.45,8.51,1.45,4.04,7.44
+Finland,Veikkausliiga,2017,08/04/17,14:00,PS Kemi,HIFK,0,0,D,3.55,3.29,2.28,3.55,3.29,2.41,3.25,3.1,2.26
+Finland,Veikkausliiga,2017,08/04/17,14:00,VPS,SJK,1,3,A,3.26,3.1,2.53,3.26,3.1,2.58,3.08,2.95,2.46
+Finland,Veikkausliiga,2017,10/04/17,16:30,HJK,KuPS,2,0,H,1.27,6.22,12.97,1.3,6.22,13,1.27,5.4,10.52
+Finland,Veikkausliiga,2017,12/04/17,16:30,Inter Turku,Rovaniemi,6,2,H,1.9,3.52,4.65,1.91,3.62,5.2,1.79,3.4,4.63
+Finland,Veikkausliiga,2017,15/04/17,13:00,SJK,Ilves,1,2,A,1.72,3.66,5.87,1.83,3.66,6,1.71,3.43,5.21
+Finland,Veikkausliiga,2017,15/04/17,14:00,HIFK,JJK Jyvaskyla,0,0,D,1.55,4.29,6.9,1.58,4.29,7.5,1.52,3.93,6.35
+Finland,Veikkausliiga,2017,15/04/17,14:00,Mariehamn,HJK,1,1,D,5.82,3.84,1.68,5.82,3.86,1.76,5.21,3.53,1.68
+Finland,Veikkausliiga,2017,17/04/17,14:00,KuPS,Inter Turku,2,1,H,2.35,3.34,3.32,2.4,3.35,3.5,2.32,3.18,3.09
+Finland,Veikkausliiga,2017,17/04/17,14:00,Rovaniemi,VPS,2,4,A,2.62,3.02,3.19,2.66,3.12,3.19,2.47,2.98,3.03
+Finland,Veikkausliiga,2017,21/04/17,16:00,Inter Turku,Mariehamn,1,1,D,2.42,3.31,3.23,2.42,3.31,3.35,2.33,3.17,3.07
+Finland,Veikkausliiga,2017,22/04/17,14:00,Ilves,Rovaniemi,0,2,A,1.6,4.08,6.4,1.62,4.2,7,1.56,3.82,6.06
+Finland,Veikkausliiga,2017,22/04/17,14:00,PS Kemi,SJK,3,1,H,5.13,3.82,1.76,5.55,3.82,1.76,5.12,3.53,1.7
+Finland,Veikkausliiga,2017,22/04/17,14:00,VPS,KuPS,2,2,D,2.62,3.22,3.01,2.67,3.22,3.01,2.51,3.07,2.89
+Finland,Veikkausliiga,2017,23/04/17,15:00,JJK Jyvaskyla,HJK,1,5,A,14.96,6.74,1.23,16,6.74,1.25,12.88,5.94,1.22
+Finland,Veikkausliiga,2017,24/04/17,16:30,HIFK,Lahti,1,2,A,2.58,3.25,3.04,2.74,3.25,3.04,2.6,3.06,2.8
+Finland,Veikkausliiga,2017,28/04/17,18:00,SJK,HIFK,3,3,D,1.57,4.19,6.73,1.6,4.2,6.73,1.54,3.87,6.11
+Finland,Veikkausliiga,2017,29/04/17,14:00,HJK,Inter Turku,1,1,D,1.34,5.32,10.77,1.35,5.55,11,1.31,5.07,9.34
+Finland,Veikkausliiga,2017,29/04/17,14:00,KuPS,Ilves,0,1,A,2.39,3.3,3.3,2.43,3.3,3.35,2.28,3.14,3.2
+Finland,Veikkausliiga,2017,29/04/17,14:00,Lahti,JJK Jyvaskyla,1,1,D,1.44,4.74,8.45,1.45,4.75,9.5,1.41,4.4,7.84
+Finland,Veikkausliiga,2017,29/04/17,14:00,Rovaniemi,PS Kemi,3,1,H,2.13,3.41,3.81,2.16,3.5,4.2,2.03,3.29,3.69
+Finland,Veikkausliiga,2017,30/04/17,14:00,Mariehamn,VPS,1,1,D,2.11,3.23,4.11,2.16,3.32,4.3,2.03,3.14,3.85
+Finland,Veikkausliiga,2017,06/05/17,15:00,Ilves,Mariehamn,3,0,H,2.28,3.19,3.67,2.33,3.19,3.78,2.21,3.04,3.47
+Finland,Veikkausliiga,2017,06/05/17,15:00,JJK Jyvaskyla,Inter Turku,1,2,A,5.16,4.12,1.7,5.4,4.12,1.74,4.97,3.75,1.66
+Finland,Veikkausliiga,2017,06/05/17,15:00,Lahti,SJK,1,0,H,2.98,3.23,2.64,3,3.23,2.78,2.8,3.08,2.57
+Finland,Veikkausliiga,2017,06/05/17,15:00,PS Kemi,KuPS,1,4,A,3.9,3.49,2.08,4.2,3.52,2.11,3.65,3.28,2.04
+Finland,Veikkausliiga,2017,06/05/17,15:00,VPS,HJK,2,1,H,6.57,4.17,1.58,7.7,4.2,1.6,6.27,3.81,1.55
+Finland,Veikkausliiga,2017,06/05/17,16:00,HIFK,Rovaniemi,1,0,H,2.02,3.48,4.14,2.13,3.5,4.2,1.98,3.29,3.83
+Finland,Veikkausliiga,2017,11/05/17,16:30,HJK,Ilves,2,0,H,1.39,4.94,9.5,1.43,4.94,10.02,1.37,4.51,8.62
+Finland,Veikkausliiga,2017,12/05/17,16:30,Inter Turku,VPS,0,1,A,1.97,3.58,4.2,2,3.6,4.33,1.92,3.41,3.95
+Finland,Veikkausliiga,2017,12/05/17,16:30,KuPS,HIFK,2,1,H,1.9,3.58,4.55,1.91,3.58,5.18,1.8,3.43,4.54
+Finland,Veikkausliiga,2017,12/05/17,16:30,Mariehamn,PS Kemi,3,0,H,1.48,4.49,8.04,1.5,4.55,8.04,1.47,4.07,7.14
+Finland,Veikkausliiga,2017,12/05/17,16:30,Rovaniemi,Lahti,1,0,H,3.02,3.35,2.53,3.05,3.39,2.65,2.88,3.17,2.46
+Finland,Veikkausliiga,2017,12/05/17,18:00,SJK,JJK Jyvaskyla,1,0,H,1.28,6.22,12.38,1.3,6.22,13,1.25,5.6,10.89
+Finland,Veikkausliiga,2017,19/05/17,16:00,PS Kemi,HJK,0,1,A,14.35,6.27,1.26,14.5,6.5,1.3,11.46,5.61,1.24
+Finland,Veikkausliiga,2017,19/05/17,16:30,HIFK,Mariehamn,1,1,D,2.95,3.18,2.69,2.96,3.18,2.71,2.81,3.06,2.58
+Finland,Veikkausliiga,2017,19/05/17,16:30,Ilves,Inter Turku,0,2,A,2.3,3.09,3.74,2.3,3.2,3.94,2.17,3.07,3.53
+Finland,Veikkausliiga,2017,19/05/17,16:30,JJK Jyvaskyla,VPS,1,4,A,4.03,3.43,2.06,4.17,3.65,2.06,3.85,3.3,1.96
+Finland,Veikkausliiga,2017,19/05/17,16:30,Lahti,KuPS,1,2,A,2.8,3.15,2.85,2.82,3.15,3,2.6,3.04,2.79
+Finland,Veikkausliiga,2017,19/05/17,18:00,SJK,Rovaniemi,3,0,H,1.49,4.55,7.55,1.53,4.55,8,1.46,4.18,6.83
+Finland,Veikkausliiga,2017,23/05/17,16:30,HIFK,HJK,0,0,D,10.29,4.83,1.39,10.5,4.95,1.39,8.85,4.59,1.36
+Finland,Veikkausliiga,2017,23/05/17,16:30,Inter Turku,PS Kemi,1,3,A,1.49,4.43,7.73,1.49,4.64,8.03,1.43,4.29,7.16
+Finland,Veikkausliiga,2017,23/05/17,16:30,Mariehamn,Lahti,0,2,A,2.04,3.38,4.19,2.04,3.5,4.25,1.96,3.27,3.94
+Finland,Veikkausliiga,2017,24/05/17,16:30,KuPS,SJK,1,1,D,2.53,3.32,3.04,2.63,3.38,3.2,2.41,3.19,2.94
+Finland,Veikkausliiga,2017,24/05/17,16:30,Rovaniemi,JJK Jyvaskyla,2,1,H,1.72,4,4.98,1.76,4.05,5.4,1.69,3.74,4.79
+Finland,Veikkausliiga,2017,24/05/17,16:30,VPS,Ilves,0,2,A,2.62,3.23,3,2.63,3.28,3.1,2.5,3.03,2.93
+Finland,Veikkausliiga,2017,27/05/17,13:00,HIFK,Inter Turku,0,2,A,2.75,3.35,2.75,2.79,3.36,2.82,2.66,3.19,2.62
+Finland,Veikkausliiga,2017,27/05/17,13:00,Lahti,HJK,0,0,D,6,3.75,1.69,6.3,3.75,1.73,5.5,3.56,1.65
+Finland,Veikkausliiga,2017,27/05/17,13:00,PS Kemi,VPS,0,1,A,3.38,3.33,2.33,3.5,3.34,2.35,3.22,3.18,2.25
+Finland,Veikkausliiga,2017,27/05/17,15:00,JJK Jyvaskyla,Ilves,3,1,H,6.21,3.9,1.65,6.5,3.9,1.67,5.8,3.66,1.6
+Finland,Veikkausliiga,2017,27/05/17,15:00,Rovaniemi,KuPS,0,1,A,3.31,3.38,2.34,3.4,3.38,2.4,3.12,3.21,2.28
+Finland,Veikkausliiga,2017,27/05/17,16:00,SJK,Mariehamn,1,1,D,1.79,3.53,5.42,1.83,3.62,5.55,1.76,3.37,4.84
+Finland,Veikkausliiga,2017,31/05/17,16:30,HJK,SJK,6,0,H,1.48,4.29,8.64,1.53,4.3,8.64,1.48,3.99,7.1
+Finland,Veikkausliiga,2017,31/05/17,16:30,Ilves,PS Kemi,2,4,A,1.68,3.77,6.06,1.68,4.05,6.5,1.61,3.64,5.78
+Finland,Veikkausliiga,2017,31/05/17,16:30,Inter Turku,Lahti,0,0,D,2.35,3.29,3.39,2.41,3.29,3.4,2.29,3.14,3.2
+Finland,Veikkausliiga,2017,31/05/17,16:30,JJK Jyvaskyla,KuPS,0,0,D,6.19,4.55,1.55,7,4.57,1.6,5.95,4.06,1.52
+Finland,Veikkausliiga,2017,31/05/17,16:30,Mariehamn,Rovaniemi,2,1,H,1.61,3.81,7.1,1.65,3.83,7.1,1.59,3.63,5.97
+Finland,Veikkausliiga,2017,31/05/17,16:30,VPS,HIFK,1,1,D,2.08,3.39,4.03,2.12,3.39,4.2,2.02,3.18,3.82
+Finland,Veikkausliiga,2017,03/06/17,15:00,Lahti,VPS,0,0,D,2.29,3.2,3.61,2.3,3.24,3.62,2.21,3.09,3.41
+Finland,Veikkausliiga,2017,03/06/17,15:00,PS Kemi,JJK Jyvaskyla,1,1,D,1.93,3.78,4.16,1.95,3.8,4.31,1.87,3.56,3.94
+Finland,Veikkausliiga,2017,03/06/17,16:00,SJK,Inter Turku,0,3,A,1.95,3.57,4.3,1.99,3.58,4.33,1.92,3.34,4.02
+Finland,Veikkausliiga,2017,04/06/17,16:30,HIFK,Ilves,0,1,A,2.57,3.06,3.23,2.65,3.13,3.25,2.47,3,3
+Finland,Veikkausliiga,2017,04/06/17,16:30,KuPS,Mariehamn,1,2,A,2.1,3.38,3.95,2.11,3.38,4.1,2.05,3.2,3.73
+Finland,Veikkausliiga,2017,04/06/17,16:30,Rovaniemi,HJK,1,4,A,10.71,5.6,1.32,11.45,5.65,1.34,9.75,5.11,1.3
+Finland,Veikkausliiga,2017,14/06/17,16:30,HIFK,SJK,0,2,A,3.52,3.31,2.28,3.65,3.4,2.43,3.3,3.13,2.23
+Finland,Veikkausliiga,2017,14/06/17,16:30,KuPS,VPS,2,2,D,2.29,3.22,3.59,2.35,3.3,3.65,2.22,3.09,3.39
+Finland,Veikkausliiga,2017,14/06/17,16:30,PS Kemi,Mariehamn,3,0,H,4.09,3.52,2.01,4.1,3.55,2.1,3.72,3.3,2.01
+Finland,Veikkausliiga,2017,15/06/17,16:30,HJK,JJK Jyvaskyla,4,0,H,1.12,11,23,1.13,11.92,30.45,1.1,8.98,21.13
+Finland,Veikkausliiga,2017,16/06/17,16:30,Lahti,Ilves,0,0,D,2.43,3.11,3.42,2.5,3.2,3.52,2.35,2.98,3.25
+Finland,Veikkausliiga,2017,17/06/17,13:00,HIFK,PS Kemi,0,2,A,2.09,3.46,3.86,2.15,3.52,4,2.03,3.29,3.68
+Finland,Veikkausliiga,2017,17/06/17,13:00,Rovaniemi,Inter Turku,2,0,H,3.31,3.34,2.36,3.4,3.45,2.4,3.18,3.24,2.25
+Finland,Veikkausliiga,2017,17/06/17,13:00,SJK,VPS,0,1,A,2.06,3.42,4.04,2.08,3.5,4.35,1.97,3.27,3.9
+Finland,Veikkausliiga,2017,18/06/17,16:30,KuPS,HJK,0,2,A,5.85,4.16,1.63,6.5,4.2,1.65,5.8,3.81,1.58
+Finland,Veikkausliiga,2017,18/06/17,16:30,Mariehamn,JJK Jyvaskyla,2,1,H,1.43,4.94,7.96,1.43,5.36,9.25,1.38,4.75,7.58
+Finland,Veikkausliiga,2017,21/06/17,16:30,Inter Turku,KuPS,1,1,D,2.49,3.42,3.02,2.51,3.55,3.3,2.33,3.24,3.04
+Finland,Veikkausliiga,2017,21/06/17,16:30,JJK Jyvaskyla,HIFK,0,3,A,2.96,3.33,2.59,3.05,3.36,2.65,2.87,3.16,2.48
+Finland,Veikkausliiga,2017,21/06/17,16:30,PS Kemi,Lahti,1,1,D,3.55,3.18,2.33,3.6,3.3,2.4,3.3,3.06,2.28
+Finland,Veikkausliiga,2017,22/06/17,16:30,HJK,Mariehamn,2,0,H,1.35,5.29,10.32,1.38,5.4,11.45,1.33,4.91,8.96
+Finland,Veikkausliiga,2017,22/06/17,16:30,Ilves,SJK,1,0,H,2.59,3.17,3.1,2.66,3.2,3.32,2.49,2.99,3.01
+Finland,Veikkausliiga,2017,22/06/17,16:30,VPS,Rovaniemi,1,0,H,1.91,3.4,4.83,1.95,3.6,5.3,1.83,3.35,4.46
+Finland,Veikkausliiga,2017,26/06/17,16:30,Rovaniemi,Ilves,1,0,H,3.18,3.28,2.46,3.18,3.3,2.51,3,3.15,2.39
+Finland,Veikkausliiga,2017,26/06/17,17:30,SJK,PS Kemi,1,0,H,1.51,4.5,7.05,1.6,4.65,7.08,1.48,4.19,6.42
+Finland,Veikkausliiga,2017,27/06/17,16:30,Lahti,HIFK,4,1,H,2.05,3.31,4.25,2.13,3.45,4.42,2,3.15,3.94
+Finland,Veikkausliiga,2017,27/06/17,16:30,Mariehamn,Inter Turku,5,0,H,2.43,3.34,3.19,2.45,3.4,3.36,2.31,3.17,3.14
+Finland,Veikkausliiga,2017,29/06/17,16:30,PS Kemi,Rovaniemi,1,1,D,2.29,3.35,3.44,2.35,3.45,3.64,2.26,3.21,3.19
+Finland,Veikkausliiga,2017,01/07/17,15:00,Ilves,KuPS,1,0,H,2.24,3.24,3.72,2.3,3.3,3.75,2.19,3.12,3.47
+Finland,Veikkausliiga,2017,01/07/17,15:00,JJK Jyvaskyla,Lahti,1,3,A,4.57,3.36,1.96,4.7,3.55,2,4.1,3.33,1.9
+Finland,Veikkausliiga,2017,02/07/17,16:30,Inter Turku,HJK,1,1,D,5.27,3.95,1.72,5.44,3.95,1.8,4.84,3.62,1.71
+Finland,Veikkausliiga,2017,02/07/17,16:30,VPS,Mariehamn,0,0,D,2.4,3.09,3.5,2.5,3.2,3.5,2.38,2.99,3.19
+Finland,Veikkausliiga,2017,04/07/17,16:30,Lahti,PS Kemi,1,0,H,1.67,3.99,5.68,1.69,4.05,6.5,1.62,3.68,5.59
+Finland,Veikkausliiga,2017,07/07/17,16:30,Mariehamn,Ilves,2,2,D,2.01,3.44,4.23,2.1,3.6,4.3,1.98,3.28,3.86
+Finland,Veikkausliiga,2017,08/07/17,15:00,Inter Turku,JJK Jyvaskyla,4,0,H,1.41,5.06,8.56,1.44,5.25,8.7,1.38,4.73,7.55
+Finland,Veikkausliiga,2017,08/07/17,15:00,KuPS,PS Kemi,3,0,H,1.5,4.46,7.49,1.55,4.6,7.49,1.5,4.08,6.44
+Finland,Veikkausliiga,2017,08/07/17,15:00,Rovaniemi,HIFK,2,2,D,2.86,3.12,2.81,2.86,3.25,2.95,2.63,3.05,2.77
+Finland,Veikkausliiga,2017,16/07/17,16:30,Ilves,HJK,1,1,D,4.63,3.55,1.89,4.79,3.6,1.95,4.33,3.38,1.84
+Finland,Veikkausliiga,2017,16/07/17,16:30,JJK Jyvaskyla,SJK,0,2,A,6.46,4.41,1.56,6.65,4.5,1.58,5.96,4.13,1.52
+Finland,Veikkausliiga,2017,16/07/17,16:30,Lahti,Rovaniemi,1,1,D,1.59,4.12,6.53,1.7,4.2,6.53,1.59,3.76,5.77
+Finland,Veikkausliiga,2017,16/07/17,16:30,VPS,Inter Turku,3,2,H,2.4,3.12,3.45,2.45,3.25,3.45,2.35,3.06,3.16
+Finland,Veikkausliiga,2017,17/07/17,16:30,HIFK,KuPS,1,4,A,3.2,3.27,2.46,3.22,3.35,2.55,2.99,3.13,2.4
+Finland,Veikkausliiga,2017,22/07/17,14:00,Mariehamn,HIFK,1,1,D,2.03,3.41,4.19,2.05,3.59,4.4,1.94,3.33,3.97
+Finland,Veikkausliiga,2017,22/07/17,15:00,Inter Turku,Ilves,1,1,D,2.55,3.37,2.97,2.55,3.4,3.1,2.38,3.19,2.96
+Finland,Veikkausliiga,2017,22/07/17,15:00,KuPS,Lahti,2,2,D,2.03,3.41,4.18,2.05,3.5,4.37,1.94,3.29,3.99
+Finland,Veikkausliiga,2017,23/07/17,16:30,HJK,PS Kemi,3,1,H,1.15,9.3,21.5,1.15,9.3,24.75,1.14,7.81,17.58
+Finland,Veikkausliiga,2017,23/07/17,16:30,Rovaniemi,SJK,1,2,A,3.9,3.34,2.13,4.02,3.45,2.31,3.48,3.24,2.12
+Finland,Veikkausliiga,2017,23/07/17,16:30,VPS,JJK Jyvaskyla,1,1,D,1.36,5.25,10.08,1.36,5.4,11,1.32,4.94,9.23
+Finland,Veikkausliiga,2017,29/07/17,15:00,Ilves,VPS,0,0,D,2.5,3.08,3.32,2.52,3.1,3.32,2.39,2.98,3.17
+Finland,Veikkausliiga,2017,29/07/17,15:00,Lahti,Mariehamn,6,2,H,2.33,3.23,3.49,2.4,3.35,3.56,2.26,3.15,3.28
+Finland,Veikkausliiga,2017,29/07/17,15:00,PS Kemi,Inter Turku,2,1,H,3.51,3.61,2.16,3.54,3.75,2.2,3.31,3.42,2.12
+Finland,Veikkausliiga,2017,31/07/17,16:30,HJK,HIFK,2,0,H,1.3,5.7,12.04,1.33,5.7,12.87,1.29,5.2,10.14
+Finland,Veikkausliiga,2017,31/07/17,16:30,JJK Jyvaskyla,Rovaniemi,1,1,D,3.21,3.41,2.38,3.35,3.55,2.44,3.02,3.35,2.28
+Finland,Veikkausliiga,2017,31/07/17,17:30,SJK,KuPS,1,0,H,2.49,3.33,3.1,2.56,3.4,3.13,2.4,3.19,2.96
+Finland,Veikkausliiga,2017,04/08/17,16:30,Inter Turku,HIFK,3,0,H,2.01,3.42,4.25,2.05,3.7,4.7,1.93,3.38,3.93
+Finland,Veikkausliiga,2017,05/08/17,15:00,Ilves,JJK Jyvaskyla,2,1,H,1.44,4.74,8.46,1.45,4.95,8.85,1.41,4.48,7.55
+Finland,Veikkausliiga,2017,05/08/17,15:00,KuPS,Rovaniemi,3,0,H,1.48,4.53,7.76,1.54,4.6,8,1.46,4.21,6.86
+Finland,Veikkausliiga,2017,06/08/17,13:00,HJK,Lahti,0,0,D,1.44,4.78,8.21,1.46,4.9,8.98,1.41,4.46,7.55
+Finland,Veikkausliiga,2017,06/08/17,13:00,Mariehamn,SJK,0,0,D,2.7,3.24,2.89,2.75,3.35,3,2.54,3.15,2.81
+Finland,Veikkausliiga,2017,06/08/17,13:00,VPS,PS Kemi,3,3,D,1.56,4.22,6.8,1.57,4.35,7.08,1.52,4,6.39
+Finland,Veikkausliiga,2017,09/08/17,16:30,HIFK,VPS,2,1,H,3.67,3.29,2.23,3.67,3.35,2.35,3.35,3.09,2.23
+Finland,Veikkausliiga,2017,09/08/17,16:30,PS Kemi,Ilves,0,0,D,3.46,3.36,2.28,3.55,3.4,2.35,3.27,3.18,2.23
+Finland,Veikkausliiga,2017,10/08/17,16:30,KuPS,JJK Jyvaskyla,1,0,H,1.24,7.3,12.15,1.24,7.3,15.25,1.2,6.52,12.06
+Finland,Veikkausliiga,2017,10/08/17,16:30,Lahti,Inter Turku,1,0,H,2.13,3.33,3.9,2.2,3.6,3.9,2.09,3.33,3.46
+Finland,Veikkausliiga,2017,10/08/17,16:30,Rovaniemi,Mariehamn,3,0,H,2.85,3.26,2.72,2.9,3.4,2.83,2.7,3.18,2.61
+Finland,Veikkausliiga,2017,10/08/17,18:00,SJK,HJK,0,6,A,4.81,3.54,1.87,4.9,3.6,1.91,4.5,3.35,1.83
+Finland,Veikkausliiga,2017,13/08/17,15:00,JJK Jyvaskyla,PS Kemi,2,1,H,3.11,3.48,2.35,3.15,3.6,2.45,2.92,3.39,2.32
+Finland,Veikkausliiga,2017,14/08/17,16:30,HJK,Rovaniemi,0,1,A,1.19,7.73,19.12,1.25,7.73,19.12,1.18,6.71,14.95
+Finland,Veikkausliiga,2017,14/08/17,16:30,Ilves,HIFK,4,3,H,2.01,3.27,4.53,2.1,3.56,4.53,1.95,3.21,4.14
+Finland,Veikkausliiga,2017,14/08/17,16:30,Inter Turku,SJK,0,1,A,2.5,3.31,3.09,2.55,3.4,3.15,2.41,3.17,2.96
+Finland,Veikkausliiga,2017,14/08/17,16:30,Mariehamn,KuPS,2,1,H,3.06,3.41,2.47,3.1,3.54,2.55,2.91,3.25,2.41
+Finland,Veikkausliiga,2017,14/08/17,16:30,VPS,Lahti,0,2,A,2.44,3.13,3.39,2.5,3.2,3.45,2.37,3.03,3.19
+Finland,Veikkausliiga,2017,19/08/17,15:00,HIFK,Rovaniemi,1,0,H,2.22,3.38,3.58,2.4,3.4,3.62,2.2,3.21,3.33
+Finland,Veikkausliiga,2017,19/08/17,15:00,PS Kemi,Inter Turku,1,5,A,3.31,3.6,2.25,3.35,3.62,2.5,3.11,3.33,2.25
+Finland,Veikkausliiga,2017,19/08/17,16:00,SJK,Lahti,1,0,H,2.55,3.17,3.16,2.7,3.25,3.2,2.5,3.02,2.93
+Finland,Veikkausliiga,2017,20/08/17,16:30,JJK Jyvaskyla,HJK,0,4,A,19.53,8.04,1.18,21,8.7,1.2,15.45,7.42,1.15
+Finland,Veikkausliiga,2017,20/08/17,16:30,KuPS,Mariehamn,2,1,H,1.78,3.78,5.04,1.91,3.78,5.04,1.79,3.53,4.47
+Finland,Veikkausliiga,2017,20/08/17,16:30,VPS,Ilves,1,1,D,2.26,3.14,3.78,2.4,3.3,3.78,2.25,3.03,3.41
+Finland,Veikkausliiga,2017,26/08/17,15:00,Ilves,HIFK,2,1,H,1.75,3.55,5.8,1.83,3.8,6.7,1.68,3.49,5.51
+Finland,Veikkausliiga,2017,26/08/17,15:00,Lahti,PS Kemi,0,1,A,1.37,5.21,9.78,1.43,5.3,9.78,1.36,4.66,8.36
+Finland,Veikkausliiga,2017,26/08/17,15:00,Rovaniemi,Inter Turku,4,2,H,3.02,3.43,2.49,3.25,3.43,2.59,2.88,3.24,2.41
+Finland,Veikkausliiga,2017,26/08/17,16:00,SJK,JJK Jyvaskyla,0,4,A,1.27,6.3,12.35,1.3,6.5,12.35,1.26,5.61,10.23
+Finland,Veikkausliiga,2017,27/08/17,16:30,HJK,KuPS,1,0,H,1.49,4.48,7.58,1.51,4.55,7.58,1.47,4.21,6.74
+Finland,Veikkausliiga,2017,27/08/17,16:30,Mariehamn,VPS,1,0,H,2.37,3.27,3.35,2.4,3.35,3.45,2.29,3.13,3.22
+Finland,Veikkausliiga,2017,07/09/17,16:30,Inter Turku,Ilves,2,2,D,2.42,3.26,3.28,2.65,3.35,3.28,2.44,3.16,2.94
+Finland,Veikkausliiga,2017,07/09/17,16:30,JJK Jyvaskyla,Lahti,2,4,A,6.42,4.54,1.54,6.52,4.56,1.63,5.75,4.08,1.55
+Finland,Veikkausliiga,2017,07/09/17,16:30,Rovaniemi,PS Kemi,0,1,A,1.81,3.88,4.64,1.87,3.92,4.75,1.79,3.65,4.34
+Finland,Veikkausliiga,2017,08/09/17,16:30,HIFK,Mariehamn,0,0,D,2.86,3.27,2.7,3.1,3.4,2.71,2.82,3.17,2.53
+Finland,Veikkausliiga,2017,08/09/17,16:30,KuPS,SJK,2,1,H,1.92,3.56,4.51,2,3.65,4.6,1.89,3.39,4.16
+Finland,Veikkausliiga,2017,08/09/17,16:30,VPS,HJK,0,3,A,5.7,3.76,1.71,5.85,3.76,1.8,5.22,3.47,1.71
+Finland,Veikkausliiga,2017,10/09/17,13:00,Ilves,Rovaniemi,3,2,H,1.73,3.69,5.69,1.77,3.9,6.05,1.68,3.57,5.3
+Finland,Veikkausliiga,2017,10/09/17,13:00,PS Kemi,JJK Jyvaskyla,1,2,A,1.72,4.18,4.88,1.77,4.2,5.05,1.69,3.91,4.57
+Finland,Veikkausliiga,2017,11/09/17,16:30,Lahti,KuPS,1,1,D,2.17,3.44,3.65,2.3,3.45,3.75,2.18,3.22,3.38
+Finland,Veikkausliiga,2017,11/09/17,17:30,SJK,VPS,2,1,H,2.29,3.12,3.74,2.33,3.27,3.74,2.21,3.07,3.44
+Finland,Veikkausliiga,2017,12/09/17,16:30,HJK,HIFK,2,1,H,1.21,7.24,16.66,1.23,7.27,19,1.19,6.52,14.35
+Finland,Veikkausliiga,2017,12/09/17,16:30,Mariehamn,Inter Turku,2,1,H,2.47,3.49,2.99,2.47,3.6,3.3,2.31,3.35,2.98
+Finland,Veikkausliiga,2017,15/09/17,16:30,HIFK,JJK Jyvaskyla,1,1,D,1.79,4,4.65,1.82,4.15,4.75,1.75,3.71,4.43
+Finland,Veikkausliiga,2017,16/09/17,15:00,Ilves,HJK,1,4,A,4.89,3.65,1.83,5.2,3.75,1.9,4.58,3.45,1.8
+Finland,Veikkausliiga,2017,16/09/17,15:00,Rovaniemi,SJK,0,3,A,3.07,3.37,2.48,3.2,3.5,2.5,2.99,3.23,2.37
+Finland,Veikkausliiga,2017,16/09/17,15:00,VPS,KuPS,1,3,A,2.8,3.26,2.77,2.9,3.35,2.8,2.74,3.1,2.64
+Finland,Veikkausliiga,2017,17/09/17,16:30,Mariehamn,PS Kemi,3,2,H,1.62,4.13,6.07,1.66,4.2,6.1,1.61,3.87,5.41
+Finland,Veikkausliiga,2017,18/09/17,16:30,Inter Turku,Lahti,1,6,A,2.94,3.45,2.53,3.1,3.5,2.6,2.84,3.26,2.46
+Finland,Veikkausliiga,2017,24/09/17,13:00,PS Kemi,VPS,1,1,D,2.94,3.44,2.54,3.25,3.5,2.54,3,3.24,2.35
+Finland,Veikkausliiga,2017,24/09/17,16:30,KuPS,HIFK,3,2,H,1.49,4.56,7.59,1.5,4.56,8.5,1.46,4.16,6.94
+Finland,Veikkausliiga,2017,24/09/17,16:30,Lahti,Rovaniemi,1,1,D,1.45,4.62,8.46,1.73,4.65,8.5,1.44,4.3,7.14
+Finland,Veikkausliiga,2017,25/09/17,16:30,JJK Jyvaskyla,Inter Turku,1,3,A,3.05,3.74,2.33,3.1,3.9,2.37,2.86,3.63,2.26
+Finland,Veikkausliiga,2017,27/09/17,16:30,HJK,Mariehamn,1,0,H,1.32,5.84,10.44,1.35,6,10.57,1.3,5.35,9.1
+Finland,Veikkausliiga,2017,27/09/17,17:30,SJK,Ilves,0,0,D,2.61,3.27,2.98,2.65,3.35,3.2,2.44,3.13,2.95
+Finland,Veikkausliiga,2017,29/09/17,16:30,Inter Turku,KuPS,1,2,A,3.77,3.74,2.03,3.8,3.85,2.1,3.49,3.57,1.99
+Finland,Veikkausliiga,2017,29/09/17,16:30,VPS,HIFK,1,2,A,2.16,3.43,3.68,2.2,3.5,4.07,2.04,3.31,3.65
+Finland,Veikkausliiga,2017,30/09/17,15:00,HJK,PS Kemi,4,0,H,1.26,6.73,11.98,1.27,6.9,13.35,1.23,6.16,11.01
+Finland,Veikkausliiga,2017,30/09/17,15:00,Ilves,Lahti,2,1,H,2.64,3.15,3.04,2.68,3.2,3.05,2.55,3.04,2.87
+Finland,Veikkausliiga,2017,30/09/17,15:00,Rovaniemi,JJK Jyvaskyla,2,0,H,1.81,4.02,4.51,1.9,4.05,4.51,1.79,3.79,4.07
+Finland,Veikkausliiga,2017,01/10/17,16:30,Mariehamn,SJK,2,1,H,2.41,3.43,3.14,2.41,3.5,3.41,2.26,3.25,3.14
+Finland,Veikkausliiga,2017,12/10/17,16:30,HIFK,PS Kemi,4,0,H,1.88,3.76,4.4,1.95,3.76,4.5,1.85,3.55,4.08
+Finland,Veikkausliiga,2017,12/10/17,16:30,JJK Jyvaskyla,Ilves,0,0,D,5.88,4.49,1.58,6.05,4.6,1.6,5.5,4.18,1.54
+Finland,Veikkausliiga,2017,12/10/17,16:30,KuPS,Rovaniemi,1,1,D,1.36,5.22,10.18,1.38,5.67,10.18,1.33,4.97,8.58
+Finland,Veikkausliiga,2017,12/10/17,16:30,Lahti,Mariehamn,0,1,A,2.11,3.44,3.85,2.17,3.6,4.2,2.02,3.36,3.62
+Finland,Veikkausliiga,2017,12/10/17,16:30,VPS,Inter Turku,2,2,D,2.2,3.67,3.35,2.25,3.7,3.36,2.16,3.48,3.16
+Finland,Veikkausliiga,2017,12/10/17,18:00,SJK,HJK,0,2,A,5.07,4.13,1.71,5.5,4.2,1.73,4.93,3.88,1.64
+Finland,Veikkausliiga,2017,15/10/17,13:00,Ilves,KuPS,1,0,H,2.41,3.31,3.24,2.55,3.32,3.25,2.4,3.12,3.02
+Finland,Veikkausliiga,2017,15/10/17,13:00,PS Kemi,SJK,3,3,D,3.49,3.49,2.21,3.6,3.55,2.39,3.24,3.31,2.19
+Finland,Veikkausliiga,2017,15/10/17,13:00,Rovaniemi,VPS,3,0,H,2.86,3.45,2.6,2.9,3.45,2.85,2.71,3.29,2.54
+Finland,Veikkausliiga,2017,16/10/17,16:30,HJK,Lahti,3,0,H,1.47,4.79,7.35,1.49,4.87,8,1.43,4.47,6.82
+Finland,Veikkausliiga,2017,16/10/17,16:30,Inter Turku,HIFK,4,1,H,2.15,3.85,3.33,2.2,3.85,3.5,2.08,3.6,3.21
+Finland,Veikkausliiga,2017,16/10/17,16:30,JJK Jyvaskyla,Mariehamn,1,0,H,5.25,4.57,1.63,5.4,4.63,1.63,4.94,4.2,1.59
+Finland,Veikkausliiga,2017,20/10/17,16:30,HIFK,SJK,2,2,D,2.52,3.63,2.83,2.61,3.63,2.9,2.47,3.39,2.72
+Finland,Veikkausliiga,2017,20/10/17,16:30,Ilves,PS Kemi,1,0,H,1.46,4.82,7.53,1.47,4.85,7.97,1.42,4.47,6.98
+Finland,Veikkausliiga,2017,20/10/17,16:30,Inter Turku,HJK,1,3,A,6.61,5.32,1.46,7,5.6,1.48,6.27,4.89,1.42
+Finland,Veikkausliiga,2017,20/10/17,16:30,KuPS,JJK Jyvaskyla,2,1,H,1.27,6.79,10.85,1.28,6.9,12.4,1.24,6.11,10.33
+Finland,Veikkausliiga,2017,20/10/17,16:30,Rovaniemi,Mariehamn,0,3,A,2.89,3.77,2.41,3,3.77,2.49,2.84,3.45,2.35
+Finland,Veikkausliiga,2017,20/10/17,16:30,VPS,Lahti,2,1,H,3.71,3.68,2.07,3.75,3.7,2.15,3.42,3.46,2.06
+Finland,Veikkausliiga,2017,28/10/17,12:00,HJK,Rovaniemi,2,3,A,1.17,8.38,18.75,1.17,9.23,23.8,1.14,7.79,16.51
+Finland,Veikkausliiga,2017,28/10/17,12:00,JJK Jyvaskyla,VPS,2,0,H,3.46,3.82,2.11,3.5,3.85,2.15,3.3,3.67,2.04
+Finland,Veikkausliiga,2017,28/10/17,12:00,Lahti,HIFK,2,1,H,1.82,4.03,4.39,1.92,4.05,4.5,1.83,3.73,3.96
+Finland,Veikkausliiga,2017,28/10/17,12:00,Mariehamn,Ilves,0,1,A,2.27,3.25,3.61,2.3,3.35,3.61,2.18,3.18,3.37
+Finland,Veikkausliiga,2017,28/10/17,12:00,PS Kemi,KuPS,1,3,A,4.23,3.55,1.97,4.25,3.7,2,3.85,3.54,1.91
+Finland,Veikkausliiga,2017,28/10/17,12:00,SJK,Inter Turku,5,0,H,2.09,3.88,3.45,2.2,3.95,3.6,2.05,3.66,3.26
+Finland,Veikkausliiga,2017,01/11/17,16:30,Honka,HIFK,0,0,D,2.04,3.33,4.1,2.15,3.45,4.15,2.02,3.21,3.74
