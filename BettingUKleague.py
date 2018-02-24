@@ -369,6 +369,9 @@ class Estimate_Outcome(object):
             # fix data arangements
             home_team_data = t_h_data.transpose()
             away_team_data = t_a_data.transpose()
+
+            t_h = 'a'
+            t_a = 'a'
             
             # find the data for only the two teams that played against each other
             for i_t in range(0, n_teams): # loop over teams
