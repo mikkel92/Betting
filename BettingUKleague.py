@@ -68,7 +68,7 @@ class Estimate_Outcome(object):
     
     def load_results(self):
         
-        data_path = '/home/daniel/Betting/Betting/data/premier_league/%s' %self.data_year
+        data_path = 'data/premier_league/%s' %self.data_year
             
         league_data = pd.read_csv(data_path)  
         odds_columns = ["B365H","B365D","B365A"]

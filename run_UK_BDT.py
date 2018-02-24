@@ -46,8 +46,8 @@ data_array = []
 
 country = 'UK'
 # path with data
-
-data_path = '/home/daniel/Betting/Betting/data/premier_league/'
+data_path = os.getcwd()
+data_path = data_path + '/data/premier_league/'
 
 
 
@@ -63,7 +63,7 @@ for file in os.listdir(data_path):
 
 print(time.time() - start_time)
 
-save_path = '/home/daniel/Betting/Betting/BDT_scores/premier_league/'
+save_path = data_path + '/BDT_scores/premier_league/'
 np.savetxt(save_path + text_file_name, data_array,fmt='%s')         
 
 print("saved file at: %s as %s " %(save_path, text_file_name))
