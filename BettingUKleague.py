@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from urllib2 import urlopen
+#from urllib2 import urlopen
 import pandas as pd
 import numpy as np
 import scipy as sp
@@ -8,7 +8,7 @@ import urllib
 import re
 import os
 import glob
-from xgboost import XGBClassifier 
+#from xgboost import XGBClassifier 
 from lxml import html
 from sklearn.ensemble import AdaBoostRegressor
 from sklearn.ensemble import AdaBoostClassifier
@@ -16,8 +16,8 @@ from sklearn.tree import DecisionTreeRegressor
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.grid_search import GridSearchCV
 from sklearn.linear_model import LogisticRegression
-from selenium import webdriver
-from selenium.webdriver.common.action_chains import ActionChains
+#from selenium import webdriver
+#from selenium.webdriver.common.action_chains import ActionChains
 from statsmodels.discrete.discrete_model import Logit
 
 
@@ -68,7 +68,7 @@ class Estimate_Outcome(object):
     
     def load_results(self):
         
-        data_path = 'data/Premier_league/%s' %self.data_year
+        data_path = '/home/daniel/Betting/Betting/data/premier_league/%s' %self.data_year
             
         league_data = pd.read_csv(data_path)  
         odds_columns = ["B365H","B365D","B365A"]
@@ -98,12 +98,12 @@ class Estimate_Outcome(object):
         if self.round_to_estimate == 'None':
             widetable_iterator_finnish = len(all_results)
         else:
-            widetable_iterator_finnish = (self.round_to_estimate - 1) * n_teams / 2 # needs improvement
+            widetable_iterator_finnish = int((self.round_to_estimate - 1) * n_teams / 2) # needs improvement
 
         if self.n_rounds_training == 'all':
             widetable_iterator_start = 0
         else:
-            widetable_iterator_start = widetable_iterator_finnish - (self.n_rounds_training * n_teams / 2) 
+            widetable_iterator_start = int(widetable_iterator_finnish - (self.n_rounds_training * n_teams / 2))
 
 
         widetable = ( {
@@ -490,7 +490,7 @@ class Estimate_Outcome(object):
         for i_r in range(0,int(Rstate)): # loop over different Rstates in AdaBoost to eliminate fluctuations introduced by a random number generator
             
             
-               
+            """   
             reg = XGBClassifier(max_depth=30, n_estimators=300, learning_rate=1) 
 
             reg.fit(np.array(train_matches[0]), train_outcome_h) # train on the training sample
@@ -504,10 +504,10 @@ class Estimate_Outcome(object):
             reg.fit(np.array(train_matches[0]), train_outcome_a) # train on the training sample
             boosted_decisions = reg.predict(np.array(decide_matches)) # decide the outcome of new matches
             results_a += boosted_decisions # add the results together from the different Rstates
-            
-
             """
-            adaboost
+
+            
+            #adaboost
 
             reg = AdaBoostClassifier(DecisionTreeClassifier(max_depth=3), n_estimators=30, learning_rate=1.0, 
                                             algorithm='SAMME', random_state=i_r) 
@@ -517,17 +517,6 @@ class Estimate_Outcome(object):
             boosted_decisions = reg.decision_function(decide_matches) # decide the outcome of new matches
             results_h += boosted_decisions
 
-            parameters = { 'base_estimator' : [DecisionTreeClassifier(max_depth=1),
-                DecisionTreeClassifier(max_depth=2),DecisionTreeClassifier(max_depth=3),
-                DecisionTreeClassifier(max_depth=4),DecisionTreeClassifier(max_depth=5)],
-               'n_estimators' : [10,20,30],
-               'learning_rate' : [0.1,0.5,1.0,2.0]
-               }
-
-            #grid_search = GridSearchCV(reg, param_grid=parameters, n_jobs=-1)
-            #grid_search.fit(train_matches[0], train_outcome_h) # train on the training sample
-            #print grid_search.best_estimator_
-
             reg.fit(train_matches[0], train_outcome_d) # train on the training sample
             boosted_decisions = reg.decision_function(decide_matches) # decide the outcome of new matches
             results_d += boosted_decisions # add the results together from the different Rstates
@@ -535,9 +524,9 @@ class Estimate_Outcome(object):
             reg.fit(train_matches[0], train_outcome_a) # train on the training sample
             boosted_decisions = reg.decision_function(decide_matches) # decide the outcome of new matches
             results_a += boosted_decisions # add the results together from the different Rstates
-            """
+            
         if self.compare == 0: # if you don't want to compare with existing results (estimating games that haven't been played)
-            print
+            
             print(country) # print name of the country
             print('Number of teams in %s: %i' %(countrydata, n_teams))
             print('Round to estimate %i' %(n_round))
@@ -643,11 +632,11 @@ class Estimate_Outcome(object):
                         
 
             # put all the data into one dataframe
-            print
+            
             betting_value = [] # array for how good a bet on an outcome would be
             
-            print ' | '.join((('Estimated outcomes').center(63),('Value score').center(20),('Odds on match').center(63)))
-            print
+            print( ' | '.join((('Estimated outcomes').center(63),('Value score').center(20),('Odds on match').center(63))))
+            
             for i_p in range(0,len(estimated_results)):
                 printed = False
                 for i_o in range(0,len(odds_array)):
@@ -667,7 +656,7 @@ class Estimate_Outcome(object):
                                 print_data[i_pd] = print_data[i_pd].center(20)
                             else: 
                                 print_data[i_pd] = print_data[i_pd][:15].center(15)
-                        print ' | '.join(print_data)
+                        print( ' | '.join(print_data))
                         Printed = True
                         break
                 else: # if a name match on the two homepages, just print the estimated outcome
@@ -678,7 +667,7 @@ class Estimate_Outcome(object):
                             print_data[i_pd] = print_data[i_pd][:5].center(7)
                         else:
                             print_data[i_pd] = print_data[i_pd][:15].center(15)
-                    print ' | '.join(print_data)
+                    print( ' | '.join(print_data))
 
         if self.compare == 1: # if you want to compare with the actualt relsults of the matches ( for checking how often AdaBoost estimates correctly)
 
