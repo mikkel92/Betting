@@ -152,7 +152,7 @@ def estimate_betting_value(live_urls):
 				continue
 
 
-
+		print(odds_home)
 		combined_score = home_score + away_score
 		asian_correction = 0.93
 
