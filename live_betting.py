@@ -41,6 +41,23 @@ def get_live_urls():
 		except: continue
 		
 	return live_urls
+
+def rearange_livedata(data_frame):
+
+	data_frame = pd.DataFrame(data_frame)
+	data_frame = data_frame[data_frame[0] != 'provider']
+	data_frame = data_frame.sort_values(by=[0])
+	data_frame.columns = ['variable','value']
+	data_frame = data_frame.set_index('variable')
+
+	for name in data_frame.index:
+		data_frame = data_frame.rename({name : name[4:]})
+
+	away_data = data_frame[0:len(data_frame)/2]
+	home_data = data_frame[len(data_frame)/2:]
+
+	return home_data, away_data
+
 	
 def estimate_betting_value(live_urls):	
 
@@ -81,6 +98,7 @@ def estimate_betting_value(live_urls):
 			json_file = r.json()
 			
 			
+			
 			data = [i.split('[')[0] for i in json_file['statistics'].keys()]
 			for i in json_file['odds']:
 				if i['name'] == 'Next goal':
@@ -103,25 +121,29 @@ def estimate_betting_value(live_urls):
 		no_stats_matches = 0
 
 		data_frame = []
+		data_first_half = []
+		data_second_half = []
 		for i_k in range(0,len(data)):
 			
 			if type(json_file['statistics'][data[i_k]]) == int: 
 
 				data_frame.append([data[i_k],json_file['statistics'][data[i_k]]])
+
+			elif data[i_k] == 'period1':
+				data_H1 = json_file['statistics']['period1'].keys()
+				for i_d in range(0,len(data_H1)):
+					data_first_half.append([data_H1[i_d], json_file['statistics']['period1'][data_H1[i_d]]]) 
+
+			elif data[i_k] == 'period2':
+				data_H2 = json_file['statistics']['period2'].keys()
+				for i_d in range(0,len(data_H2)):
+					data_second_half.append([data_H2[i_d], json_file['statistics']['period2'][data_H2[i_d]]]) 
+
 			else: continue
 
-		# rearange the data_frame a bit
-		data_frame = pd.DataFrame(data_frame)
-		data_frame = data_frame[data_frame[0] != 'provider']
-		data_frame = data_frame.sort_values(by=[0])
-		data_frame.columns = ['variable','value']
-		data_frame = data_frame.set_index('variable')
-
-		for name in data_frame.index:
-			data_frame = data_frame.rename({name : name[4:]})
-
-		away_data = data_frame[0:len(data_frame)/2]
-		home_data = data_frame[len(data_frame)/2:]
+		home_data, away_data = rearange_livedata(data_frame)
+		home_data_H1, away_data_H1 = rearange_livedata(data_first_half)
+		home_data_H2, away_data_H2 = rearange_livedata(data_second_half)
 
 
 		# set up selection rules for decent bets
@@ -132,7 +154,7 @@ def estimate_betting_value(live_urls):
 							'DuelWonPercent', 'AerialWonPercent', 'CornerKicks')
 
 		variable_weight = (20. ,20., 15., 15.,
-						   14., 10., 10.,
+						   14., 0., 10.,
 						   7., 4., 0.1,
 						   0.1, 0.1, 2.)
 
@@ -151,8 +173,6 @@ def estimate_betting_value(live_urls):
 				variable_warning_str += variables_to_use[i_v] + ' , '
 				continue
 
-
-		print(odds_home)
 		combined_score = home_score + away_score
 		asian_correction = 0.93
 
@@ -206,6 +226,7 @@ raw_input( ' ... ' )
 
 ####
 # TODO:
+# get bet365 stats and odds
 # is NextScoreHome/NextScoreAway == AsianHome/AsianAway? 
 # compare to previous half.
 # get asain odds from pages.
