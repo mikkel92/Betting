@@ -30,7 +30,7 @@ def get_live_urls():
 
 		if match_time == 'HL': # get stats for a match where it is currently half time
 			live_urls.append("https://www.sofascore.com" + str(i_c[0:300].split('href="')[-1].split('" data')[0][3:]))
-		
+			
 		try:
 			match_time = float(match_time)
 
@@ -43,9 +43,10 @@ def get_live_urls():
 	return live_urls
 
 def rearange_livedata(data_frame):
-
+	
 	data_frame = pd.DataFrame(data_frame)
 	data_frame = data_frame[data_frame[0] != 'provider']
+	data_frame = data_frame
 	data_frame = data_frame.sort_values(by=[0])
 	data_frame.columns = ['variable','value']
 	data_frame = data_frame.set_index('variable')
@@ -59,7 +60,7 @@ def rearange_livedata(data_frame):
 	return home_data, away_data
 
 	
-def estimate_betting_value(live_urls):	
+def estimate_betting_value(live_urls,debug=False):	
 
 	
 		
@@ -76,6 +77,8 @@ def estimate_betting_value(live_urls):
 		print('\ngetting match with link : %s' %i_match)
 
 		try:
+			if debug: print "getting live page code string"
+
 			driver.get(i_match)
 			driver.page_source
 			time.sleep(5) # sleep to make sure the page is loaded before executing java
@@ -83,12 +86,14 @@ def estimate_betting_value(live_urls):
 			live_html = driver.execute_script("return document.documentElement.innerHTML;")
 			live_code_string = unicodedata.normalize('NFKD', live_html).encode('ascii','ignore')
 			
+			match_time = live_code_string.split('header-timer-container live ">')[-1][0:5]
+
 			# Get current score from source code
 			current_score_home = int(live_code_string.split('h1 event-live')[-1][81])
 			current_score_away = int(live_code_string.split('h1 event-live')[-1][195])
+
 			
-			
-			# get 
+			if debug: print "getting link to jason file"
 			json_link = ("https://www.sofascore.com" + str(live_code_string.split('js-event-details-async-content" data-src="')[1].split('"')[0]))
 			# NEEDS FIX, not a general link (Or maybe it is) #
 
@@ -98,7 +103,7 @@ def estimate_betting_value(live_urls):
 			json_file = r.json()
 			
 			
-			
+			if debug: print "getting data for odds"
 			data = [i.split('[')[0] for i in json_file['statistics'].keys()]
 			for i in json_file['odds']:
 				if i['name'] == 'Next goal':
@@ -109,10 +114,10 @@ def estimate_betting_value(live_urls):
 							odds.append(k['decimalValue'])
 			
 			if len(odds) == 0:
-				print('could not get data from this match')
+				print('could not get odds from this match')
 				continue
 			
-		except:
+		except Exception, e:
 
 			no_stats_matches += 1
 			print('could not get data from this match')
@@ -143,8 +148,13 @@ def estimate_betting_value(live_urls):
 
 		home_data, away_data = rearange_livedata(data_frame)
 		home_data_H1, away_data_H1 = rearange_livedata(data_first_half)
-		home_data_H2, away_data_H2 = rearange_livedata(data_second_half)
-
+		try:
+			if float(match_time[0:2]) > 50.:
+				second_half = True
+				home_data_H2, away_data_H2 = rearange_livedata(data_second_half)
+		except:
+			if match_time == 'Pause' and abs(current_score_home - current_score_away) > 2:
+				print "One team is far ahead, loosing team might score after HT"
 
 		# set up selection rules for decent bets
 
@@ -160,6 +170,11 @@ def estimate_betting_value(live_urls):
 
 		home_score = 0
 		away_score = 0
+		if second_half:
+			home_score_H1 = 0
+			away_score_H1 = 0
+			home_score_H2 = 0
+			away_score_H2 = 0
 
 		variable_warning_str = 'WARNING, no data for variables: \n'
 
@@ -168,7 +183,13 @@ def estimate_betting_value(live_urls):
 			try:
 				home_score += home_data['value'][variables_to_use[i_v]] * variable_weight[i_v]
 				away_score += away_data['value'][variables_to_use[i_v]] * variable_weight[i_v]
-			
+
+				if second_half:
+					home_score_H1 += home_data_H1['value'][variables_to_use[i_v]] * variable_weight[i_v]
+					away_score_H1 += away_data_H1['value'][variables_to_use[i_v]] * variable_weight[i_v]
+					home_score_H2 += home_data_H2['value'][variables_to_use[i_v]] * variable_weight[i_v]
+					away_score_H2 += away_data_H2['value'][variables_to_use[i_v]] * variable_weight[i_v]
+
 			except:
 				variable_warning_str += variables_to_use[i_v] + ' , '
 				continue
