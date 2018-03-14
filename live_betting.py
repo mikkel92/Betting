@@ -22,6 +22,7 @@ def get_live_urls():
 	html = driver.execute_script("return document.documentElement.innerHTML;")
 
 	code_string = unicodedata.normalize('NFKD', html).encode('ascii','ignore')
+	has_statistics = code_string.split('tab-event-widget-statistics')[0][-100:]
 	live_urls = []
 
 	# get the urls for the live matches that you want. Below are some selection criteria
@@ -46,7 +47,6 @@ def rearange_livedata(data_frame):
 	
 	data_frame = pd.DataFrame(data_frame)
 	data_frame = data_frame[data_frame[0] != 'provider']
-	data_frame = data_frame
 	data_frame = data_frame.sort_values(by=[0])
 	data_frame.columns = ['variable','value']
 	data_frame = data_frame.set_index('variable')
@@ -69,6 +69,8 @@ def estimate_betting_value(live_urls,debug=False):
 
 	for i_match in live_urls:
 
+		second_half = False
+
 		if no_stats_matches > 2:
 			print('3 matches in a row without statistics. STOPPING SCRIPT')
 			break
@@ -81,17 +83,22 @@ def estimate_betting_value(live_urls,debug=False):
 
 			driver.get(i_match)
 			driver.page_source
+			
 			time.sleep(5) # sleep to make sure the page is loaded before executing java
 			# This will get the html after on-load javascript
 			live_html = driver.execute_script("return document.documentElement.innerHTML;")
 			live_code_string = unicodedata.normalize('NFKD', live_html).encode('ascii','ignore')
 			
 			match_time = live_code_string.split('header-timer-container live ">')[-1][0:5]
-
-			# Get current score from source code
-			current_score_home = int(live_code_string.split('h1 event-live')[-1][81])
-			current_score_away = int(live_code_string.split('h1 event-live')[-1][195])
-
+			 
+			# Get current score from source code 
+			#TODO: doesn't work every time, fix
+			try:
+				current_score_home = int(live_code_string.split('h1 event-live')[-1][81])
+				current_score_away = int(live_code_string.split('h1 event-live')[-1][195])
+				print('current score: %i - %i' %(current_score_home, current_score_away))
+			except:
+				print "couldn't load current score"
 			
 			if debug: print "getting link to jason file"
 			json_link = ("https://www.sofascore.com" + str(live_code_string.split('js-event-details-async-content" data-src="')[1].split('"')[0]))
@@ -147,10 +154,11 @@ def estimate_betting_value(live_urls,debug=False):
 			else: continue
 
 		home_data, away_data = rearange_livedata(data_frame)
-		home_data_H1, away_data_H1 = rearange_livedata(data_first_half)
+		
 		try:
-			if float(match_time[0:2]) > 50.:
+			if float(match_time[0:2]) > 55.:
 				second_half = True
+				home_data_H1, away_data_H1 = rearange_livedata(data_first_half)
 				home_data_H2, away_data_H2 = rearange_livedata(data_second_half)
 		except:
 			if match_time == 'Pause' and abs(current_score_home - current_score_away) > 2:
@@ -178,6 +186,7 @@ def estimate_betting_value(live_urls,debug=False):
 
 		variable_warning_str = 'WARNING, no data for variables: \n'
 
+		exceptions = 0
 		for i_v in range(0,len(variables_to_use)):
 
 			try:
@@ -192,7 +201,23 @@ def estimate_betting_value(live_urls,debug=False):
 
 			except:
 				variable_warning_str += variables_to_use[i_v] + ' , '
+				exceptions += 1
 				continue
+
+		if exceptions > 4:
+			continue		
+
+		if second_half:
+			try:
+				score_H1 = (home_score_H1 / away_score_H1)
+				score_H2 = (home_score_H2 / away_score_H2)
+				compare_half =  score_H1 / score_H2
+				if compare_half < 1:
+					print "away team is doing %1.2f times better than in first half" %(1. / compare_half) 
+				else: 	
+					print "home team is doing %1.2f times better than in first half" %(compare_half)
+			except: 
+				a = 1
 
 		combined_score = home_score + away_score
 		asian_correction = 0.93
@@ -204,10 +229,9 @@ def estimate_betting_value(live_urls,debug=False):
 		#print(home_score, combined_odds / odds_away)
 		#print(away_score, combined_odds / odds_home)
 
-		significance = 1.0 # decide how much better the team has to perform, relative to odds
+		significance = 1.2 # decide how much better the team has to perform, relative to odds
 
 		if (combined_odds / odds_away) * home_score / combined_score > significance :
-			print('current score: %i - %i' %(current_score_home, current_score_away))
 			print("interesting odds on home team next goal")
 			print("approx odds: %1.2f,  home team score: %1.2f pecent,  bet value: %1.2f " %((combined_odds / odds_away),(home_score/combined_score) * 100., (combined_odds / odds_away) * (home_score/combined_score) ))
 			print(variable_warning_str)
@@ -218,8 +242,7 @@ def estimate_betting_value(live_urls,debug=False):
 			except:
 				a = 1
 
-		if (combined_odds / odds_home) * away_score / combined_score > significance : 
-			print('current score: %i - %i' %(current_score_home, current_score_away))	
+		if (combined_odds / odds_home) * away_score / combined_score > significance : 	
 			print("interesting odds on away team next goal" )
 			print("approx odds: %1.2f,  away team score: %1.2f percent,  bet value: %1.2f " %((combined_odds / odds_home),(away_score/combined_score) * 100., (combined_odds / odds_home) * (away_score/combined_score) ))
 			print(variable_warning_str)
