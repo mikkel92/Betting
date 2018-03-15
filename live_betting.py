@@ -27,6 +27,7 @@ def get_live_urls():
 
 	# get the urls for the live matches that you want. Below are some selection criteria
 	for i_c in code_string.split('js-event-link js-event'):
+
 		match_time = i_c.split('event-live" title="')[-1][0:2]
 
 		if match_time == 'HL': # get stats for a match where it is currently half time
@@ -96,6 +97,7 @@ def estimate_betting_value(live_urls,debug=False):
 			try:
 				current_score_home = int(live_code_string.split('h1 event-live')[-1][81])
 				current_score_away = int(live_code_string.split('h1 event-live')[-1][195])
+				
 				print('current score: %i - %i' %(current_score_home, current_score_away))
 			except:
 				print "couldn't load current score"
@@ -209,13 +211,13 @@ def estimate_betting_value(live_urls,debug=False):
 
 		if second_half:
 			try:
-				score_H1 = (home_score_H1 / away_score_H1)
-				score_H2 = (home_score_H2 / away_score_H2)
-				compare_half =  score_H1 / score_H2
-				if compare_half < 1:
-					print "away team is doing %1.2f times better than in first half" %(1. / compare_half) 
+				score_H1 = (home_score_H1 - away_score_H1)
+				score_H2 = (home_score_H2 - away_score_H2)
+				compare_half =  score_H1 - score_H2
+				if compare_half < 0:
+					print "away team is doing %1.2f percent better than in first half" %(abs(compare_half)) 
 				else: 	
-					print "home team is doing %1.2f times better than in first half" %(compare_half)
+					print "home team is doing %1.2f percent better than in first half" %(abs(compare_half))
 			except: 
 				a = 1
 
