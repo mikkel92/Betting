@@ -5,7 +5,10 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import unicodedata
+import json
 from selenium import webdriver
+from datetime import datetime
+import os
 
 def get_live_urls():
 
@@ -64,20 +67,31 @@ def rearange_livedata(data_frame):
 def estimate_betting_value(live_urls,debug=False):	
 
 	
-		
+	print "\n \n \n"
+	
+	current_month = str(datetime.now().month)
+	current_year = str(datetime.now().year)
+
+	directory = "/Users/mjensen/Desktop/Universitet/Adaboost/live_data/" + current_year + "/" + current_month
+
+	if not os.path.exists(directory):
+   		os.makedirs(directory)
+	
 	no_stats_matches = 0 # counter for matches without statistics
 	driver = webdriver.PhantomJS()
 
 	for i_match in live_urls:
-
+		current_datetime = str(datetime.now())[11:19]
+		print_data = False
 		second_half = False
 
-		if no_stats_matches > 2:
-			print('3 matches in a row without statistics. STOPPING SCRIPT')
+		if no_stats_matches > 4:
+			print('5 matches in a row without statistics. STOPPING SCRIPT')
 			break
 
-		print('---------------------')
-		print('\ngetting match with link : %s' %i_match)
+		# ----------------------------------------------------------- #
+		# Try to load the data
+		# ----------------------------------------------------------- #
 
 		try:
 			if debug: print "getting live page code string"
@@ -98,7 +112,7 @@ def estimate_betting_value(live_urls,debug=False):
 				current_score_home = int(live_code_string.split('h1 event-live')[-1][81])
 				current_score_away = int(live_code_string.split('h1 event-live')[-1][195])
 				
-				print('current score: %i - %i' %(current_score_home, current_score_away))
+				
 			except:
 				print "couldn't load current score"
 			
@@ -129,9 +143,20 @@ def estimate_betting_value(live_urls,debug=False):
 		except Exception, e:
 
 			no_stats_matches += 1
-			print('could not get data from this match')
 			continue
+
+		file_name = directory + "/" + str(datetime.now().day) + "_" + current_datetime + "_" + i_match[26:-8] + ".txt"
+
+		with open(file_name, 'w') as outfile:
+			json.dump(json_file, outfile)
+		 
 		
+
+		# ----------------------------------------------------------- #
+		# Try to load the data
+		# ----------------------------------------------------------- #
+
+
 		no_stats_matches = 0
 
 		data_frame = []
@@ -163,9 +188,11 @@ def estimate_betting_value(live_urls,debug=False):
 				home_data_H1, away_data_H1 = rearange_livedata(data_first_half)
 				home_data_H2, away_data_H2 = rearange_livedata(data_second_half)
 		except:
-			if match_time == 'Pause' and abs(current_score_home - current_score_away) > 2:
-				print "One team is far ahead, loosing team might score after HT"
-
+			try:
+				if match_time == 'Pause' and abs(current_score_home - current_score_away) > 2:
+					print "One team is far ahead, loosing team might score after HT"
+			except:
+				a=1
 		# set up selection rules for decent bets
 
 		variables_to_use = ('HitWoodwork','ShotsOnGoal', 'AttInBoxBlocked', 'BlockedScoringAttempt',
@@ -211,32 +238,39 @@ def estimate_betting_value(live_urls,debug=False):
 
 		if second_half:
 			try:
-				score_H1 = (home_score_H1 - away_score_H1)
-				score_H2 = (home_score_H2 - away_score_H2)
+				score_H1 = (home_score_H1 / (home_score_H1 + away_score_H1))
+				score_H2 = (home_score_H2 / (home_score_H2 + away_score_H2))
 				compare_half =  score_H1 - score_H2
-				if compare_half < 0:
+				print score_H1, score_H2, compare_half
+				if compare_half > 0:
 					print "away team is doing %1.2f percent better than in first half" %(abs(compare_half)) 
 				else: 	
 					print "home team is doing %1.2f percent better than in first half" %(abs(compare_half))
+
+				if abs(compare_half) > 0.15:
+					print i_match[26:-8]
 			except: 
 				a = 1
 
 		combined_score = home_score + away_score
 		asian_correction = 0.93
-
-		odds_home = float(odds[0]) * asian_correction
-		odds_away = float(odds[2]) * asian_correction
+		try:
+			odds_home = float(odds[0]) * asian_correction
+			odds_away = float(odds[2]) * asian_correction
+		except:
+			print('could not get odds from this match')
+			continue
 		# estimate asian from odds on next goal
 		combined_odds = odds_home + odds_away
 		#print(home_score, combined_odds / odds_away)
 		#print(away_score, combined_odds / odds_home)
 
-		significance = 1.2 # decide how much better the team has to perform, relative to odds
+		significance = 1.3 # decide how much better the team has to perform, relative to odds
 
 		if (combined_odds / odds_away) * home_score / combined_score > significance :
+			print_data = True
 			print("interesting odds on home team next goal")
 			print("approx odds: %1.2f,  home team score: %1.2f pecent,  bet value: %1.2f " %((combined_odds / odds_away),(home_score/combined_score) * 100., (combined_odds / odds_away) * (home_score/combined_score) ))
-			print(variable_warning_str)
 
 			try:
 				if float(home_data['value']['RedCards']) > 0:
@@ -244,16 +278,28 @@ def estimate_betting_value(live_urls,debug=False):
 			except:
 				a = 1
 
-		if (combined_odds / odds_home) * away_score / combined_score > significance : 	
+		if (combined_odds / odds_home) * away_score / combined_score > significance : 
+			print_data = True
 			print("interesting odds on away team next goal" )
 			print("approx odds: %1.2f,  away team score: %1.2f percent,  bet value: %1.2f " %((combined_odds / odds_home),(away_score/combined_score) * 100., (combined_odds / odds_home) * (away_score/combined_score) ))
-			print(variable_warning_str)
 			
 			try :
 				if float(away_data['value']['RedCards']) > 0:
 					print('WARNING: away team has %i red cards' %int(away_data['value']['RedCards']))
 			except:
 				a = 1
+
+		if print_data:
+			
+			print('\ngetting match with link : %s' %i_match)
+			print match_time	
+			print(variable_warning_str)
+			try: 
+				print('current score: %i - %i' %(current_score_home, current_score_away))
+			except:
+				a = 1
+			print('---------------------')
+
 		"""
 		# plotting
 		ticks = [unicodedata.normalize('NFKD', i).encode('ascii','ignore') for i in data_frame['value']]
