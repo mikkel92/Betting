@@ -1,21 +1,16 @@
 
-import requests
 import time
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-import unicodedata
 import os, re
 import selenium
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchAttributeException
 from selenium.webdriver.common.keys import Keys
 import urllib, json
-import mechanize
 import pyautogui
-from bs4 import BeautifulSoup
-import spynner
-
+from datetime import datetime
 
 
 def get_live_urls():
@@ -33,17 +28,23 @@ def get_live_urls():
 	time.sleep(2)
 
 	# Click on the tab to web scrape
-	se_begivenhed_button = browser.find_elements_by_class_name("ip-ControlBar_BBarItem ")
+	se_begivenhed_button = browser.find_elements_by_class_name("ip-ControlBar_BBarItem")
 	se_begivenhed_button[1].click()
 	time.sleep(2)
 	
+	# Click on every live event in the live betting tab
 	event_buttons = browser.find_elements_by_class_name("ipn-FixtureButton")
-
-	 
 	for button in event_buttons:
+		
+		start_time = datetime.now()
 		button.click()
+		event_data = browser.find_elements_by_class_name("ipe-EventViewDetail_MarketGrid")
+		print event_data[0]
+		match_data = event_data[0].text
+		print match_data
 		time.sleep(np.random.rand()*0.5 +.2)
-
+		break
+	
 	source = browser.page_source
 	#print source
 	browser.close()
