@@ -31,20 +31,26 @@ def get_live_urls():
 	se_begivenhed_button = browser.find_elements_by_class_name("ip-ControlBar_BBarItem")
 	se_begivenhed_button[1].click()
 	time.sleep(2)
+
+	
 	
 	# Click on every live event in the live betting tab
 	event_buttons = browser.find_elements_by_class_name("ipn-FixtureButton")
+	page_fails = ([len(event_buttons),0])
 	for button in event_buttons:
 		
-		start_time = datetime.now()
-		button.click()
-		event_data = browser.find_elements_by_class_name("ipe-EventViewDetail_MarketGrid")
-		print event_data[0]
-		match_data = event_data[0].text
-		print match_data
-		time.sleep(np.random.rand()*0.5 +.2)
-		break
+		try:
+			start_time = datetime.now()
+			button.click()
+			event_data = browser.find_elements_by_class_name("ipe-EventViewDetail_MarketGrid")
+			match_data = event_data[0].text
+			time.sleep(np.random.rand()*0.5 +.2)
+		
+		except:
+			page_fails[1] += 1
+			continue
 	
+	print page_fails
 	source = browser.page_source
 	#print source
 	browser.close()
